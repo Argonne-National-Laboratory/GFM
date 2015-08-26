@@ -1,0 +1,29 @@
+!Relaxation factors for equation loops
+0.4d0 ! default value
+0.4d0 ! u momentum in x direction   (check RunPlot for "x-momentum" in gresid####m.plt file)
+0.4d0 ! v momentum in y direction   (check RunPlot for "y-momentum" in gresid####m.plt file) 
+0.4d0 ! w momentum in z direction   (check RunPlot for "z-momentum" in gresid####m.plt file) 
+0.4d0 ! enthalpy                    (check RunPlot for "Enthalpy" in gresid####m.plt file)
+1.0d0 ! electric potential energy
+0.5d0 ! melt rate
+!Relaxation factors for certain variables
+0.3d0 ! default value
+0.3d0 ! u momentum in x direction (pressure correction)  
+0.3d0 ! v momentum in y direction (pressure correction)  
+0.3d0 ! w momentum in z direction (pressure correction)  
+0.0d0 ! batch-glass heat transfer
+0.0d0 ! bubble-glass heat transfer
+0.3d0 ! particle number density
+0.3d0 ! particle temperature
+0.3d0 ! density
+0.3d0 ! melt rate
+0.2d0 ! relaxation factor for surface temperature 
+!Number of sweeps in equation solver for glass
+2 !  default value 
+2 !  u momentum in x direction   (check RunPlot for "x-momentum" in gresid####m.plt file)
+2 !  v momentum in y direction   (check RunPlot for "y-momentum" in gresid####m.plt file)
+2 !  w momentum in z direction   (check RunPlot for "x-momentum" in gresid####m.plt file)
+2 !  pressure                    (check RunPlot for "Pressure" in gresid####m.plt file)
+4 !  pressure correction        
+2 !  enthalpy                    (check RunPlot for "Enthalpy" in gresid####m.plt file)
+2 !  electric potential energy

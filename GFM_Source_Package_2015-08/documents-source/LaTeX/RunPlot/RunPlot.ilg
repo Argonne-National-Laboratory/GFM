@@ -1,0 +1,12 @@
+This is C:\MiKTeX\MiKTeX\bin\makeindex.exe, version 2.14 [02-Oct-2002] (with Thai support).
+Scanning style file C:\MiKTeX\makeindex\nomencl\nomencl.ist.......
+** Input style error (file = C:\MiKTeX\makeindex\nomencl\nomencl.ist, line = 65):
+   -- Unknown specifier lethead_prefix.
+** Input style error (file = C:\MiKTeX\makeindex\nomencl\nomencl.ist, line = 66):
+   -- Unknown specifier lethead_suffix.
+** Input style error (file = C:\MiKTeX\makeindex\nomencl\nomencl.ist, line = 67):
+   -- Unknown specifier lethead_flag.
+...done (10 attributes redefined, 3 ignored).
+Scanning input file C:\_GFM_info\Documentation\RunPlot-TeX\RunPlot.glo...done (0 entries accepted, 0 rejected).
+Nothing written in C:\_GFM_info\Documentation\RunPlot-TeX\RunPlot.gls.
+Transcript written in C:\_GFM_info\Documentation\RunPlot-TeX\RunPlot.ilg.

@@ -1,0 +1,1319 @@
+# Case 0056 Summary Data for Simulation and Evolving Global Energy Distribution
+
+#   Number of cells in melt grid:       2780
+#   Melt surface area:                  0.21000000000000E+02 m^2
+
+#   Estimated wall loss at T_exit:      0.56094396111112E+05 W
+#   Mean Surface Heat Flux:             0.47619047619048E+05 W/m^2
+
+#   In-Flows:
+
+#   Batch:                              0.46296290446212E+00 kg/s
+
+#   Heat Inputs and Requirements:
+
+#   Radiation:                          0.10000000000000E+07 W
+#   Electric Boost:                     0.00000000000000E+00 W
+#   Total Energy In:                    0.10000000000000E+07 W
+
+#   Batch heatup:                       0.50483368635668E+06 W
+#   Batch melt:                         0.34722217834659E+06 W
+#   Batch q needed:                     0.85205586470327E+06 W
+
+#   Liquid heatup need:                 0.16433877315598E+06 W
+#   Adiabatic energy need:              0.10163946378592E+07 W
+
+
+
+# #################   Run End   #################
+
+
+#  Heat Values at Run End (Scaled):
+
+#   Radiation+Conv In:                  0.10692474253580E+07 W
+#   Electric Boost:                     0.00000000000000E+00 W
+#   Total Energy In:                    0.10692474253580E+07 W
+
+#   Batch heatup need:                  0.50483368635668E+06 W
+#   Batch melt need:                    0.34722217834659E+06 W
+#   Radiation to Batch:                 0.63555154288363E+06 W
+#   Conduction to Batch:                0.22114511440778E+06 W
+#   Batch q needed:                     0.85205586470327E+06 W
+#   Batch q net:                        0.85669665729141E+06 W
+
+#   Liquid heatup need:                 0.16433877315598E+06 W
+#   Liquid q net:                       0.15969675914941E+06 W
+#   Adiabatic energy need:              0.10163946378592E+07 W
+#   Wall heat loss:                     0.52852787498785E+05 W
+#   Net melt input energy need:         0.10692474253580E+07 W
+#   Actual melt input energy:           0.10692474253580E+07 W
+
+#   Energy need divided by input:       0.10000000000000E+01
+#   Scaling factor:                     0.10692474253580E+01
+
+#   Mean glass exit temperature:        0.14942934328512E+04 K
+#   Batch rate in:                      0.46296290446212E+00 kg/s
+#   Melt rate:                          0.46296560061044E+00 kg/s
+#   Glass rate out:                     0.46254417726113E+00 kg/s
+
+#   Cycle count:                       1
+#   Estimated wall loss at T_exit:      0.52852787498785E+05 W
+
+
+
+# #################   Run End   #################
+
+
+#  Heat Values at Run End (Scaled):
+
+#   Radiation+Conv In:                  0.10784408869547E+07 W
+#   Electric Boost:                     0.00000000000000E+00 W
+#   Total Energy In:                    0.10784408869547E+07 W
+
+#   Batch heatup need:                  0.50483368635668E+06 W
+#   Batch melt need:                    0.34722217834659E+06 W
+#   Radiation to Batch:                 0.67897274177243E+06 W
+#   Conduction to Batch:                0.18002945148999E+06 W
+#   Batch q needed:                     0.85205586470327E+06 W
+#   Batch q net:                        0.85900219326241E+06 W
+
+#   Liquid heatup need:                 0.16433877315598E+06 W
+#   Liquid q net:                       0.16629513814958E+06 W
+#   Adiabatic energy need:              0.10163946378592E+07 W
+#   Wall heat loss:                     0.53142243594491E+05 W
+#   Net melt input energy need:         0.10695368814537E+07 W
+#   Actual melt input energy:           0.10784408869547E+07 W
+
+#   Energy need divided by input:       0.99174363137682E+00
+#   Scaling factor:                    -0.15102504813371E+03
+
+#   Mean glass exit temperature:        0.14941523493774E+04 K
+#   Batch rate in:                      0.46296290446212E+00 kg/s
+#   Melt rate:                          0.46296650155187E+00 kg/s
+#   Glass rate out:                     0.46231990074777E+00 kg/s
+
+#   Cycle count:                       1
+#   Estimated wall loss at T_exit:      0.53142243594491E+05 W
+
+
+
+# #################   Run End   #################
+
+
+#  Heat Values at Run End (Scaled):
+
+#   Radiation+Conv In:                  0.10840779403807E+07 W
+#   Electric Boost:                     0.00000000000000E+00 W
+#   Total Energy In:                    0.10840779403807E+07 W
+
+#   Batch heatup need:                  0.50483368635668E+06 W
+#   Batch melt need:                    0.34722217834659E+06 W
+#   Radiation to Batch:                 0.69331902171885E+06 W
+#   Conduction to Batch:                0.16822158735503E+06 W
+#   Batch q needed:                     0.85205586470327E+06 W
+#   Batch q net:                        0.86154060907388E+06 W
+
+#   Liquid heatup need:                 0.16433877315598E+06 W
+#   Liquid q net:                       0.16899019445536E+06 W
+#   Adiabatic energy need:              0.10163946378592E+07 W
+#   Wall heat loss:                     0.53546269760470E+05 W
+#   Net melt input energy need:         0.10699409076197E+07 W
+#   Actual melt input energy:           0.10840779403807E+07 W
+
+#   Energy need divided by input:       0.98695939449153E+00
+#   Scaling factor:                     0.16295010112826E+03
+
+#   Mean glass exit temperature:        0.15029666078789E+04 K
+#   Batch rate in:                      0.46296290446212E+00 kg/s
+#   Melt rate:                          0.46296655190387E+00 kg/s
+#   Glass rate out:                     0.46251931766627E+00 kg/s
+
+#   Cycle count:                       2
+#   Estimated wall loss at T_exit:      0.53546269760470E+05 W
+
+
+
+# #################   Run End   #################
+
+
+#  Heat Values at Run End (Scaled):
+
+#   Radiation+Conv In:                  0.10855900978234E+07 W
+#   Electric Boost:                     0.00000000000000E+00 W
+#   Total Energy In:                    0.10855900978234E+07 W
+
+#   Batch heatup need:                  0.50483368635668E+06 W
+#   Batch melt need:                    0.34722217834659E+06 W
+#   Radiation to Batch:                 0.69977368512220E+06 W
+#   Conduction to Batch:                0.16266643376142E+06 W
+#   Batch q needed:                     0.85205586470327E+06 W
+#   Batch q net:                        0.86244011888362E+06 W
+
+#   Liquid heatup need:                 0.16433877315598E+06 W
+#   Liquid q net:                       0.16929922423589E+06 W
+#   Adiabatic energy need:              0.10163946378592E+07 W
+#   Wall heat loss:                     0.53850003004531E+05 W
+#   Net melt input energy need:         0.10702446408638E+07 W
+#   Actual melt input energy:           0.10855900978234E+07 W
+
+#   Energy need divided by input:       0.98586440960504E+00
+#   Scaling factor:                     0.31667702727967E+02
+
+#   Mean glass exit temperature:        0.15094395244836E+04 K
+#   Batch rate in:                      0.46296290446212E+00 kg/s
+#   Melt rate:                          0.46296485680295E+00 kg/s
+#   Glass rate out:                     0.46263101114550E+00 kg/s
+
+#   Cycle count:                       3
+#   Estimated wall loss at T_exit:      0.53850003004531E+05 W
+
+
+
+# #################   Run End   #################
+
+
+#  Heat Values at Run End (Scaled):
+
+#   Radiation+Conv In:                  0.10858627014623E+07 W
+#   Electric Boost:                     0.00000000000000E+00 W
+#   Total Energy In:                    0.10858627014623E+07 W
+
+#   Batch heatup need:                  0.50483368635668E+06 W
+#   Batch melt need:                    0.34722217834659E+06 W
+#   Radiation to Batch:                 0.70460036291205E+06 W
+#   Conduction to Batch:                0.15932745352596E+06 W
+#   Batch q needed:                     0.85205586470327E+06 W
+#   Batch q net:                        0.86392781643800E+06 W
+
+#   Liquid heatup need:                 0.16433877315598E+06 W
+#   Liquid q net:                       0.16786936673274E+06 W
+#   Adiabatic energy need:              0.10163946378592E+07 W
+#   Wall heat loss:                     0.54064924221213E+05 W
+#   Net melt input energy need:         0.10704595620805E+07 W
+#   Actual melt input energy:           0.10858627014623E+07 W
+
+#   Energy need divided by input:       0.98581483703133E+00
+#   Scaling factor:                     0.17372012738441E+02
+
+#   Mean glass exit temperature:        0.15149001192556E+04 K
+#   Batch rate in:                      0.46296290446212E+00 kg/s
+#   Melt rate:                          0.46296462032924E+00 kg/s
+#   Glass rate out:                     0.46264963127778E+00 kg/s
+
+#   Cycle count:                       4
+#   Estimated wall loss at T_exit:      0.54064924221213E+05 W
+
+
+
+# #################   Run End   #################
+
+
+#  Heat Values at Run End (Scaled):
+
+#   Radiation+Conv In:                  0.10849235080291E+07 W
+#   Electric Boost:                     0.00000000000000E+00 W
+#   Total Energy In:                    0.10849235080291E+07 W
+
+#   Batch heatup need:                  0.50483368635668E+06 W
+#   Batch melt need:                    0.34722217834659E+06 W
+#   Radiation to Batch:                 0.70692033260424E+06 W
+#   Conduction to Batch:                0.15708779794427E+06 W
+#   Batch q needed:                     0.85205586470327E+06 W
+#   Batch q net:                        0.86400813054850E+06 W
+
+#   Liquid heatup need:                 0.16433877315598E+06 W
+#   Liquid q net:                       0.16668553591476E+06 W
+#   Adiabatic energy need:              0.10163946378592E+07 W
+#   Wall heat loss:                     0.54229369292993E+05 W
+#   Net melt input energy need:         0.10706240071522E+07 W
+#   Actual melt input energy:           0.10849235080291E+07 W
+
+#   Energy need divided by input:       0.98681980732187E+00
+#   Scaling factor:                     0.12193208215452E+02
+
+#   Mean glass exit temperature:        0.15192127664091E+04 K
+#   Batch rate in:                      0.46296290446212E+00 kg/s
+#   Melt rate:                          0.46296392712978E+00 kg/s
+#   Glass rate out:                     0.46272980515132E+00 kg/s
+
+#   Cycle count:                       5
+#   Estimated wall loss at T_exit:      0.54229369292993E+05 W
+
+
+
+# #################   Run End   #################
+
+
+#  Heat Values at Run End (Scaled):
+
+#   Radiation+Conv In:                  0.10831875009713E+07 W
+#   Electric Boost:                     0.00000000000000E+00 W
+#   Total Energy In:                    0.10831875009713E+07 W
+
+#   Batch heatup need:                  0.50483368635668E+06 W
+#   Batch melt need:                    0.34722217834659E+06 W
+#   Radiation to Batch:                 0.70966852107108E+06 W
+#   Conduction to Batch:                0.15579748839791E+06 W
+#   Batch q needed:                     0.85205586470327E+06 W
+#   Batch q net:                        0.86546600946900E+06 W
+
+#   Liquid heatup need:                 0.16433877315598E+06 W
+#   Liquid q net:                       0.16336376502286E+06 W
+#   Adiabatic energy need:              0.10163946378592E+07 W
+#   Wall heat loss:                     0.54357398100311E+05 W
+#   Net melt input energy need:         0.10707520359596E+07 W
+#   Actual melt input energy:           0.10831875009713E+07 W
+
+#   Energy need divided by input:       0.98851956378690E+00
+#   Scaling factor:                     0.95969365787611E+01
+
+#   Mean glass exit temperature:        0.15228187403376E+04 K
+#   Batch rate in:                      0.46296290446212E+00 kg/s
+#   Melt rate:                          0.46278739455294E+00 kg/s
+#   Glass rate out:                     0.46263591434223E+00 kg/s
+
+#   Cycle count:                       6
+#   Estimated wall loss at T_exit:      0.54357398100311E+05 W
+
+
+
+# #################   Run End   #################
+
+
+#  Heat Values at Run End (Scaled):
+
+#   Radiation+Conv In:                  0.10810634459740E+07 W
+#   Electric Boost:                     0.00000000000000E+00 W
+#   Total Energy In:                    0.10810634459740E+07 W
+
+#   Batch heatup need:                  0.50483368635668E+06 W
+#   Batch melt need:                    0.34722217834659E+06 W
+#   Radiation to Batch:                 0.71140503568082E+06 W
+#   Conduction to Batch:                0.15380209018042E+06 W
+#   Batch q needed:                     0.85205586470327E+06 W
+#   Batch q net:                        0.86520712586123E+06 W
+
+#   Liquid heatup need:                 0.16433877315598E+06 W
+#   Liquid q net:                       0.16141022093876E+06 W
+#   Adiabatic energy need:              0.10163946378592E+07 W
+#   Wall heat loss:                     0.54445842341246E+05 W
+#   Net melt input energy need:         0.10708404802005E+07 W
+#   Actual melt input energy:           0.10810634459740E+07 W
+
+#   Energy need divided by input:       0.99054360240229E+00
+#   Scaling factor:                     0.80612337483025E+01
+
+#   Mean glass exit temperature:        0.15249901520908E+04 K
+#   Batch rate in:                      0.46296290446212E+00 kg/s
+#   Melt rate:                          0.46270082905163E+00 kg/s
+#   Glass rate out:                     0.46258112825434E+00 kg/s
+
+#   Cycle count:                       7
+#   Estimated wall loss at T_exit:      0.54445842341246E+05 W
+
+
+
+# #################   Run End   #################
+
+
+#  Heat Values at Run End (Scaled):
+
+#   Radiation+Conv In:                  0.10788382311278E+07 W
+#   Electric Boost:                     0.00000000000000E+00 W
+#   Total Energy In:                    0.10788382311278E+07 W
+
+#   Batch heatup need:                  0.50483368635668E+06 W
+#   Batch melt need:                    0.34722217834659E+06 W
+#   Radiation to Batch:                 0.71333449831953E+06 W
+#   Conduction to Batch:                0.15224102447176E+06 W
+#   Batch q needed:                     0.85205586470327E+06 W
+#   Batch q net:                        0.86557552279129E+06 W
+
+#   Liquid heatup need:                 0.16433877315598E+06 W
+#   Liquid q net:                       0.15875080161416E+06 W
+#   Adiabatic energy need:              0.10163946378592E+07 W
+#   Wall heat loss:                     0.54511725575916E+05 W
+#   Net melt input energy need:         0.10709063634352E+07 W
+#   Actual melt input energy:           0.10788382311278E+07 W
+
+#   Energy need divided by input:       0.99264776918005E+00
+#   Scaling factor:                     0.70486294759506E+01
+
+#   Mean glass exit temperature:        0.15265400947551E+04 K
+#   Batch rate in:                      0.46296290446212E+00 kg/s
+#   Melt rate:                          0.46240810048405E+00 kg/s
+#   Glass rate out:                     0.46231473590394E+00 kg/s
+
+#   Cycle count:                       8
+#   Estimated wall loss at T_exit:      0.54511725575916E+05 W
+
+
+
+# #################   Run End   #################
+
+
+#  Heat Values at Run End (Scaled):
+
+#   Radiation+Conv In:                  0.10796288037228E+07 W
+#   Electric Boost:                     0.00000000000000E+00 W
+#   Total Energy In:                    0.10796288037228E+07 W
+
+#   Batch heatup need:                  0.50483368635668E+06 W
+#   Batch melt need:                    0.34722217834659E+06 W
+#   Radiation to Batch:                 0.71568819621749E+06 W
+#   Conduction to Batch:                0.15073523022771E+06 W
+#   Batch q needed:                     0.85205586470327E+06 W
+#   Batch q net:                        0.86642342644520E+06 W
+
+#   Liquid heatup need:                 0.16433877315598E+06 W
+#   Liquid q net:                       0.15864174797984E+06 W
+#   Adiabatic energy need:              0.10163946378592E+07 W
+#   Wall heat loss:                     0.54563461841902E+05 W
+#   Net melt input energy need:         0.10709580997011E+07 W
+#   Actual melt input energy:           0.10796288037228E+07 W
+
+#   Energy need divided by input:       0.99196881002825E+00
+#   Scaling factor:                     0.63099310060560E+01
+
+#   Mean glass exit temperature:        0.15274677770212E+04 K
+#   Batch rate in:                      0.46296290446212E+00 kg/s
+#   Melt rate:                          0.46227519415594E+00 kg/s
+#   Glass rate out:                     0.46218483779468E+00 kg/s
+
+#   Cycle count:                       1
+#   Estimated wall loss at T_exit:      0.54563461841902E+05 W
+
+
+
+# #################   Run End   #################
+
+
+#  Heat Values at Run End (Scaled):
+
+#   Radiation+Conv In:                  0.10735352756806E+07 W
+#   Electric Boost:                     0.00000000000000E+00 W
+#   Total Energy In:                    0.10735352756806E+07 W
+
+#   Batch heatup need:                  0.50483368635668E+06 W
+#   Batch melt need:                    0.34722217834659E+06 W
+#   Radiation to Batch:                 0.71573278998722E+06 W
+#   Conduction to Batch:                0.14961316355249E+06 W
+#   Batch q needed:                     0.85205586470327E+06 W
+#   Batch q net:                        0.86534595353971E+06 W
+
+#   Liquid heatup need:                 0.16433877315598E+06 W
+#   Liquid q net:                       0.15362251601887E+06 W
+#   Adiabatic energy need:              0.10163946378592E+07 W
+#   Wall heat loss:                     0.54566743163155E+05 W
+#   Net melt input energy need:         0.10709613810224E+07 W
+#   Actual melt input energy:           0.10735352756806E+07 W
+
+#   Energy need divided by input:       0.99760241259276E+00
+#   Scaling factor:                     0.30667065094161E+01
+
+#   Mean glass exit temperature:        0.15275452884894E+04 K
+#   Batch rate in:                      0.46296290446212E+00 kg/s
+#   Melt rate:                          0.46235697822203E+00 kg/s
+#   Glass rate out:                     0.46226751724295E+00 kg/s
+
+#   Cycle count:                       2
+#   Estimated wall loss at T_exit:      0.54566743163155E+05 W
+
+
+
+# #################   Run End   #################
+
+
+#  Heat Values at Run End (Scaled):
+
+#   Radiation+Conv In:                  0.10710611674886E+07 W
+#   Electric Boost:                     0.00000000000000E+00 W
+#   Total Energy In:                    0.10710611674886E+07 W
+
+#   Batch heatup need:                  0.50483368635668E+06 W
+#   Batch melt need:                    0.34722217834659E+06 W
+#   Radiation to Batch:                 0.71496875276909E+06 W
+#   Conduction to Batch:                0.14979669224522E+06 W
+#   Batch q needed:                     0.85205586470327E+06 W
+#   Batch q net:                        0.86476544501431E+06 W
+
+#   Liquid heatup need:                 0.16433877315598E+06 W
+#   Liquid q net:                       0.15174309815990E+06 W
+#   Adiabatic energy need:              0.10163946378592E+07 W
+#   Wall heat loss:                     0.54552597877948E+05 W
+#   Net melt input energy need:         0.10709472357372E+07 W
+#   Actual melt input energy:           0.10710611674886E+07 W
+
+#   Energy need divided by input:       0.99989362722233E+00
+#   Scaling factor:                     0.21687359563725E+01
+
+#   Mean glass exit temperature:        0.15270544433379E+04 K
+#   Batch rate in:                      0.46296290446212E+00 kg/s
+#   Melt rate:                          0.46248819054653E+00 kg/s
+#   Glass rate out:                     0.46239196231797E+00 kg/s
+
+#   Cycle count:                       3
+#   Estimated wall loss at T_exit:      0.54552597877948E+05 W
+
+
+
+# #################   Run End   #################
+
+
+#  Heat Values at Run End (Scaled):
+
+#   Radiation+Conv In:                  0.10709419401735E+07 W
+#   Electric Boost:                     0.00000000000000E+00 W
+#   Total Energy In:                    0.10709419401735E+07 W
+
+#   Batch heatup need:                  0.50483368635668E+06 W
+#   Batch melt need:                    0.34722217834659E+06 W
+#   Radiation to Batch:                 0.71348306095895E+06 W
+#   Conduction to Batch:                0.15087036398190E+06 W
+#   Batch q needed:                     0.85205586470327E+06 W
+#   Batch q net:                        0.86435342494085E+06 W
+
+#   Liquid heatup need:                 0.16433877315598E+06 W
+#   Liquid q net:                       0.15204117633491E+06 W
+#   Adiabatic energy need:              0.10163946378592E+07 W
+#   Wall heat loss:                     0.54547302314239E+05 W
+#   Net melt input energy need:         0.10709419401735E+07 W
+#   Actual melt input energy:           0.10709419401735E+07 W
+
+#   Energy need divided by input:       0.10000000000000E+01
+#   Scaling factor:                     0.17367924226361E+01
+
+#   Mean glass exit temperature:        0.15265021820478E+04 K
+#   Batch rate in:                      0.46296290446212E+00 kg/s
+#   Melt rate:                          0.46264184148433E+00 kg/s
+#   Glass rate out:                     0.46254283196634E+00 kg/s
+
+#   Cycle count:                       4
+#   Estimated wall loss at T_exit:      0.54547302314239E+05 W
+
+
+
+# #################   Run End   #################
+
+
+#  Heat Values at Run End (Scaled):
+
+#   Radiation+Conv In:                  0.10709335104598E+07 W
+#   Electric Boost:                     0.00000000000000E+00 W
+#   Total Energy In:                    0.10709335104598E+07 W
+
+#   Batch heatup need:                  0.50483368635668E+06 W
+#   Batch melt need:                    0.34722217834659E+06 W
+#   Radiation to Batch:                 0.71209716633944E+06 W
+#   Conduction to Batch:                0.15222151524940E+06 W
+#   Batch q needed:                     0.85205586470327E+06 W
+#   Batch q net:                        0.86431868158884E+06 W
+
+#   Liquid heatup need:                 0.16433877315598E+06 W
+#   Liquid q net:                       0.15207590889439E+06 W
+#   Adiabatic energy need:              0.10163946378592E+07 W
+#   Wall heat loss:                     0.54538872600568E+05 W
+#   Net melt input energy need:         0.10709335104598E+07 W
+#   Actual melt input energy:           0.10709335104598E+07 W
+
+#   Energy need divided by input:       0.10000000000000E+01
+#   Scaling factor:                     0.15183400231782E+01
+
+#   Mean glass exit temperature:        0.15257694963321E+04 K
+#   Batch rate in:                      0.46296290446212E+00 kg/s
+#   Melt rate:                          0.46296301606333E+00 kg/s
+#   Glass rate out:                     0.46288080579181E+00 kg/s
+
+#   Cycle count:                       5
+#   Estimated wall loss at T_exit:      0.54538872600568E+05 W
+
+
+
+# #################   Run End   #################
+
+
+#  Heat Values at Run End (Scaled):
+
+#   Radiation+Conv In:                  0.10709439670481E+07 W
+#   Electric Boost:                     0.00000000000000E+00 W
+#   Total Energy In:                    0.10709439670481E+07 W
+
+#   Batch heatup need:                  0.50483368635668E+06 W
+#   Batch melt need:                    0.34722217834659E+06 W
+#   Radiation to Batch:                 0.71051969561039E+06 W
+#   Conduction to Batch:                0.15335094878426E+06 W
+#   Batch q needed:                     0.85205586470327E+06 W
+#   Batch q net:                        0.86387064439465E+06 W
+
+#   Liquid heatup need:                 0.16433877315598E+06 W
+#   Liquid q net:                       0.15252392508910E+06 W
+#   Adiabatic energy need:              0.10163946378592E+07 W
+#   Wall heat loss:                     0.54549329188891E+05 W
+#   Net melt input energy need:         0.10709439670481E+07 W
+#   Actual melt input energy:           0.10709439670481E+07 W
+
+#   Energy need divided by input:       0.10000000000000E+01
+#   Scaling factor:                     0.13949121645823E+01
+
+#   Mean glass exit temperature:        0.15252864087253E+04 K
+#   Batch rate in:                      0.46296290446212E+00 kg/s
+#   Melt rate:                          0.46296306274597E+00 kg/s
+#   Glass rate out:                     0.46289373541641E+00 kg/s
+
+#   Cycle count:                       6
+#   Estimated wall loss at T_exit:      0.54549329188891E+05 W
+
+
+
+# #################   Run End   #################
+
+
+#  Heat Values at Run End (Scaled):
+
+#   Radiation+Conv In:                  0.10709584581480E+07 W
+#   Electric Boost:                     0.00000000000000E+00 W
+#   Total Energy In:                    0.10709584581480E+07 W
+
+#   Batch heatup need:                  0.50483368635668E+06 W
+#   Batch melt need:                    0.34722217834659E+06 W
+#   Radiation to Batch:                 0.70818907887335E+06 W
+#   Conduction to Batch:                0.15493693541690E+06 W
+#   Batch q needed:                     0.85205586470327E+06 W
+#   Batch q net:                        0.86312601429025E+06 W
+
+#   Liquid heatup need:                 0.16433877315598E+06 W
+#   Liquid q net:                       0.15326852971729E+06 W
+#   Adiabatic energy need:              0.10163946378592E+07 W
+#   Wall heat loss:                     0.54563820288748E+05 W
+#   Net melt input energy need:         0.10709584581480E+07 W
+#   Actual melt input energy:           0.10709584581480E+07 W
+
+#   Energy need divided by input:       0.10000000000000E+01
+#   Scaling factor:                     0.13084612837445E+01
+
+#   Mean glass exit temperature:        0.15249981913708E+04 K
+#   Batch rate in:                      0.46296290446212E+00 kg/s
+#   Melt rate:                          0.46296316008453E+00 kg/s
+#   Glass rate out:                     0.46289142378724E+00 kg/s
+
+#   Cycle count:                       7
+#   Estimated wall loss at T_exit:      0.54563820288748E+05 W
+
+
+
+# #################   Run End   #################
+
+
+#  Heat Values at Run End (Scaled):
+
+#   Radiation+Conv In:                  0.10709808806071E+07 W
+#   Electric Boost:                     0.00000000000000E+00 W
+#   Total Energy In:                    0.10709808806071E+07 W
+
+#   Batch heatup need:                  0.50483368635668E+06 W
+#   Batch melt need:                    0.34722217834659E+06 W
+#   Radiation to Batch:                 0.70648933157016E+06 W
+#   Conduction to Batch:                0.15624189249631E+06 W
+#   Batch q needed:                     0.85205586470327E+06 W
+#   Batch q net:                        0.86273122406647E+06 W
+
+#   Liquid heatup need:                 0.16433877315598E+06 W
+#   Liquid q net:                       0.15366330639168E+06 W
+#   Adiabatic energy need:              0.10163946378592E+07 W
+#   Wall heat loss:                     0.54586242747873E+05 W
+#   Net melt input energy need:         0.10709808806071E+07 W
+#   Actual melt input energy:           0.10709808806071E+07 W
+
+#   Energy need divided by input:       0.10000000000000E+01
+#   Scaling factor:                     0.12496005230112E+01
+
+#   Mean glass exit temperature:        0.15250060042852E+04 K
+#   Batch rate in:                      0.46296290446212E+00 kg/s
+#   Melt rate:                          0.46296316241514E+00 kg/s
+#   Glass rate out:                     0.46288999795892E+00 kg/s
+
+#   Cycle count:                       1
+#   Estimated wall loss at T_exit:      0.54586242747873E+05 W
+
+
+
+# #################   Run End   #################
+
+
+#  Heat Values at Run End (Scaled):
+
+#   Radiation+Conv In:                  0.10710071254915E+07 W
+#   Electric Boost:                     0.00000000000000E+00 W
+#   Total Energy In:                    0.10710071254915E+07 W
+
+#   Batch heatup need:                  0.50483368635668E+06 W
+#   Batch melt need:                    0.34722217834659E+06 W
+#   Radiation to Batch:                 0.70491692990479E+06 W
+#   Conduction to Batch:                0.15805355867626E+06 W
+#   Batch q needed:                     0.85205586470327E+06 W
+#   Batch q net:                        0.86297048858105E+06 W
+
+#   Liquid heatup need:                 0.16433877315598E+06 W
+#   Liquid q net:                       0.15342404949771E+06 W
+#   Adiabatic energy need:              0.10163946378592E+07 W
+#   Wall heat loss:                     0.54612487632257E+05 W
+#   Net melt input energy need:         0.10710071254915E+07 W
+#   Actual melt input energy:           0.10710071254915E+07 W
+
+#   Energy need divided by input:       0.10000000000000E+01
+#   Scaling factor:                     0.12061485409533E+01
+
+#   Mean glass exit temperature:        0.15252550759784E+04 K
+#   Batch rate in:                      0.46296290446212E+00 kg/s
+#   Melt rate:                          0.46296318371113E+00 kg/s
+#   Glass rate out:                     0.46289058268589E+00 kg/s
+
+#   Cycle count:                       2
+#   Estimated wall loss at T_exit:      0.54612487632257E+05 W
+
+
+
+# #################   Run End   #################
+
+
+#  Heat Values at Run End (Scaled):
+
+#   Radiation+Conv In:                  0.10710289116104E+07 W
+#   Electric Boost:                     0.00000000000000E+00 W
+#   Total Energy In:                    0.10710289116104E+07 W
+
+#   Batch heatup need:                  0.50483368635668E+06 W
+#   Batch melt need:                    0.34722217834659E+06 W
+#   Radiation to Batch:                 0.70366044385713E+06 W
+#   Conduction to Batch:                0.15880534964817E+06 W
+#   Batch q needed:                     0.85205586470327E+06 W
+#   Batch q net:                        0.86246579350529E+06 W
+
+#   Liquid heatup need:                 0.16433877315598E+06 W
+#   Liquid q net:                       0.15392872382955E+06 W
+#   Adiabatic energy need:              0.10163946378592E+07 W
+#   Wall heat loss:                     0.54634273751146E+05 W
+#   Net melt input energy need:         0.10710289116104E+07 W
+#   Actual melt input energy:           0.10710289116104E+07 W
+
+#   Energy need divided by input:       0.10000000000000E+01
+#   Scaling factor:                     0.11728567899625E+01
+
+#   Mean glass exit temperature:        0.15252183594802E+04 K
+#   Batch rate in:                      0.46296290446212E+00 kg/s
+#   Melt rate:                          0.46296313465494E+00 kg/s
+#   Glass rate out:                     0.46286610415977E+00 kg/s
+
+#   Cycle count:                       3
+#   Estimated wall loss at T_exit:      0.54634273751146E+05 W
+
+
+
+# #################   Run End   #################
+
+
+#  Heat Values at Run End (Scaled):
+
+#   Radiation+Conv In:                  0.10710569357329E+07 W
+#   Electric Boost:                     0.00000000000000E+00 W
+#   Total Energy In:                    0.10710569357329E+07 W
+
+#   Batch heatup need:                  0.50483368635668E+06 W
+#   Batch melt need:                    0.34722217834659E+06 W
+#   Radiation to Batch:                 0.70143337528180E+06 W
+#   Conduction to Batch:                0.16092506334259E+06 W
+#   Batch q needed:                     0.85205586470327E+06 W
+#   Batch q net:                        0.86235843862439E+06 W
+
+#   Liquid heatup need:                 0.16433877315598E+06 W
+#   Liquid q net:                       0.15403608154482E+06 W
+#   Adiabatic energy need:              0.10163946378592E+07 W
+#   Wall heat loss:                     0.54662297873665E+05 W
+#   Net melt input energy need:         0.10710569357329E+07 W
+#   Actual melt input energy:           0.10710569357329E+07 W
+
+#   Energy need divided by input:       0.10000000000000E+01
+#   Scaling factor:                     0.11494624592609E+01
+
+#   Mean glass exit temperature:        0.15255498744777E+04 K
+#   Batch rate in:                      0.46296290446212E+00 kg/s
+#   Melt rate:                          0.46296328818537E+00 kg/s
+#   Glass rate out:                     0.46287918656362E+00 kg/s
+
+#   Cycle count:                       4
+#   Estimated wall loss at T_exit:      0.54662297873665E+05 W
+
+
+
+# #################   Run End   #################
+
+
+#  Heat Values at Run End (Scaled):
+
+#   Radiation+Conv In:                  0.10710857098265E+07 W
+#   Electric Boost:                     0.00000000000000E+00 W
+#   Total Energy In:                    0.10710857098265E+07 W
+
+#   Batch heatup need:                  0.50483368635668E+06 W
+#   Batch melt need:                    0.34722217834659E+06 W
+#   Radiation to Batch:                 0.70027773674528E+06 W
+#   Conduction to Batch:                0.16179901726181E+06 W
+#   Batch q needed:                     0.85205586470327E+06 W
+#   Batch q net:                        0.86207675400709E+06 W
+
+#   Liquid heatup need:                 0.16433877315598E+06 W
+#   Liquid q net:                       0.15431776064404E+06 W
+#   Adiabatic energy need:              0.10163946378592E+07 W
+#   Wall heat loss:                     0.54691071967274E+05 W
+#   Net melt input energy need:         0.10710857098265E+07 W
+#   Actual melt input energy:           0.10710857098265E+07 W
+
+#   Energy need divided by input:       0.10000000000000E+01
+#   Scaling factor:                     0.11336579765856E+01
+
+#   Mean glass exit temperature:        0.15258576371577E+04 K
+#   Batch rate in:                      0.46296290446212E+00 kg/s
+#   Melt rate:                          0.46296322601134E+00 kg/s
+#   Glass rate out:                     0.46286285361995E+00 kg/s
+
+#   Cycle count:                       5
+#   Estimated wall loss at T_exit:      0.54691071967274E+05 W
+
+
+
+# #################   Run End   #################
+
+
+#  Heat Values at Run End (Scaled):
+
+#   Radiation+Conv In:                  0.10711167817024E+07 W
+#   Electric Boost:                     0.00000000000000E+00 W
+#   Total Energy In:                    0.10711167817024E+07 W
+
+#   Batch heatup need:                  0.50483368635668E+06 W
+#   Batch melt need:                    0.34722217834659E+06 W
+#   Radiation to Batch:                 0.69823503008052E+06 W
+#   Conduction to Batch:                0.16299598174257E+06 W
+#   Batch q needed:                     0.85205586470327E+06 W
+#   Batch q net:                        0.86123101182309E+06 W
+
+#   Liquid heatup need:                 0.16433877315598E+06 W
+#   Liquid q net:                       0.15516348078378E+06 W
+#   Adiabatic energy need:              0.10163946378592E+07 W
+#   Wall heat loss:                     0.54722143843195E+05 W
+#   Net melt input energy need:         0.10711167817024E+07 W
+#   Actual melt input energy:           0.10711167817024E+07 W
+
+#   Energy need divided by input:       0.10000000000000E+01
+#   Scaling factor:                     0.11183530879000E+01
+
+#   Mean glass exit temperature:        0.15261277218331E+04 K
+#   Batch rate in:                      0.46296290446212E+00 kg/s
+#   Melt rate:                          0.46296322733677E+00 kg/s
+#   Glass rate out:                     0.46285163785571E+00 kg/s
+
+#   Cycle count:                       6
+#   Estimated wall loss at T_exit:      0.54722143843195E+05 W
+
+
+
+# #################   Run End   #################
+
+
+#  Heat Values at Run End (Scaled):
+
+#   Radiation+Conv In:                  0.10711517135651E+07 W
+#   Electric Boost:                     0.00000000000000E+00 W
+#   Total Energy In:                    0.10711517135651E+07 W
+
+#   Batch heatup need:                  0.50483368635668E+06 W
+#   Batch melt need:                    0.34722217834659E+06 W
+#   Radiation to Batch:                 0.69674174549946E+06 W
+#   Conduction to Batch:                0.16435733258707E+06 W
+#   Batch q needed:                     0.85205586470327E+06 W
+#   Batch q net:                        0.86109907808653E+06 W
+
+#   Liquid heatup need:                 0.16433877315598E+06 W
+#   Liquid q net:                       0.15529542008757E+06 W
+#   Adiabatic energy need:              0.10163946378592E+07 W
+#   Wall heat loss:                     0.54757075705855E+05 W
+#   Net melt input energy need:         0.10711517135651E+07 W
+#   Actual melt input energy:           0.10711517135651E+07 W
+
+#   Energy need divided by input:       0.10000000000000E+01
+#   Scaling factor:                     0.10934757255544E+01
+
+#   Mean glass exit temperature:        0.15266523040375E+04 K
+#   Batch rate in:                      0.46296290446212E+00 kg/s
+#   Melt rate:                          0.46296322353875E+00 kg/s
+#   Glass rate out:                     0.46286804383818E+00 kg/s
+
+#   Cycle count:                       7
+#   Estimated wall loss at T_exit:      0.54757075705855E+05 W
+
+
+
+# #################   Run End   #################
+
+
+#  Heat Values at Run End (Scaled):
+
+#   Radiation+Conv In:                  0.10711858079428E+07 W
+#   Electric Boost:                     0.00000000000000E+00 W
+#   Total Energy In:                    0.10711858079428E+07 W
+
+#   Batch heatup need:                  0.50483368635668E+06 W
+#   Batch melt need:                    0.34722217834659E+06 W
+#   Radiation to Batch:                 0.69525295336781E+06 W
+#   Conduction to Batch:                0.16574840897063E+06 W
+#   Batch q needed:                     0.85205586470327E+06 W
+#   Batch q net:                        0.86100136233845E+06 W
+
+#   Liquid heatup need:                 0.16433877315598E+06 W
+#   Liquid q net:                       0.15539314244222E+06 W
+#   Adiabatic energy need:              0.10163946378592E+07 W
+#   Wall heat loss:                     0.54791170083565E+05 W
+#   Net melt input energy need:         0.10711858079428E+07 W
+#   Actual melt input energy:           0.10711858079428E+07 W
+
+#   Energy need divided by input:       0.10000000000000E+01
+#   Scaling factor:                     0.10749778717532E+01
+
+#   Mean glass exit temperature:        0.15272389275093E+04 K
+#   Batch rate in:                      0.46296290446212E+00 kg/s
+#   Melt rate:                          0.46296326318211E+00 kg/s
+#   Glass rate out:                     0.46287135129346E+00 kg/s
+
+#   Cycle count:                       8
+#   Estimated wall loss at T_exit:      0.54791170083565E+05 W
+
+
+
+# #################   Run End   #################
+
+
+#  Heat Values at Run End (Scaled):
+
+#   Radiation+Conv In:                  0.10712174069256E+07 W
+#   Electric Boost:                     0.00000000000000E+00 W
+#   Total Energy In:                    0.10712174069256E+07 W
+
+#   Batch heatup need:                  0.50483368635668E+06 W
+#   Batch melt need:                    0.34722217834659E+06 W
+#   Radiation to Batch:                 0.69414351217413E+06 W
+#   Conduction to Batch:                0.16678661311751E+06 W
+#   Batch q needed:                     0.85205586470327E+06 W
+#   Batch q net:                        0.86093012529165E+06 W
+
+#   Liquid heatup need:                 0.16433877315598E+06 W
+#   Liquid q net:                       0.15546438669184E+06 W
+#   Adiabatic energy need:              0.10163946378592E+07 W
+#   Wall heat loss:                     0.54822769066382E+05 W
+#   Net melt input energy need:         0.10712174069256E+07 W
+#   Actual melt input energy:           0.10712174069256E+07 W
+
+#   Energy need divided by input:       0.10000000000000E+01
+#   Scaling factor:                     0.10596996571789E+01
+
+#   Mean glass exit temperature:        0.15277860354318E+04 K
+#   Batch rate in:                      0.46296290446212E+00 kg/s
+#   Melt rate:                          0.46296325771619E+00 kg/s
+#   Glass rate out:                     0.46287702450124E+00 kg/s
+
+#   Cycle count:                       9
+#   Estimated wall loss at T_exit:      0.54822769066382E+05 W
+
+
+
+# #################   Run End   #################
+
+
+#  Heat Values at Run End (Scaled):
+
+#   Radiation+Conv In:                  0.10712480047653E+07 W
+#   Electric Boost:                     0.00000000000000E+00 W
+#   Total Energy In:                    0.10712480047653E+07 W
+
+#   Batch heatup need:                  0.50483368635668E+06 W
+#   Batch melt need:                    0.34722217834659E+06 W
+#   Radiation to Batch:                 0.69352774622282E+06 W
+#   Conduction to Batch:                0.16734962229405E+06 W
+#   Batch q needed:                     0.85205586470327E+06 W
+#   Batch q net:                        0.86087736851688E+06 W
+
+#   Liquid heatup need:                 0.16433877315598E+06 W
+#   Liquid q net:                       0.15551715028419E+06 W
+#   Adiabatic energy need:              0.10163946378592E+07 W
+#   Wall heat loss:                     0.54853366906097E+05 W
+#   Net melt input energy need:         0.10712480047653E+07 W
+#   Actual melt input energy:           0.10712480047653E+07 W
+
+#   Energy need divided by input:       0.10000000000000E+01
+#   Scaling factor:                     0.10497754099505E+01
+
+#   Mean glass exit temperature:        0.15283176009894E+04 K
+#   Batch rate in:                      0.46296290446212E+00 kg/s
+#   Melt rate:                          0.46296317851438E+00 kg/s
+#   Glass rate out:                     0.46287857084437E+00 kg/s
+
+#   Cycle count:                      10
+#   Estimated wall loss at T_exit:      0.54853366906097E+05 W
+
+
+
+# #################   Run End   #################
+
+
+#  Heat Values at Run End (Scaled):
+
+#   Radiation+Conv In:                  0.10712770299184E+07 W
+#   Electric Boost:                     0.00000000000000E+00 W
+#   Total Energy In:                    0.10712770299184E+07 W
+
+#   Batch heatup need:                  0.50483368635668E+06 W
+#   Batch melt need:                    0.34722217834659E+06 W
+#   Radiation to Batch:                 0.69266366238985E+06 W
+#   Conduction to Batch:                0.16817362390784E+06 W
+#   Batch q needed:                     0.85205586470327E+06 W
+#   Batch q net:                        0.86083728629769E+06 W
+
+#   Liquid heatup need:                 0.16433877315598E+06 W
+#   Liquid q net:                       0.15555724051370E+06 W
+#   Adiabatic energy need:              0.10163946378592E+07 W
+#   Wall heat loss:                     0.54882392059194E+05 W
+#   Net melt input energy need:         0.10712770299184E+07 W
+#   Actual melt input energy:           0.10712770299184E+07 W
+
+#   Energy need divided by input:       0.10000000000000E+01
+#   Scaling factor:                     0.10402979377206E+01
+
+#   Mean glass exit temperature:        0.15288549543790E+04 K
+#   Batch rate in:                      0.46296290446212E+00 kg/s
+#   Melt rate:                          0.46296316401036E+00 kg/s
+#   Glass rate out:                     0.46288287566832E+00 kg/s
+
+#   Cycle count:                      11
+#   Estimated wall loss at T_exit:      0.54882392059194E+05 W
+
+
+
+# #################   Run End   #################
+
+
+#  Heat Values at Run End (Scaled):
+
+#   Radiation+Conv In:                  0.10713042618067E+07 W
+#   Electric Boost:                     0.00000000000000E+00 W
+#   Total Energy In:                    0.10713042618067E+07 W
+
+#   Batch heatup need:                  0.50483368635668E+06 W
+#   Batch melt need:                    0.34722217834659E+06 W
+#   Radiation to Batch:                 0.69185634888343E+06 W
+#   Conduction to Batch:                0.16894948474788E+06 W
+#   Batch q needed:                     0.85205586470327E+06 W
+#   Batch q net:                        0.86080583363132E+06 W
+
+#   Liquid heatup need:                 0.16433877315598E+06 W
+#   Liquid q net:                       0.15558870091670E+06 W
+#   Adiabatic energy need:              0.10163946378592E+07 W
+#   Wall heat loss:                     0.54909623947490E+05 W
+#   Net melt input energy need:         0.10713042618067E+07 W
+#   Actual melt input energy:           0.10713042618067E+07 W
+
+#   Energy need divided by input:       0.10000000000000E+01
+#   Scaling factor:                     0.10316686340093E+01
+
+#   Mean glass exit temperature:        0.15293783371062E+04 K
+#   Batch rate in:                      0.46296290446212E+00 kg/s
+#   Melt rate:                          0.46296315280544E+00 kg/s
+#   Glass rate out:                     0.46288670529736E+00 kg/s
+
+#   Cycle count:                      12
+#   Estimated wall loss at T_exit:      0.54909623947490E+05 W
+
+
+
+# #################   Run End   #################
+
+
+#  Heat Values at Run End (Scaled):
+
+#   Radiation+Conv In:                  0.10713250583048E+07 W
+#   Electric Boost:                     0.00000000000000E+00 W
+#   Total Energy In:                    0.10713250583048E+07 W
+
+#   Batch heatup need:                  0.50483368635668E+06 W
+#   Batch melt need:                    0.34722217834659E+06 W
+#   Radiation to Batch:                 0.69177550922060E+06 W
+#   Conduction to Batch:                0.16949551394095E+06 W
+#   Batch q needed:                     0.85205586470327E+06 W
+#   Batch q net:                        0.86127102316155E+06 W
+
+#   Liquid heatup need:                 0.16433877315598E+06 W
+#   Liquid q net:                       0.15512353154724E+06 W
+#   Adiabatic energy need:              0.10163946378592E+07 W
+#   Wall heat loss:                     0.54930420445537E+05 W
+#   Net melt input energy need:         0.10713250583048E+07 W
+#   Actual melt input energy:           0.10713250583048E+07 W
+
+#   Energy need divided by input:       0.10000000000000E+01
+#   Scaling factor:                     0.10240158397923E+01
+
+#   Mean glass exit temperature:        0.15298251157894E+04 K
+#   Batch rate in:                      0.46296290446212E+00 kg/s
+#   Melt rate:                          0.46296309037381E+00 kg/s
+#   Glass rate out:                     0.46289338664478E+00 kg/s
+
+#   Cycle count:                      13
+#   Estimated wall loss at T_exit:      0.54930420445537E+05 W
+
+
+
+# #################   Run End   #################
+
+
+#  Heat Values at Run End (Scaled):
+
+#   Radiation+Conv In:                  0.10713496298094E+07 W
+#   Electric Boost:                     0.00000000000000E+00 W
+#   Total Energy In:                    0.10713496298094E+07 W
+
+#   Batch heatup need:                  0.50483368635668E+06 W
+#   Batch melt need:                    0.34722217834659E+06 W
+#   Radiation to Batch:                 0.69064929092619E+06 W
+#   Conduction to Batch:                0.17008581414419E+06 W
+#   Batch q needed:                     0.85205586470327E+06 W
+#   Batch q net:                        0.86073510507037E+06 W
+
+#   Liquid heatup need:                 0.16433877315598E+06 W
+#   Liquid q net:                       0.15565944181586E+06 W
+#   Adiabatic energy need:              0.10163946378592E+07 W
+#   Wall heat loss:                     0.54954991950188E+05 W
+#   Net melt input energy need:         0.10713496298094E+07 W
+#   Actual melt input energy:           0.10713496298094E+07 W
+
+#   Energy need divided by input:       0.10000000000000E+01
+#   Scaling factor:                     0.10182758253895E+01
+
+#   Mean glass exit temperature:        0.15302463995070E+04 K
+#   Batch rate in:                      0.46296290446212E+00 kg/s
+#   Melt rate:                          0.46296309572119E+00 kg/s
+#   Glass rate out:                     0.46288350997162E+00 kg/s
+
+#   Cycle count:                      14
+#   Estimated wall loss at T_exit:      0.54954991950188E+05 W
+
+
+
+# #################   Run End   #################
+
+
+#  Heat Values at Run End (Scaled):
+
+#   Radiation+Conv In:                  0.10713679487756E+07 W
+#   Electric Boost:                     0.00000000000000E+00 W
+#   Total Energy In:                    0.10713679487756E+07 W
+
+#   Batch heatup need:                  0.50483368635668E+06 W
+#   Batch melt need:                    0.34722217834659E+06 W
+#   Radiation to Batch:                 0.69045689176604E+06 W
+#   Conduction to Batch:                0.17073319095251E+06 W
+#   Batch q needed:                     0.85205586470327E+06 W
+#   Batch q net:                        0.86119008271855E+06 W
+
+#   Liquid heatup need:                 0.16433877315598E+06 W
+#   Liquid q net:                       0.15520448472909E+06 W
+#   Adiabatic energy need:              0.10163946378592E+07 W
+#   Wall heat loss:                     0.54973310916308E+05 W
+#   Net melt input energy need:         0.10713679487756E+07 W
+#   Actual melt input energy:           0.10713679487756E+07 W
+
+#   Energy need divided by input:       0.10000000000000E+01
+#   Scaling factor:                     0.10141009595825E+01
+
+#   Mean glass exit temperature:        0.15306904248897E+04 K
+#   Batch rate in:                      0.46296290446212E+00 kg/s
+#   Melt rate:                          0.46296306438551E+00 kg/s
+#   Glass rate out:                     0.46289564706388E+00 kg/s
+
+#   Cycle count:                      15
+#   Estimated wall loss at T_exit:      0.54973310916308E+05 W
+
+
+
+# #################   Run End   #################
+
+
+#  Heat Values at Run End (Scaled):
+
+#   Radiation+Conv In:                  0.10713869651990E+07 W
+#   Electric Boost:                     0.00000000000000E+00 W
+#   Total Energy In:                    0.10713869651990E+07 W
+
+#   Batch heatup need:                  0.50483368635668E+06 W
+#   Batch melt need:                    0.34722217834659E+06 W
+#   Radiation to Batch:                 0.68958052614496E+06 W
+#   Conduction to Batch:                0.17132315875798E+06 W
+#   Batch q needed:                     0.85205586470327E+06 W
+#   Batch q net:                        0.86090368490294E+06 W
+
+#   Liquid heatup need:                 0.16433877315598E+06 W
+#   Liquid q net:                       0.15549088035792E+06 W
+#   Adiabatic energy need:              0.10163946378592E+07 W
+#   Wall heat loss:                     0.54992327339805E+05 W
+#   Net melt input energy need:         0.10713869651990E+07 W
+#   Actual melt input energy:           0.10713869651990E+07 W
+
+#   Energy need divided by input:       0.10000000000000E+01
+#   Scaling factor:                     0.10240629303616E+01
+
+#   Mean glass exit temperature:        0.15310416766465E+04 K
+#   Batch rate in:                      0.46296290446212E+00 kg/s
+#   Melt rate:                          0.46296306979297E+00 kg/s
+#   Glass rate out:                     0.46289989265480E+00 kg/s
+
+#   Cycle count:                      16
+#   Estimated wall loss at T_exit:      0.54992327339805E+05 W
+
+
+
+# #################   Run End   #################
+
+
+#  Heat Values at Run End (Scaled):
+
+#   Radiation+Conv In:                  0.10714056029600E+07 W
+#   Electric Boost:                     0.00000000000000E+00 W
+#   Total Energy In:                    0.10714056029600E+07 W
+
+#   Batch heatup need:                  0.50483368635668E+06 W
+#   Batch melt need:                    0.34722217834659E+06 W
+#   Radiation to Batch:                 0.68878584757129E+06 W
+#   Conduction to Batch:                0.17197895566683E+06 W
+#   Batch q needed:                     0.85205586470327E+06 W
+#   Batch q net:                        0.86076480323812E+06 W
+
+#   Liquid heatup need:                 0.16433877315598E+06 W
+#   Liquid q net:                       0.15562976415196E+06 W
+#   Adiabatic energy need:              0.10163946378592E+07 W
+#   Wall heat loss:                     0.55010965100788E+05 W
+#   Net melt input energy need:         0.10714056029600E+07 W
+#   Actual melt input energy:           0.10714056029600E+07 W
+
+#   Energy need divided by input:       0.10000000000000E+01
+#   Scaling factor:                     0.99882188310234E+00
+
+#   Mean glass exit temperature:        0.15314120875647E+04 K
+#   Batch rate in:                      0.46296290446212E+00 kg/s
+#   Melt rate:                          0.46296306455906E+00 kg/s
+#   Glass rate out:                     0.46290561301565E+00 kg/s
+
+#   Cycle count:                      17
+#   Estimated wall loss at T_exit:      0.55010965100788E+05 W
+
+
+
+# #################   Run End   #################
+
+
+#  Heat Values at Run End (Scaled):
+
+#   Radiation+Conv In:                  0.10714202480997E+07 W
+#   Electric Boost:                     0.00000000000000E+00 W
+#   Total Energy In:                    0.10714202480997E+07 W
+
+#   Batch heatup need:                  0.50483368635668E+06 W
+#   Batch melt need:                    0.34722217834659E+06 W
+#   Radiation to Batch:                 0.68857789279530E+06 W
+#   Conduction to Batch:                0.17259464438593E+06 W
+#   Batch q needed:                     0.85205586470327E+06 W
+#   Batch q net:                        0.86117253718122E+06 W
+
+#   Liquid heatup need:                 0.16433877315598E+06 W
+#   Liquid q net:                       0.15522204832777E+06 W
+#   Adiabatic energy need:              0.10163946378592E+07 W
+#   Wall heat loss:                     0.55025610240482E+05 W
+#   Net melt input energy need:         0.10714202480997E+07 W
+#   Actual melt input energy:           0.10714202480997E+07 W
+
+#   Energy need divided by input:       0.10000000000000E+01
+#   Scaling factor:                     0.99416092562059E+00
+
+#   Mean glass exit temperature:        0.15317828206014E+04 K
+#   Batch rate in:                      0.46296290446212E+00 kg/s
+#   Melt rate:                          0.46296303287833E+00 kg/s
+#   Glass rate out:                     0.46291519275688E+00 kg/s
+
+#   Cycle count:                      18
+#   Estimated wall loss at T_exit:      0.55025610240482E+05 W
+
+
+
+# #################   Run End   #################
+
+
+#  Heat Values at Run End (Scaled):
+
+#   Radiation+Conv In:                  0.10714312428654E+07 W
+#   Electric Boost:                     0.00000000000000E+00 W
+#   Total Energy In:                    0.10714312428654E+07 W
+
+#   Batch heatup need:                  0.50483368635668E+06 W
+#   Batch melt need:                    0.34722217834659E+06 W
+#   Radiation to Batch:                 0.68828161710610E+06 W
+#   Conduction to Batch:                0.17291753372422E+06 W
+#   Batch q needed:                     0.85205586470327E+06 W
+#   Batch q net:                        0.86119915083031E+06 W
+
+#   Liquid heatup need:                 0.16433877315598E+06 W
+#   Liquid q net:                       0.15519543818572E+06 W
+#   Adiabatic energy need:              0.10163946378592E+07 W
+#   Wall heat loss:                     0.55036605006118E+05 W
+#   Net melt input energy need:         0.10714312428654E+07 W
+#   Actual melt input energy:           0.10714312428654E+07 W
+
+#   Energy need divided by input:       0.10000000000000E+01
+#   Scaling factor:                     0.99339489541626E+00
+
+#   Mean glass exit temperature:        0.15319605891129E+04 K
+#   Batch rate in:                      0.46296290446212E+00 kg/s
+#   Melt rate:                          0.46296302341677E+00 kg/s
+#   Glass rate out:                     0.46291925781139E+00 kg/s
+
+#   Cycle count:                      19
+#   Estimated wall loss at T_exit:      0.55036605006118E+05 W
+
+
+
+# #################   Run End   #################
+
+
+#  Heat Values at Run End (Scaled):
+
+#   Radiation+Conv In:                  0.10714406738285E+07 W
+#   Electric Boost:                     0.00000000000000E+00 W
+#   Total Energy In:                    0.10714406738285E+07 W
+
+#   Batch heatup need:                  0.50483368635668E+06 W
+#   Batch melt need:                    0.34722217834659E+06 W
+#   Radiation to Batch:                 0.68812790450112E+06 W
+#   Conduction to Batch:                0.17315331345110E+06 W
+#   Batch q needed:                     0.85205586470327E+06 W
+#   Batch q net:                        0.86128121795222E+06 W
+
+#   Liquid heatup need:                 0.16433877315598E+06 W
+#   Liquid q net:                       0.15511337591477E+06 W
+#   Adiabatic energy need:              0.10163946378592E+07 W
+#   Wall heat loss:                     0.55046035969246E+05 W
+#   Net melt input energy need:         0.10714406738285E+07 W
+#   Actual melt input energy:           0.10714406738285E+07 W
+
+#   Energy need divided by input:       0.10000000000000E+01
+#   Scaling factor:                     0.98975068878833E+00
+
+#   Mean glass exit temperature:        0.15321141739984E+04 K
+#   Batch rate in:                      0.46296290446212E+00 kg/s
+#   Melt rate:                          0.46296301134267E+00 kg/s
+#   Glass rate out:                     0.46292475899427E+00 kg/s
+
+#   Cycle count:                      20

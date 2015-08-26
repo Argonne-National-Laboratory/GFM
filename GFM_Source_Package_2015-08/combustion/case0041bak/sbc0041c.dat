@@ -1,0 +1,62 @@
+&INPUT
+   REACT=.TRUE.
+   IRSTYP=1,MAXGI=100,ID_RAD=1
+   MS=1,IRSTYPM=1,MAXMS=300,interval_rad=100
+   GMFR=0.9242821
+   Q0=5E+07
+   BGCON=1.E-12,BMCON=1.E-7
+   T_init=1500
+   cycling=1
+   oxy_fuel=0
+   initial_gitr=0
+   esf=3325720
+   aform=0.00353
+   eso=3325720
+   aoxid=30
+   isoot_cal=0
+   available_parameter=1000000
+   gui_update=0
+   isum=1
+   iinfo=1
+   iTave=1
+   iconv=1
+   igresid=1
+   igresidp=0
+   igresidx=1
+   igresidxp=0
+   imresid=1
+   irad_detail=1
+   irad_rad=1
+   itwal=1
+   irelax=1
+   iflx=1
+   ifieldview=0
+/
+ 6 28 10 0.0
+ 6 26 8 6 30 12 1
+ 373.15 1 0 0 0. 0. 0. 78.4012815121033 0 11.0185818229249
+ 6 36 8 6 40 12 1
+ 373.15 1 0 0 0. 0. 0. 78.4004329194037 0 11.0184625609955
+ 6 24 16 6 42 26 1
+ 1473 0 0.2329175 0.7670825 0. 0. 0. 7.95023505148322 -0.835603395376252 -2.8936488014473
+ 0 0 0 0 0 0 0 
+Exhausts:
+ 1 
+2 8 16  2 18 26
+1 0 1 0.9 1473
+Wall Properties:
+ 0 0 0 0 0 0 0 
+&RADIN
+   NWL=10,T_A=303.15,W_D=0.3,RI=1
+   H_A=2.5,H_G=10,W_K=1.75,eps_w=0.8
+   maxri2=1000
+   maxri1=100
+   minri2=4
+   preset_vf=1
+   eps_m=0.9
+   eps_c=0.8
+   have_crown=1
+   height_to_ceiling=1.2332
+/
+1. 2. 3. 4. 5. 
+6. 7. 8.5 12. 15. 

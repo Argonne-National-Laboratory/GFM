@@ -1,0 +1,4 @@
+Case 0020
+melt TC-21 25 tpd, 1273K melt, conduction length =.06
+
+melt TC-21 25 tpd, 1273K melt, conduction length =.06

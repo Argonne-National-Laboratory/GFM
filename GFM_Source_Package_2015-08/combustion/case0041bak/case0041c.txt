@@ -1,0 +1,2 @@
+Case 0041
+comb-r TC-21 40tpd RR4a Alternate Combustion Space (burners on left side)

@@ -1,0 +1,67 @@
+ 
+!Find energy needed to heat molten glass (qglass_need).
+!
+
+
+if (udf_cln == 1) then
+	!constant specific heat
+	qglass_need = (pca%fr2+psa%fr2)*udf_cl(1)%f*(t_exit-tmltr)
+else
+	!Integrate (specific_heat * dT) from tmltr to t_exit
+	qglass_need = zero
+
+	!find first index in the specific heat array < tmltr
+	do n=1,udf_cln
+		if 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+	if (tmltr < udf_cl(1)%t) then  
+		!melt temperature is less than the first user-defined-function point for liquid specific heat 
+		if    
+		qglass_need = udf_cl(1)%f * (udf_cl(1)%t-tmltr)
+		i_point = 1
+	else    
+		!find temperature range block that contains the melt temperature
+		i_point=udf_cln
+		udf => udf_cl
+		call udf_int(udf_cln,tmltr,g0) !set g0 to the specific heat at the melt temperature
+		do n=2,udf_cln
+			if (tmltr < udf_cl(n)%t) then 
+     				qglass_need = qglass_need + (g0+udf_cl(n)%f)/2.0d0) * (udf_cl(n)%t-tmltr)
+				i_point = n
+				exit
+			endif
+		enddo
+	endif
+
+
+	do n=i_point+1,udf_cln !calculate values in the remaining udf blocks
+		if (t_exit >= udf_cl(n)%t) then
+			qglass_need = qglass_need + ((udf_cl(n)%f+udf_cl(n-1)%f)/2.0d0) * (udf_cl(n)%t-udf_cl(n-1)%t)
+		endif
+	enddo
+
+	if (t_exit > udf_cl(udf_cln)%t) then
+		!exit temperature is beyond the last user-defined-function point for liquid specific heat  
+		qglass_need = qglass_need + udf_cl(udf_cln)%f * (t_exit-udf_cl(udf_cln)%t)
+	endif
+
+	qglass_need = (pca%fr2+psa%fr2)*qglass_need
+endif
+
+

@@ -1,0 +1,139 @@
+[Root]
+Most Recent Package=Standard Setup GFM2.1
+
+
+[Package|Standard Setup GFM2.1|Root]
+SubWizProgID=PDWizard.SetupPkgSubWiz
+BuildFolder=C:\My-Stuff\GFM\gfm_2d-base-e-4\tmp2
+
+[Package|Standard Setup GFM2.1|Configure DAO ISAMs]
+Applicable=No
+
+[Package|Standard Setup GFM2.1|Configure DAO ODBC]
+JetWorkspace=
+ODBCDirect=
+
+[Package|Standard Setup GFM2.1|Files Found]
+
+[Package|Standard Setup GFM2.1|Files Released]
+GFM2.HLP=
+
+[Package|Standard Setup GFM2.1|Missing Dependency Information]
+
+[Package|Standard Setup GFM2.1|Out-of-Date Dependency Information]
+
+[Package|Standard Setup GFM2.1|Files Added]
+C:\My-Stuff\GFM\gfm_2d-base-e-4\comb\Debug\comb.exe=
+C:\My-Stuff\GFM\gfm_2d-base-e-4\comb\Kinetic.d=
+C:\My-Stuff\GFM\gfm_2d-base-e-4\comb\runs.dat=
+C:\My-Stuff\GFM\gfm_2d-base-e-4\comb\runstop.dat=
+C:\My-Stuff\GFM\gfm_2d-base-e-4\lib\GFM2.HLP=
+C:\My-Stuff\GFM\gfm_2d-base-e-4\lib\furnace.jpg=
+C:\My-Stuff\GFM\gfm_2d-base-e-4\lib\plot.jpg=
+C:\My-Stuff\GFM\gfm_2d-base-e-4\lib\gfm2.cnt=
+C:\My-Stuff\GFM\gfm_2d-base-e-4\lib\gfm2.GID=
+C:\My-Stuff\GFM\gfm_2d-base-e-4\lib\gfm2.hpj=
+C:\My-Stuff\GFM\gfm_2d-base-e-4\lib\gfm2.rtf=
+C:\My-Stuff\GFM\gfm_2d-base-e-4\melt\Debug\melt.exe=
+
+[Package|Standard Setup GFM2.1|Files Removed]
+
+[Package|Standard Setup GFM2.1|Files In Project]
+C:\My-Stuff\GFM\gfm_2d-base-e-4\gfm_2e.exe=Yes
+C:\WINNT\system32\msvbvm60.dll=Yes
+C:\WINNT\system32\oleaut32.dll=Yes
+C:\WINNT\system32\olepro32.dll=Yes
+C:\WINNT\system32\asycfilt.dll=Yes
+C:\WINNT\system32\stdole2.tlb=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+C:\WINNT\system32\COMDLG32.OCX=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=Yes
+C:\WINNT\system32\VB6STKIT.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=Yes
+C:\My-Stuff\GFM\gfm_2d-base-e-4\comb\Debug\comb.exe=Yes
+C:\My-Stuff\GFM\gfm_2d-base-e-4\comb\Kinetic.d=Yes
+C:\My-Stuff\GFM\gfm_2d-base-e-4\comb\runs.dat=Yes
+C:\My-Stuff\GFM\gfm_2d-base-e-4\comb\runstop.dat=Yes
+C:\My-Stuff\GFM\gfm_2d-base-e-4\lib\GFM2.HLP=Yes
+C:\My-Stuff\GFM\gfm_2d-base-e-4\lib\furnace.jpg=Yes
+C:\My-Stuff\GFM\gfm_2d-base-e-4\lib\plot.jpg=Yes
+C:\My-Stuff\GFM\gfm_2d-base-e-4\lib\gfm2.cnt=Yes
+C:\My-Stuff\GFM\gfm_2d-base-e-4\lib\gfm2.GID=Yes
+C:\My-Stuff\GFM\gfm_2d-base-e-4\lib\gfm2.hpj=Yes
+C:\My-Stuff\GFM\gfm_2d-base-e-4\lib\gfm2.rtf=Yes
+C:\My-Stuff\GFM\gfm_2d-base-e-4\melt\Debug\melt.exe=Yes
+
+[Package|Standard Setup GFM2.1|Configure Registry Files]
+Applicable=No
+
+[Package|Standard Setup GFM2.1|Configure Remote Servers]
+Applicable=No
+
+[Package|Standard Setup GFM2.1|Install Locations]
+C:\My-Stuff\GFM\gfm_2d-base-e-4\gfm_2e.exe=$(AppPath)\lib
+C:\WINNT\system32\msvbvm60.dll=$(WinSysPathSysFile)
+C:\WINNT\system32\oleaut32.dll=$(WinSysPathSysFile)
+C:\WINNT\system32\olepro32.dll=$(WinSysPathSysFile)
+C:\WINNT\system32\asycfilt.dll=$(WinSysPathSysFile)
+C:\WINNT\system32\stdole2.tlb=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\WINNT\system32\COMDLG32.OCX=$(WinSysPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+C:\WINNT\system32\VB6STKIT.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+C:\My-Stuff\GFM\gfm_2d-base-e-4\comb\Debug\comb.exe=$(AppPath)\comb\Debug
+C:\My-Stuff\GFM\gfm_2d-base-e-4\comb\Kinetic.d=$(AppPath)\comb
+C:\My-Stuff\GFM\gfm_2d-base-e-4\comb\runs.dat=$(AppPath)\comb
+C:\My-Stuff\GFM\gfm_2d-base-e-4\comb\runstop.dat=$(AppPath)\comb
+C:\My-Stuff\GFM\gfm_2d-base-e-4\lib\GFM2.HLP=$(AppPath)\lib
+C:\My-Stuff\GFM\gfm_2d-base-e-4\lib\furnace.jpg=$(AppPath)\lib
+C:\My-Stuff\GFM\gfm_2d-base-e-4\lib\plot.jpg=$(AppPath)\lib
+C:\My-Stuff\GFM\gfm_2d-base-e-4\lib\gfm2.cnt=$(AppPath)\lib
+C:\My-Stuff\GFM\gfm_2d-base-e-4\lib\gfm2.GID=$(AppPath)\lib
+C:\My-Stuff\GFM\gfm_2d-base-e-4\lib\gfm2.hpj=$(AppPath)\lib
+C:\My-Stuff\GFM\gfm_2d-base-e-4\lib\gfm2.rtf=$(AppPath)\lib
+C:\My-Stuff\GFM\gfm_2d-base-e-4\melt\Debug\melt.exe=$(AppPath)\melt\debug
+
+[Package|Standard Setup GFM2.1|Configure Shared Files]
+Applicable=Yes
+C:\My-Stuff\GFM\gfm_2d-base-e-4\gfm_2e.exe=No
+C:\My-Stuff\GFM\gfm_2d-base-e-4\comb\Debug\comb.exe=No
+C:\My-Stuff\GFM\gfm_2d-base-e-4\comb\Kinetic.d=No
+C:\My-Stuff\GFM\gfm_2d-base-e-4\comb\runs.dat=No
+C:\My-Stuff\GFM\gfm_2d-base-e-4\comb\runstop.dat=No
+C:\My-Stuff\GFM\gfm_2d-base-e-4\lib\GFM2.HLP=No
+C:\My-Stuff\GFM\gfm_2d-base-e-4\lib\furnace.jpg=No
+C:\My-Stuff\GFM\gfm_2d-base-e-4\lib\plot.jpg=No
+C:\My-Stuff\GFM\gfm_2d-base-e-4\lib\gfm2.cnt=No
+C:\My-Stuff\GFM\gfm_2d-base-e-4\lib\gfm2.GID=No
+C:\My-Stuff\GFM\gfm_2d-base-e-4\lib\gfm2.hpj=No
+C:\My-Stuff\GFM\gfm_2d-base-e-4\lib\gfm2.rtf=No
+C:\My-Stuff\GFM\gfm_2d-base-e-4\melt\Debug\melt.exe=No
+
+[Package|Standard Setup GFM2.1|Distribution]
+Type=single
+Size=
+Title=gfm_2e
+
+[Package|Standard Setup GFM2.1|IconGroups]
+Group0=gfm_2c
+PrivateGroup0=True
+Parent0=$(Programs)
+
+[Package|Standard Setup GFM2.1|gfm_2c]
+Icon1=gfm_2e.exe
+Title1=gfm_2c
+StartIn1=$(AppPath)
+Key1=Icon1
+
+[Package|Standard Setup GFM2.1|Package]
+PackageFolder=C:\My-Stuff\GFM\gfm_2d-base-e-4\tmp2
+ProjectFolder=C:\My-Stuff\GFM\gfm_2d-base-e-4
+ServerSideCab=
+File1=C:\My-Stuff\GFM\gfm_2d-base-e-4\tmp2\setup.exe
+File2=C:\My-Stuff\GFM\gfm_2d-base-e-4\tmp2\Setup.Lst
+File3=C:\My-Stuff\GFM\gfm_2d-base-e-4\tmp2\gfm_2e.CAB
+Handler1=PDWizard.FolderDplySubWiz
+Handler2=PDWizard.WebPostDplySubWiz

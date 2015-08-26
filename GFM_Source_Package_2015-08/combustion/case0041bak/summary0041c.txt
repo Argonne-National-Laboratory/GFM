@@ -1,0 +1,3828 @@
+# Case 0041 Summary Data for Simulation and Evolving Global Energy Distribution
+
+#   Number of cells in combustion grid:   4407
+#   Melt surface area:                    0.21000000000000E+02 m^2
+
+#   Fuel in flow rate:                    0.39762931882700E-01 kg/s
+#   Oxygen in flow rate:                  0.17547795089183E+00 kg/s
+#   Nitrogen in flow rate:                0.57791306048271E+00 kg/s
+#   Total in flow rate:                   0.79315394325724E+00 kg/s
+
+#   Heat value in with fuel:              0.19881465941350E+07 W
+  
+
+
+
+# #################   Run End   #################
+
+
+# Energy Balance on Exterior Walls
+# --------------------------------
+
+#   Total energy in:                    0.30520828071548E+07 W
+#       Energy in with flow:                0.12138074293500E+07 W
+#       Energy in via combustion:           0.18382753778049E+07 W
+
+#   Total energy leaving furnace:       0.21076882825931E+07 W
+#       Energy out with flow:               0.19902287001241E+07 W
+#       Energy out through walls:           0.10840865848393E+06 W
+#       Net radiation out inlets:           0.21785725032062E+05 W
+#       Net radiation out outlets:          0.21475092486630E+05 W
+#       Energy out to melt:                -0.34209893533617E+05 W
+#           from flame:                         0.19980063501717E+02 W
+#           from surfaces:                     -0.34440205027552E+05 W
+#           from convection:                    0.21033143043328E+03 W
+#           (sum of froms):                    -0.34209893533617E+05 W
+
+# Gas Energy Balance
+# --------------------------------
+
+#   Total energy in:                    0.30520828071548E+07 W
+#       Energy in with flow:                0.12138074293500E+07 W
+#       Energy in via combustion:           0.18382753778049E+07 W
+
+#   Energy out with or from the gas     0.21079094508680E+07 W
+#       Energy out with flow                0.19902287001241E+07 W
+#       Convection to walls                 0.10793260976780E+06 W
+#       Convection to melt surface          0.21033143043328E+03 W
+#       Radiation from flame to melt:       0.31907153457989E+04 W
+#       Radiation from flame to walls:      0.61590173952361E+04 W
+#       Radiation from flame to inlets:     0.10670181477549E+03 W
+#       Radiation from flame to exits:      0.81374989839819E+02 W
+
+# --------------------------------
+
+#   Mass in:                            0.79262854012354E+00 kg/s
+#   Mass out:                           0.79232756288370E+00 kg/s
+
+#   Fuel mass out:                      0.32678558107997E-04 kg/s
+#   Fuel energy out:                    0.16339279053998E+04 W
+
+#   Mean temperature:                   0.17178425694857E+04 K
+#   Mean exit temperature:              0.20460222647580E+04 K
+#   Mean wall temperature:              0.15510360343108E+04 K
+
+#   Cycle count:                       1
+
+
+
+# #################   Run End   #################
+
+
+# Energy Balance on Exterior Walls
+# --------------------------------
+
+#   Total energy in:                    0.30721748501836E+07 W
+#       Energy in with flow:                0.12138074293500E+07 W
+#       Energy in via combustion:           0.18583674208336E+07 W
+
+#   Total energy leaving furnace:       0.22351531624204E+07 W
+#       Energy out with flow:               0.20426268736537E+07 W
+#       Energy out through walls:           0.10787430123125E+06 W
+#       Net radiation out inlets:           0.17364252265737E+05 W
+#       Net radiation out outlets:          0.16486118171004E+05 W
+#       Energy out to melt:                 0.50801617098658E+05 W
+#           from flame:                         0.12545885787309E+04 W
+#           from surfaces:                      0.48339822558894E+05 W
+#           from convection:                    0.12072059610336E+04 W
+#           (sum of froms):                     0.50801617098658E+05 W
+
+# Gas Energy Balance
+# --------------------------------
+
+#   Total energy in:                    0.30721748501836E+07 W
+#       Energy in with flow:                0.12138074293500E+07 W
+#       Energy in via combustion:           0.18583674208336E+07 W
+
+#   Energy out with or from the gas     0.22302847704131E+07 W
+#       Energy out with flow                0.20426268736537E+07 W
+#       Convection to walls                 0.11610533000604E+06 W
+#       Convection to melt surface          0.12072059610336E+04 W
+#       Radiation from flame to melt:       0.26811756282893E+05 W
+#       Radiation from flame to walls:      0.42358217043240E+05 W
+#       Radiation from flame to inlets:     0.69479818919739E+03 W
+#       Radiation from flame to exits:      0.48058927694049E+03 W
+
+# --------------------------------
+
+#   Mass in:                            0.79263535102452E+00 kg/s
+#   Mass out:                           0.79247102202604E+00 kg/s
+
+#   Fuel mass out:                      0.35186965029260E-04 kg/s
+#   Fuel energy out:                    0.17593482514630E+04 W
+
+#   Mean temperature:                   0.17350183973764E+04 K
+#   Mean exit temperature:              0.20898331450402E+04 K
+#   Mean wall temperature:              0.15448850777149E+04 K
+
+#   Cycle count:                       2
+
+
+
+# #################   Run End   #################
+
+
+# Energy Balance on Exterior Walls
+# --------------------------------
+
+#   Total energy in:                    0.30992844149797E+07 W
+#       Energy in with flow:                0.12138074293500E+07 W
+#       Energy in via combustion:           0.18854769856297E+07 W
+
+#   Total energy leaving furnace:       0.24209578309764E+07 W
+#       Energy out with flow:               0.21252700605796E+07 W
+#       Energy out through walls:           0.10723039694812E+06 W
+#       Net radiation out inlets:           0.15782791526756E+05 W
+#       Net radiation out outlets:          0.14310038332665E+05 W
+#       Energy out to melt:                 0.15836454358921E+06 W
+#           from flame:                         0.39022263807638E+04 W
+#           from surfaces:                      0.15261632123713E+06 W
+#           from convection:                    0.18459959713162E+04 W
+#           (sum of froms):                     0.15836454358921E+06 W
+
+# Gas Energy Balance
+# --------------------------------
+
+#   Total energy in:                    0.30992844149797E+07 W
+#       Energy in with flow:                0.12138074293500E+07 W
+#       Energy in via combustion:           0.18854769856297E+07 W
+
+#   Energy out with or from the gas     0.24059703421477E+07 W
+#       Energy out with flow                0.21252700605796E+07 W
+#       Convection to walls                 0.14128012688364E+06 W
+#       Convection to melt surface          0.18459959713162E+04 W
+#       Radiation from flame to melt:       0.53347963344932E+05 W
+#       Radiation from flame to walls:      0.81934211472396E+05 W
+#       Radiation from flame to inlets:     0.13361703206086E+04 W
+#       Radiation from flame to exits:      0.95581357516440E+03 W
+
+# --------------------------------
+
+#   Mass in:                            0.79264207970232E+00 kg/s
+#   Mass out:                           0.79243309574577E+00 kg/s
+
+#   Fuel mass out:                      0.46794914607497E-04 kg/s
+#   Fuel energy out:                    0.23397457303749E+04 W
+
+#   Mean temperature:                   0.17536776361685E+04 K
+#   Mean exit temperature:              0.21560478425191E+04 K
+#   Mean wall temperature:              0.15374731313484E+04 K
+
+#   Cycle count:                       3
+
+
+
+# #################   Run End   #################
+
+
+# Energy Balance on Exterior Walls
+# --------------------------------
+
+#   Total energy in:                    0.31200653658839E+07 W
+#       Energy in with flow:                0.12138074293500E+07 W
+#       Energy in via combustion:           0.19062579365340E+07 W
+
+#   Total energy leaving furnace:       0.25569764275991E+07 W
+#       Energy out with flow:               0.21807237490060E+07 W
+#       Energy out through walls:           0.10743402138814E+06 W
+#       Net radiation out inlets:           0.17871926955670E+05 W
+#       Net radiation out outlets:          0.15788634004101E+05 W
+#       Energy out to melt:                 0.23515809624520E+06 W
+#           from flame:                         0.70735187464378E+04 W
+#           from surfaces:                      0.22580547508811E+06 W
+#           from convection:                    0.22791024106575E+04 W
+#           (sum of froms):                     0.23515809624520E+06 W
+
+# Gas Energy Balance
+# --------------------------------
+
+#   Total energy in:                    0.31200653658839E+07 W
+#       Energy in with flow:                0.12138074293500E+07 W
+#       Energy in via combustion:           0.19062579365340E+07 W
+
+#   Energy out with or from the gas     0.25356139493439E+07 W
+#       Energy out with flow                0.21807237490060E+07 W
+#       Convection to walls                 0.14773625496493E+06 W
+#       Convection to melt surface          0.22791024106575E+04 W
+#       Radiation from flame to melt:       0.79037870677335E+05 W
+#       Radiation from flame to walls:      0.12228553422683E+06 W
+#       Radiation from flame to inlets:     0.19701223131993E+04 W
+#       Radiation from flame to exits:      0.15813157448836E+04 W
+
+# --------------------------------
+
+#   Mass in:                            0.79264848258440E+00 kg/s
+#   Mass out:                           0.79254078758997E+00 kg/s
+
+#   Fuel mass out:                      0.56641459182442E-04 kg/s
+#   Fuel energy out:                    0.28320729591221E+04 W
+
+#   Mean temperature:                   0.17690021553239E+04 K
+#   Mean exit temperature:              0.22013669682908E+04 K
+#   Mean wall temperature:              0.15398170409447E+04 K
+
+#   Cycle count:                       4
+
+
+
+# #################   Run End   #################
+
+
+# Energy Balance on Exterior Walls
+# --------------------------------
+
+#   Total energy in:                    0.31381971632193E+07 W
+#       Energy in with flow:                0.12138074293500E+07 W
+#       Energy in via combustion:           0.19243897338693E+07 W
+
+#   Total energy leaving furnace:       0.26634583183367E+07 W
+#       Energy out with flow:               0.21998230665899E+07 W
+#       Energy out through walls:           0.10787114930792E+06 W
+#       Net radiation out inlets:           0.20893385423939E+05 W
+#       Net radiation out outlets:          0.18177854043424E+05 W
+#       Energy out to melt:                 0.31669286297152E+06 W
+#           from flame:                         0.10755570272367E+05 W
+#           from surfaces:                      0.30328090983990E+06 W
+#           from convection:                    0.26563828592552E+04 W
+#           (sum of froms):                     0.31669286297152E+06 W
+
+# Gas Energy Balance
+# --------------------------------
+
+#   Total energy in:                    0.31381971632193E+07 W
+#       Energy in with flow:                0.12138074293500E+07 W
+#       Energy in via combustion:           0.19243897338693E+07 W
+
+#   Energy out with or from the gas     0.26355217491172E+07 W
+#       Energy out with flow                0.21998230665899E+07 W
+#       Convection to walls                 0.15634702915369E+06 W
+#       Convection to melt surface          0.26563828592552E+04 W
+#       Radiation from flame to melt:       0.10551831807704E+06 W
+#       Radiation from flame to walls:      0.16611152960686E+06 W
+#       Radiation from flame to inlets:     0.26221379420489E+04 W
+#       Radiation from flame to exits:      0.24432848884047E+04 W
+
+# --------------------------------
+
+#   Mass in:                            0.79265454443442E+00 kg/s
+#   Mass out:                           0.79262053844272E+00 kg/s
+
+#   Fuel mass out:                      0.65401395182641E-04 kg/s
+#   Fuel energy out:                    0.32700697591321E+04 W
+
+#   Mean temperature:                   0.17770086973995E+04 K
+#   Mean exit temperature:              0.22155961034923E+04 K
+#   Mean wall temperature:              0.15448487961009E+04 K
+
+#   Cycle count:                       5
+
+
+
+# #################   Run End   #################
+
+
+# Energy Balance on Exterior Walls
+# --------------------------------
+
+#   Total energy in:                    0.31539995770394E+07 W
+#       Energy in with flow:                0.12138074293500E+07 W
+#       Energy in via combustion:           0.19401921476894E+07 W
+
+#   Total energy leaving furnace:       0.27344433717998E+07 W
+#       Energy out with flow:               0.21977733299603E+07 W
+#       Energy out through walls:           0.10826880442187E+06 W
+#       Net radiation out inlets:           0.23709177297011E+05 W
+#       Net radiation out outlets:          0.20407456448214E+05 W
+#       Energy out to melt:                 0.38428460367245E+06 W
+#           from flame:                         0.14289729244605E+05 W
+#           from surfaces:                      0.36722269304803E+06 W
+#           from convection:                    0.27721813798153E+04 W
+#           (sum of froms):                     0.38428460367245E+06 W
+
+# Gas Energy Balance
+# --------------------------------
+
+#   Total energy in:                    0.31539995770394E+07 W
+#       Energy in with flow:                0.12138074293500E+07 W
+#       Energy in via combustion:           0.19401921476894E+07 W
+
+#   Energy out with or from the gas     0.27001798159881E+07 W
+#       Energy out with flow                0.21977733299603E+07 W
+#       Convection to walls                 0.15515962839697E+06 W
+#       Convection to melt surface          0.27721813798153E+04 W
+#       Radiation from flame to melt:       0.12986207395032E+06 W
+#       Radiation from flame to walls:      0.20802793884597E+06 W
+#       Radiation from flame to inlets:     0.32148403168352E+04 W
+#       Radiation from flame to exits:      0.33698231379312E+04 W
+
+# --------------------------------
+
+#   Mass in:                            0.79266015867996E+00 kg/s
+#   Mass out:                           0.79265303611045E+00 kg/s
+
+#   Fuel mass out:                      0.72455171706552E-04 kg/s
+#   Fuel energy out:                    0.36227585853276E+04 W
+
+#   Mean temperature:                   0.17864483520486E+04 K
+#   Mean exit temperature:              0.22116793605918E+04 K
+#   Mean wall temperature:              0.15494261819861E+04 K
+
+#   Cycle count:                       6
+
+
+
+# #################   Run End   #################
+
+
+# Energy Balance on Exterior Walls
+# --------------------------------
+
+#   Total energy in:                    0.31654422279025E+07 W
+#       Energy in with flow:                0.12138074293500E+07 W
+#       Energy in via combustion:           0.19516347985525E+07 W
+
+#   Total energy leaving furnace:       0.27936920079425E+07 W
+#       Energy out with flow:               0.21870045155046E+07 W
+#       Energy out through walls:           0.10874122910131E+06 W
+#       Net radiation out inlets:           0.26420417256755E+05 W
+#       Net radiation out outlets:          0.22647073256021E+05 W
+#       Energy out to melt:                 0.44887877282383E+06 W
+#           from flame:                         0.17455410183705E+05 W
+#           from surfaces:                      0.42839501840622E+06 W
+#           from convection:                    0.30283442339065E+04 W
+#           (sum of froms):                     0.44887877282383E+06 W
+
+# Gas Energy Balance
+# --------------------------------
+
+#   Total energy in:                    0.31654422279025E+07 W
+#       Energy in with flow:                0.12138074293500E+07 W
+#       Energy in via combustion:           0.19516347985525E+07 W
+
+#   Energy out with or from the gas     0.27544222613900E+07 W
+#       Energy out with flow                0.21870045155046E+07 W
+#       Convection to walls                 0.16057082386903E+06 W
+#       Convection to melt surface          0.30283442339065E+04 W
+#       Radiation from flame to melt:       0.15068824189214E+06 W
+#       Radiation from flame to walls:      0.24509367586046E+06 W
+#       Radiation from flame to inlets:     0.37152972133782E+04 W
+#       Radiation from flame to exits:      0.43213628164320E+04 W
+
+# --------------------------------
+
+#   Mass in:                            0.79266544034815E+00 kg/s
+#   Mass out:                           0.79266410269937E+00 kg/s
+
+#   Fuel mass out:                      0.83394003430592E-04 kg/s
+#   Fuel energy out:                    0.41697001715296E+04 W
+
+#   Mean temperature:                   0.17886245931060E+04 K
+#   Mean exit temperature:              0.22000832354378E+04 K
+#   Mean wall temperature:              0.15548642361782E+04 K
+
+#   Cycle count:                       7
+
+
+
+# #################   Run End   #################
+
+
+# Energy Balance on Exterior Walls
+# --------------------------------
+
+#   Total energy in:                    0.31748644417868E+07 W
+#       Energy in with flow:                0.12138074293500E+07 W
+#       Energy in via combustion:           0.19610570124368E+07 W
+
+#   Total energy leaving furnace:       0.28315318677898E+07 W
+#       Energy out with flow:               0.21742010757827E+07 W
+#       Energy out through walls:           0.10951169500578E+06 W
+#       Net radiation out inlets:           0.29882411853026E+05 W
+#       Net radiation out outlets:          0.25705786404033E+05 W
+#       Energy out to melt:                 0.49223089874424E+06 W
+#           from flame:                         0.20505632811202E+05 W
+#           from surfaces:                      0.46884836719045E+06 W
+#           from convection:                    0.28768987425830E+04 W
+#           (sum of froms):                     0.49223089874424E+06 W
+
+# Gas Energy Balance
+# --------------------------------
+
+#   Total energy in:                    0.31748644417868E+07 W
+#       Energy in with flow:                0.12138074293500E+07 W
+#       Energy in via combustion:           0.19610570124368E+07 W
+
+#   Energy out with or from the gas     0.27876778795759E+07 W
+#       Energy out with flow                0.21742010757827E+07 W
+#       Convection to walls                 0.15067403305324E+06 W
+#       Convection to melt surface          0.28768987425830E+04 W
+#       Radiation from flame to melt:       0.17048290995095E+06 W
+#       Radiation from flame to walls:      0.28006854669856E+06 W
+#       Radiation from flame to inlets:     0.41562335859561E+04 W
+#       Radiation from flame to exits:      0.52181817618791E+04 W
+
+# --------------------------------
+
+#   Mass in:                            0.79267040166345E+00 kg/s
+#   Mass out:                           0.79268086621286E+00 kg/s
+
+#   Fuel mass out:                      0.96731664851640E-04 kg/s
+#   Fuel energy out:                    0.48365832425820E+04 W
+
+#   Mean temperature:                   0.17976654934401E+04 K
+#   Mean exit temperature:              0.21871926407520E+04 K
+#   Mean wall temperature:              0.15637330263242E+04 K
+
+#   Cycle count:                       8
+
+
+
+# #################   Run End   #################
+
+
+# Energy Balance on Exterior Walls
+# --------------------------------
+
+#   Total energy in:                    0.31768937779754E+07 W
+#       Energy in with flow:                0.12138074293500E+07 W
+#       Energy in via combustion:           0.19630863486254E+07 W
+
+#   Total energy leaving furnace:       0.28729330444270E+07 W
+#       Energy out with flow:               0.21599935642477E+07 W
+#       Energy out through walls:           0.11037262380773E+06 W
+#       Net radiation out inlets:           0.33151201529678E+05 W
+#       Net radiation out outlets:          0.28682496831235E+05 W
+#       Energy out to melt:                 0.54073315801063E+06 W
+#           from flame:                         0.23124623888330E+05 W
+#           from surfaces:                      0.51445525350562E+06 W
+#           from convection:                    0.31532806166812E+04 W
+#           (sum of froms):                     0.54073315801063E+06 W
+
+# Gas Energy Balance
+# --------------------------------
+
+#   Total energy in:                    0.31768937779754E+07 W
+#       Energy in with flow:                0.12138074293500E+07 W
+#       Energy in via combustion:           0.19630863486254E+07 W
+
+#   Energy out with or from the gas     0.28258693444225E+07 W
+#       Energy out with flow                0.21599935642477E+07 W
+#       Convection to walls                 0.15628926075380E+06 W
+#       Convection to melt surface          0.31532806166812E+04 W
+#       Radiation from flame to melt:       0.18688137220952E+06 W
+#       Radiation from flame to walls:      0.30912087654640E+06 W
+#       Radiation from flame to inlets:     0.45048872684079E+04 W
+#       Radiation from flame to exits:      0.59261027799676E+04 W
+
+# --------------------------------
+
+#   Mass in:                            0.79267516903338E+00 kg/s
+#   Mass out:                           0.79270292436792E+00 kg/s
+
+#   Fuel mass out:                      0.11081682573457E-03 kg/s
+#   Fuel energy out:                    0.55408412867286E+04 W
+
+#   Mean temperature:                   0.17972256119492E+04 K
+#   Mean exit temperature:              0.21732947411318E+04 K
+#   Mean wall temperature:              0.15736431298484E+04 K
+
+#   Cycle count:                       9
+
+
+
+# #################   Run End   #################
+
+
+# Energy Balance on Exterior Walls
+# --------------------------------
+
+#   Total energy in:                    0.31777803873802E+07 W
+#       Energy in with flow:                0.12138074293500E+07 W
+#       Energy in via combustion:           0.19639729580303E+07 W
+
+#   Total energy leaving furnace:       0.28856804597526E+07 W
+#       Energy out with flow:               0.21456346474290E+07 W
+#       Energy out through walls:           0.11101526684253E+06 W
+#       Net radiation out inlets:           0.35483531860002E+05 W
+#       Net radiation out outlets:          0.30850702490381E+05 W
+#       Energy out to melt:                 0.56269631113066E+06 W
+#           from flame:                         0.25211368892467E+05 W
+#           from surfaces:                      0.53441546997731E+06 W
+#           from convection:                    0.30694722608776E+04 W
+#           (sum of froms):                     0.56269631113066E+06 W
+
+# Gas Energy Balance
+# --------------------------------
+
+#   Total energy in:                    0.31777803873802E+07 W
+#       Energy in with flow:                0.12138074293500E+07 W
+#       Energy in via combustion:           0.19639729580303E+07 W
+
+#   Energy out with or from the gas     0.28356297602194E+07 W
+#       Energy out with flow                0.21456346474290E+07 W
+#       Convection to walls                 0.14331176963858E+06 W
+#       Convection to melt surface          0.30694722608776E+04 W
+#       Radiation from flame to melt:       0.19898161274870E+06 W
+#       Radiation from flame to walls:      0.33331236654280E+06 W
+#       Radiation from flame to inlets:     0.47699310578468E+04 W
+#       Radiation from flame to exits:      0.65499605415182E+04 W
+
+# --------------------------------
+
+#   Mass in:                            0.79267927894840E+00 kg/s
+#   Mass out:                           0.79271405667173E+00 kg/s
+
+#   Fuel mass out:                      0.13051480902362E-03 kg/s
+#   Fuel energy out:                    0.65257404511808E+04 W
+
+#   Mean temperature:                   0.18087889284759E+04 K
+#   Mean exit temperature:              0.21593180766695E+04 K
+#   Mean wall temperature:              0.15810405580555E+04 K
+
+#   Cycle count:                      10
+
+
+
+# #################   Run End   #################
+
+
+# Energy Balance on Exterior Walls
+# --------------------------------
+
+#   Total energy in:                    0.31563876453471E+07 W
+#       Energy in with flow:                0.12138074293500E+07 W
+#       Energy in via combustion:           0.19425802159971E+07 W
+
+#   Total energy leaving furnace:       0.29333891823133E+07 W
+#       Energy out with flow:               0.21116378035043E+07 W
+#       Energy out through walls:           0.11160347987065E+06 W
+#       Net radiation out inlets:           0.37581406403461E+05 W
+#       Net radiation out outlets:          0.32414430358236E+05 W
+#       Energy out to melt:                 0.64015206217670E+06 W
+#           from flame:                         0.30215971056692E+05 W
+#           from surfaces:                      0.60640595342003E+06 W
+#           from convection:                    0.35301376999754E+04 W
+#           (sum of froms):                     0.64015206217670E+06 W
+
+# Gas Energy Balance
+# --------------------------------
+
+#   Total energy in:                    0.31563876453471E+07 W
+#       Energy in with flow:                0.12138074293500E+07 W
+#       Energy in via combustion:           0.19425802159971E+07 W
+
+#   Energy out with or from the gas     0.28776823418840E+07 W
+#       Energy out with flow                0.21116378035043E+07 W
+#       Convection to walls                 0.15700590643365E+06 W
+#       Convection to melt surface          0.35301376999754E+04 W
+#       Radiation from flame to melt:       0.22506652641921E+06 W
+#       Radiation from flame to walls:      0.36873273877293E+06 W
+#       Radiation from flame to inlets:     0.51998453937001E+04 W
+#       Radiation from flame to exits:      0.65093836602953E+04 W
+
+# --------------------------------
+
+#   Mass in:                            0.79268749602555E+00 kg/s
+#   Mass out:                           0.79279948272631E+00 kg/s
+
+#   Fuel mass out:                      0.88012787514745E-04 kg/s
+#   Fuel energy out:                    0.44006393757372E+04 W
+
+#   Mean temperature:                   0.18057887166682E+04 K
+#   Mean exit temperature:              0.21355906915971E+04 K
+#   Mean wall temperature:              0.15878114454851E+04 K
+
+#   Cycle count:                      11
+
+
+
+# #################   Run End   #################
+
+
+# Energy Balance on Exterior Walls
+# --------------------------------
+
+#   Total energy in:                    0.31640660703539E+07 W
+#       Energy in with flow:                0.12138074293500E+07 W
+#       Energy in via combustion:           0.19502586410040E+07 W
+
+#   Total energy leaving furnace:       0.29523386719674E+07 W
+#       Energy out with flow:               0.21029734836772E+07 W
+#       Energy out through walls:           0.11205206273196E+06 W
+#       Net radiation out inlets:           0.39286412817273E+05 W
+#       Net radiation out outlets:          0.33998817573710E+05 W
+#       Energy out to melt:                 0.66402789516726E+06 W
+#           from flame:                         0.33024143581817E+05 W
+#           from surfaces:                      0.62800044867147E+06 W
+#           from convection:                    0.30033029139688E+04 W
+#           (sum of froms):                     0.66402789516726E+06 W
+
+# Gas Energy Balance
+# --------------------------------
+
+#   Total energy in:                    0.31640660703539E+07 W
+#       Energy in with flow:                0.12138074293500E+07 W
+#       Energy in via combustion:           0.19502586410040E+07 W
+
+#   Energy out with or from the gas     0.28920099164562E+07 W
+#       Energy out with flow                0.21029734836772E+07 W
+#       Convection to walls                 0.13718349776285E+06 W
+#       Convection to melt surface          0.30033029139688E+04 W
+#       Radiation from flame to melt:       0.23744243871175E+06 W
+#       Radiation from flame to walls:      0.39879523377479E+06 W
+#       Radiation from flame to inlets:     0.55001907017831E+04 W
+#       Radiation from flame to exits:      0.71117689138290E+04 W
+
+# --------------------------------
+
+#   Mass in:                            0.79269209724111E+00 kg/s
+#   Mass out:                           0.79273134192667E+00 kg/s
+
+#   Fuel mass out:                      0.14171737074667E-03 kg/s
+#   Fuel energy out:                    0.70858685373333E+04 W
+
+#   Mean temperature:                   0.18091630442957E+04 K
+#   Mean exit temperature:              0.21250484662284E+04 K
+#   Mean wall temperature:              0.15929750578357E+04 K
+
+#   Cycle count:                      12
+
+
+
+# #################   Run End   #################
+
+
+# Energy Balance on Exterior Walls
+# --------------------------------
+
+#   Total energy in:                    0.31650101205114E+07 W
+#       Energy in with flow:                0.12138074293500E+07 W
+#       Energy in via combustion:           0.19512026911614E+07 W
+
+#   Total energy leaving furnace:       0.30038158877105E+07 W
+#       Energy out with flow:               0.20908023882245E+07 W
+#       Energy out through walls:           0.11247237437408E+06 W
+#       Net radiation out inlets:           0.40794747039885E+05 W
+#       Net radiation out outlets:          0.35326352352007E+05 W
+#       Energy out to melt:                 0.72442002572008E+06 W
+#           from flame:                         0.36700365068464E+05 W
+#           from surfaces:                      0.68438348031329E+06 W
+#           from convection:                    0.33361803383269E+04 W
+#           (sum of froms):                     0.72442002572008E+06 W
+
+# Gas Energy Balance
+# --------------------------------
+
+#   Total energy in:                    0.31650101205114E+07 W
+#       Energy in with flow:                0.12138074293500E+07 W
+#       Energy in via combustion:           0.19512026911614E+07 W
+
+#   Energy out with or from the gas     0.29397453200651E+07 W
+#       Energy out with flow                0.20908023882245E+07 W
+#       Convection to walls                 0.15315281086762E+06 W
+#       Convection to melt surface          0.33361803383269E+04 W
+#       Radiation from flame to melt:       0.25119878659638E+06 W
+#       Radiation from flame to walls:      0.42769897427385E+06 W
+#       Radiation from flame to inlets:     0.58217733299645E+04 W
+#       Radiation from flame to exits:      0.77344064344952E+04 W
+
+# --------------------------------
+
+#   Mass in:                            0.79269484811868E+00 kg/s
+#   Mass out:                           0.79272922087538E+00 kg/s
+
+#   Fuel mass out:                      0.21919363723051E-03 kg/s
+#   Fuel energy out:                    0.10959681861526E+05 W
+
+#   Mean temperature:                   0.18087764379631E+04 K
+#   Mean exit temperature:              0.21116911018665E+04 K
+#   Mean wall temperature:              0.15978132417557E+04 K
+
+#   Cycle count:                      13
+
+
+
+# #################   Run End   #################
+
+
+# Energy Balance on Exterior Walls
+# --------------------------------
+
+#   Total energy in:                    0.31628514708841E+07 W
+#       Energy in with flow:                0.12138074293500E+07 W
+#       Energy in via combustion:           0.19490440415342E+07 W
+
+#   Total energy leaving furnace:       0.30101436941122E+07 W
+#       Energy out with flow:               0.20768059930013E+07 W
+#       Energy out through walls:           0.11272885986180E+06 W
+#       Net radiation out inlets:           0.41914756580050E+05 W
+#       Net radiation out outlets:          0.36240963217223E+05 W
+#       Energy out to melt:                 0.74245312145182E+06 W
+#           from flame:                         0.39797768514709E+05 W
+#           from surfaces:                      0.69954617351372E+06 W
+#           from convection:                    0.31091794233949E+04 W
+#           (sum of froms):                     0.74245312145182E+06 W
+
+# Gas Energy Balance
+# --------------------------------
+
+#   Total energy in:                    0.31628514708841E+07 W
+#       Energy in with flow:                0.12138074293500E+07 W
+#       Energy in via combustion:           0.19490440415342E+07 W
+
+#   Energy out with or from the gas     0.29427069309209E+07 W
+#       Energy out with flow                0.20768059930013E+07 W
+#       Convection to walls                 0.13427323162832E+06 W
+#       Convection to melt surface          0.31091794233949E+04 W
+#       Radiation from flame to melt:       0.26243644543648E+06 W
+#       Radiation from flame to walls:      0.45169904780119E+06 W
+#       Radiation from flame to inlets:     0.61189233793384E+04 W
+#       Radiation from flame to exits:      0.82641102509014E+04 W
+
+# --------------------------------
+
+#   Mass in:                            0.79269829298891E+00 kg/s
+#   Mass out:                           0.79271619014814E+00 kg/s
+
+#   Fuel mass out:                      0.33213480843257E-03 kg/s
+#   Fuel energy out:                    0.16606740421628E+05 W
+
+#   Mean temperature:                   0.18172371118996E+04 K
+#   Mean exit temperature:              0.20973034466655E+04 K
+#   Mean wall temperature:              0.16007656319301E+04 K
+
+#   Cycle count:                      14
+
+
+
+# #################   Run End   #################
+
+
+# Energy Balance on Exterior Walls
+# --------------------------------
+
+#   Total energy in:                    0.31612186110375E+07 W
+#       Energy in with flow:                0.12138074293500E+07 W
+#       Energy in via combustion:           0.19474111816875E+07 W
+
+#   Total energy leaving furnace:       0.30532134669736E+07 W
+#       Energy out with flow:               0.20658982742132E+07 W
+#       Energy out through walls:           0.11297958305872E+06 W
+#       Net radiation out inlets:           0.42763662220398E+05 W
+#       Net radiation out outlets:          0.36896917921795E+05 W
+#       Energy out to melt:                 0.79467502955945E+06 W
+#           from flame:                         0.42737332335290E+05 W
+#           from surfaces:                      0.74843562978380E+06 W
+#           from convection:                    0.35020674403581E+04 W
+#           (sum of froms):                     0.79467502955945E+06 W
+
+# Gas Energy Balance
+# --------------------------------
+
+#   Total energy in:                    0.31612186110375E+07 W
+#       Energy in with flow:                0.12138074293500E+07 W
+#       Energy in via combustion:           0.19474111816875E+07 W
+
+#   Energy out with or from the gas     0.29832634906379E+07 W
+#       Energy out with flow                0.20658982742132E+07 W
+#       Convection to walls                 0.15384958582847E+06 W
+#       Convection to melt surface          0.35020674403581E+04 W
+#       Radiation from flame to melt:       0.27234271772610E+06 W
+#       Radiation from flame to walls:      0.47260508271044E+06 W
+#       Radiation from flame to inlets:     0.63761824462788E+04 W
+#       Radiation from flame to exits:      0.86895802729714E+04 W
+
+# --------------------------------
+
+#   Mass in:                            0.79270137037185E+00 kg/s
+#   Mass out:                           0.79270093962802E+00 kg/s
+
+#   Fuel mass out:                      0.44199114671549E-03 kg/s
+#   Fuel energy out:                    0.22099557335775E+05 W
+
+#   Mean temperature:                   0.18128677177520E+04 K
+#   Mean exit temperature:              0.20879991956754E+04 K
+#   Mean wall temperature:              0.16036516926958E+04 K
+
+#   Cycle count:                      15
+
+
+
+# #################   Run End   #################
+
+
+# Energy Balance on Exterior Walls
+# --------------------------------
+
+#   Total energy in:                    0.31600436597350E+07 W
+#       Energy in with flow:                0.12138074293500E+07 W
+#       Energy in via combustion:           0.19462362303850E+07 W
+
+#   Total energy leaving furnace:       0.30525889297510E+07 W
+#       Energy out with flow:               0.20571161400647E+07 W
+#       Energy out through walls:           0.11316857896630E+06 W
+#       Net radiation out inlets:           0.43631572031366E+05 W
+#       Net radiation out outlets:          0.37577095822241E+05 W
+#       Energy out to melt:                 0.80109554286641E+06 W
+#           from flame:                         0.45063732565368E+05 W
+#           from surfaces:                      0.75284527682433E+06 W
+#           from convection:                    0.31865334767114E+04 W
+#           (sum of froms):                     0.80109554286641E+06 W
+
+# Gas Energy Balance
+# --------------------------------
+
+#   Total energy in:                    0.31600436597350E+07 W
+#       Energy in with flow:                0.12138074293500E+07 W
+#       Energy in via combustion:           0.19462362303850E+07 W
+
+#   Energy out with or from the gas     0.29799432524113E+07 W
+#       Energy out with flow                0.20571161400647E+07 W
+#       Convection to walls                 0.13290316101094E+06 W
+#       Convection to melt surface          0.31865334767114E+04 W
+#       Radiation from flame to melt:       0.28072706585139E+06 W
+#       Radiation from flame to walls:      0.49036710421051E+06 W
+#       Radiation from flame to inlets:     0.66119247019262E+04 W
+#       Radiation from flame to exits:      0.90313230951888E+04 W
+
+# --------------------------------
+
+#   Mass in:                            0.79270406565088E+00 kg/s
+#   Mass out:                           0.79269781684443E+00 kg/s
+
+#   Fuel mass out:                      0.54265361787296E-03 kg/s
+#   Fuel energy out:                    0.27132680893648E+05 W
+
+#   Mean temperature:                   0.18229680753803E+04 K
+#   Mean exit temperature:              0.20814764616718E+04 K
+#   Mean wall temperature:              0.16058272140693E+04 K
+
+#   Cycle count:                      16
+
+
+
+# #################   Run End   #################
+
+
+# Energy Balance on Exterior Walls
+# --------------------------------
+
+#   Total energy in:                    0.31591178178911E+07 W
+#       Energy in with flow:                0.12138074293500E+07 W
+#       Energy in via combustion:           0.19453103885411E+07 W
+
+#   Total energy leaving furnace:       0.31013798227125E+07 W
+#       Energy out with flow:               0.20501351530568E+07 W
+#       Energy out through walls:           0.11253920269256E+06 W
+#       Net radiation out inlets:           0.41075686028370E+05 W
+#       Net radiation out outlets:          0.34840424962089E+05 W
+#       Energy out to melt:                 0.86278935597269E+06 W
+#           from flame:                         0.48802597299908E+05 W
+#           from surfaces:                      0.80992672528582E+06 W
+#           from convection:                    0.40600333869653E+04 W
+#           (sum of froms):                     0.86278935597269E+06 W
+
+# Gas Energy Balance
+# --------------------------------
+
+#   Total energy in:                    0.31591178178911E+07 W
+#       Energy in with flow:                0.12138074293500E+07 W
+#       Energy in via combustion:           0.19453103885411E+07 W
+
+#   Energy out with or from the gas     0.30258682900870E+07 W
+#       Energy out with flow                0.20501351530568E+07 W
+#       Convection to walls                 0.16104843768406E+06 W
+#       Convection to melt surface          0.40600333869653E+04 W
+#       Radiation from flame to melt:       0.28824991735309E+06 W
+#       Radiation from flame to walls:      0.50623405979437E+06 W
+#       Radiation from flame to inlets:     0.68248216288207E+04 W
+#       Radiation from flame to exits:      0.93158671829346E+04 W
+
+# --------------------------------
+
+#   Mass in:                            0.79270653613948E+00 kg/s
+#   Mass out:                           0.79270525958009E+00 kg/s
+
+#   Fuel mass out:                      0.62921827552018E-03 kg/s
+#   Fuel energy out:                    0.31460913776009E+05 W
+
+#   Mean temperature:                   0.18154980903610E+04 K
+#   Mean exit temperature:              0.20741205481778E+04 K
+#   Mean wall temperature:              0.15985824988104E+04 K
+
+#   Cycle count:                      17
+
+
+
+# #################   Run End   #################
+
+
+# Energy Balance on Exterior Walls
+# --------------------------------
+
+#   Total energy in:                    0.31587152911837E+07 W
+#       Energy in with flow:                0.12138074293500E+07 W
+#       Energy in via combustion:           0.19449078618338E+07 W
+
+#   Total energy leaving furnace:       0.31001265333813E+07 W
+#       Energy out with flow:               0.20436561898560E+07 W
+#       Energy out through walls:           0.11230770446993E+06 W
+#       Net radiation out inlets:           0.40357585052699E+05 W
+#       Net radiation out outlets:          0.33933106408624E+05 W
+#       Energy out to melt:                 0.86987194759400E+06 W
+#           from flame:                         0.51339015726500E+05 W
+#           from surfaces:                      0.81461094692957E+06 W
+#           from convection:                    0.39219849379321E+04 W
+#           (sum of froms):                     0.86987194759400E+06 W
+
+# Gas Energy Balance
+# --------------------------------
+
+#   Total energy in:                    0.31587152911837E+07 W
+#       Energy in with flow:                0.12138074293500E+07 W
+#       Energy in via combustion:           0.19449078618338E+07 W
+
+#   Energy out with or from the gas     0.30222046754826E+07 W
+#       Energy out with flow                0.20436561898560E+07 W
+#       Convection to walls                 0.14276714097368E+06 W
+#       Convection to melt surface          0.39219849379321E+04 W
+#       Radiation from flame to melt:       0.29528858294133E+06 W
+#       Radiation from flame to walls:      0.52000078910165E+06 W
+#       Radiation from flame to inlets:     0.70187696932657E+04 W
+#       Radiation from flame to exits:      0.95512179787498E+04 W
+
+# --------------------------------
+
+#   Mass in:                            0.79270874006390E+00 kg/s
+#   Mass out:                           0.79271451391787E+00 kg/s
+
+#   Fuel mass out:                      0.70866358067650E-03 kg/s
+#   Fuel energy out:                    0.35433179033825E+05 W
+
+#   Mean temperature:                   0.18253427429714E+04 K
+#   Mean exit temperature:              0.20672216929142E+04 K
+#   Mean wall temperature:              0.15959177356538E+04 K
+
+#   Cycle count:                      18
+
+
+
+# #################   Run End   #################
+
+
+# Energy Balance on Exterior Walls
+# --------------------------------
+
+#   Total energy in:                    0.31582552824783E+07 W
+#       Energy in with flow:                0.12138074293500E+07 W
+#       Energy in via combustion:           0.19444478531284E+07 W
+
+#   Total energy leaving furnace:       0.31330848149237E+07 W
+#       Energy out with flow:               0.20375338753518E+07 W
+#       Energy out through walls:           0.11208864343952E+06 W
+#       Net radiation out inlets:           0.39384995615444E+05 W
+#       Net radiation out outlets:          0.32847141334522E+05 W
+#       Energy out to melt:                 0.91123015918237E+06 W
+#           from flame:                         0.53434724999866E+05 W
+#           from surfaces:                      0.85313175038392E+06 W
+#           from convection:                    0.46636837985892E+04 W
+#           (sum of froms):                     0.91123015918237E+06 W
+
+# Gas Energy Balance
+# --------------------------------
+
+#   Total energy in:                    0.31582552824783E+07 W
+#       Energy in with flow:                0.12138074293500E+07 W
+#       Energy in via combustion:           0.19444478531284E+07 W
+
+#   Energy out with or from the gas     0.30540812594605E+07 W
+#       Energy out with flow                0.20375338753518E+07 W
+#       Convection to walls                 0.16629800890814E+06 W
+#       Convection to melt surface          0.46636837985892E+04 W
+#       Radiation from flame to melt:       0.29935172403318E+06 W
+#       Radiation from flame to walls:      0.52927625153796E+06 W
+#       Radiation from flame to inlets:     0.71533447214231E+04 W
+#       Radiation from flame to exits:      0.98043711093477E+04 W
+
+# --------------------------------
+
+#   Mass in:                            0.79271027586715E+00 kg/s
+#   Mass out:                           0.79271914077189E+00 kg/s
+
+#   Fuel mass out:                      0.77636025504807E-03 kg/s
+#   Fuel energy out:                    0.38818012752403E+05 W
+
+#   Mean temperature:                   0.18171243557560E+04 K
+#   Mean exit temperature:              0.20607707218931E+04 K
+#   Mean wall temperature:              0.15933961363245E+04 K
+
+#   Cycle count:                      19
+
+
+
+# #################   Run End   #################
+
+
+# Energy Balance on Exterior Walls
+# --------------------------------
+
+#   Total energy in:                    0.31564226176845E+07 W
+#       Energy in with flow:                0.12138074293500E+07 W
+#       Energy in via combustion:           0.19426151883345E+07 W
+
+#   Total energy leaving furnace:       0.31252914196282E+07 W
+#       Energy out with flow:               0.20307610313671E+07 W
+#       Energy out through walls:           0.11199723973733E+06 W
+#       Net radiation out inlets:           0.39167234568242E+05 W
+#       Net radiation out outlets:          0.32522174064084E+05 W
+#       Energy out to melt:                 0.91084373989145E+06 W
+#           from flame:                         0.55313104317169E+05 W
+#           from surfaces:                      0.85107437603658E+06 W
+#           from convection:                    0.44562595376999E+04 W
+#           (sum of froms):                     0.91084373989145E+06 W
+
+# Gas Energy Balance
+# --------------------------------
+
+#   Total energy in:                    0.31564226176845E+07 W
+#       Energy in with flow:                0.12138074293500E+07 W
+#       Energy in via combustion:           0.19426151883345E+07 W
+
+#   Energy out with or from the gas     0.30445640788694E+07 W
+#       Energy out with flow                0.20307610313671E+07 W
+#       Convection to walls                 0.14813483750766E+06 W
+#       Convection to melt surface          0.44562595376999E+04 W
+#       Radiation from flame to melt:       0.30438822177339E+06 W
+#       Radiation from flame to walls:      0.53941804111928E+06 W
+#       Radiation from flame to inlets:     0.72916648505923E+04 W
+#       Radiation from flame to exits:      0.10114022713690E+05 W
+
+# --------------------------------
+
+#   Mass in:                            0.79271225549055E+00 kg/s
+#   Mass out:                           0.79272946963497E+00 kg/s
+
+#   Fuel mass out:                      0.82828722612943E-03 kg/s
+#   Fuel energy out:                    0.41414361306471E+05 W
+
+#   Mean temperature:                   0.18272114864332E+04 K
+#   Mean exit temperature:              0.20549845074180E+04 K
+#   Mean wall temperature:              0.15923439933958E+04 K
+
+#   Cycle count:                      20
+
+
+
+# #################   Run End   #################
+
+
+# Energy Balance on Exterior Walls
+# --------------------------------
+
+#   Total energy in:                    0.31443522206841E+07 W
+#       Energy in with flow:                0.12138074293500E+07 W
+#       Energy in via combustion:           0.19305447913341E+07 W
+
+#   Total energy leaving furnace:       0.31572716623926E+07 W
+#       Energy out with flow:               0.20107594866834E+07 W
+#       Energy out through walls:           0.11193364226637E+06 W
+#       Net radiation out inlets:           0.38825134025609E+05 W
+#       Net radiation out outlets:          0.31736604059835E+05 W
+#       Energy out to melt:                 0.96401679535732E+06 W
+#           from flame:                         0.58606236612068E+05 W
+#           from surfaces:                      0.90046143249034E+06 W
+#           from convection:                    0.49491262549093E+04 W
+#           (sum of froms):                     0.96401679535732E+06 W
+
+# Gas Energy Balance
+# --------------------------------
+
+#   Total energy in:                    0.31443522206841E+07 W
+#       Energy in with flow:                0.12138074293500E+07 W
+#       Energy in via combustion:           0.19305447913341E+07 W
+
+#   Energy out with or from the gas     0.30733480041547E+07 W
+#       Energy out with flow                0.20107594866834E+07 W
+#       Convection to walls                 0.16863283144567E+06 W
+#       Convection to melt surface          0.49491262549093E+04 W
+#       Radiation from flame to melt:       0.31738915846541E+06 W
+#       Radiation from flame to walls:      0.55454157346263E+06 W
+#       Radiation from flame to inlets:     0.75008028392948E+04 W
+#       Radiation from flame to exits:      0.95750250033677E+04 W
+
+# --------------------------------
+
+#   Mass in:                            0.79271647440114E+00 kg/s
+#   Mass out:                           0.79280466499889E+00 kg/s
+
+#   Fuel mass out:                      0.57395969152798E-03 kg/s
+#   Fuel energy out:                    0.28697984576399E+05 W
+
+#   Mean temperature:                   0.18196887927555E+04 K
+#   Mean exit temperature:              0.20424266056958E+04 K
+#   Mean wall temperature:              0.15916119264471E+04 K
+
+#   Cycle count:                      21
+
+
+
+# #################   Run End   #################
+
+
+# Energy Balance on Exterior Walls
+# --------------------------------
+
+#   Total energy in:                    0.31475499194122E+07 W
+#       Energy in with flow:                0.12138074293500E+07 W
+#       Energy in via combustion:           0.19337424900623E+07 W
+
+#   Total energy leaving furnace:       0.31520878480911E+07 W
+#       Energy out with flow:               0.20054633676887E+07 W
+#       Energy out through walls:           0.11204079147580E+06 W
+#       Net radiation out inlets:           0.39389411113517E+05 W
+#       Net radiation out outlets:          0.32109401294969E+05 W
+#       Energy out to melt:                 0.96308487651814E+06 W
+#           from flame:                         0.59824055072616E+05 W
+#           from surfaces:                      0.89921965236029E+06 W
+#           from convection:                    0.40411690852382E+04 W
+#           (sum of froms):                     0.96308487651814E+06 W
+
+# Gas Energy Balance
+# --------------------------------
+
+#   Total energy in:                    0.31475499194122E+07 W
+#       Energy in with flow:                0.12138074293500E+07 W
+#       Energy in via combustion:           0.19337424900623E+07 W
+
+#   Energy out with or from the gas     0.30646999904673E+07 W
+#       Energy out with flow                0.20054633676887E+07 W
+#       Convection to walls                 0.14377164230072E+06 W
+#       Convection to melt surface          0.40411690852382E+04 W
+#       Radiation from flame to melt:       0.32256612829196E+06 W
+#       Radiation from flame to walls:      0.57145527796577E+06 W
+#       Radiation from flame to inlets:     0.76793492923135E+04 W
+#       Radiation from flame to exits:      0.97230558425983E+04 W
+
+# --------------------------------
+
+#   Mass in:                            0.79271837595369E+00 kg/s
+#   Mass out:                           0.79274615304711E+00 kg/s
+
+#   Fuel mass out:                      0.67807087134597E-03 kg/s
+#   Fuel energy out:                    0.33903543567299E+05 W
+
+#   Mean temperature:                   0.18181813464858E+04 K
+#   Mean exit temperature:              0.20363145911128E+04 K
+#   Mean wall temperature:              0.15928453150334E+04 K
+
+#   Cycle count:                      22
+
+
+
+# #################   Run End   #################
+
+
+# Energy Balance on Exterior Walls
+# --------------------------------
+
+#   Total energy in:                    0.31463665001616E+07 W
+#       Energy in with flow:                0.12138074293500E+07 W
+#       Energy in via combustion:           0.19325590708117E+07 W
+
+#   Total energy leaving furnace:       0.31957851513912E+07 W
+#       Energy out with flow:               0.20028478441039E+07 W
+#       Energy out through walls:           0.11214297487136E+06 W
+#       Net radiation out inlets:           0.39736348288235E+05 W
+#       Net radiation out outlets:          0.32279282608115E+05 W
+#       Energy out to melt:                 0.10087787015196E+07 W
+#           from flame:                         0.62471716445758E+05 W
+#           from surfaces:                      0.94170316168172E+06 W
+#           from convection:                    0.46038233921391E+04 W
+#           (sum of froms):                     0.10087787015196E+07 W
+
+# Gas Energy Balance
+# --------------------------------
+
+#   Total energy in:                    0.31463665001616E+07 W
+#       Energy in with flow:                0.12138074293500E+07 W
+#       Energy in via combustion:           0.19325590708117E+07 W
+
+#   Energy out with or from the gas     0.31060964117214E+07 W
+#       Energy out with flow                0.20028478441039E+07 W
+#       Convection to walls                 0.16237434902820E+06 W
+#       Convection to melt surface          0.46038233921391E+04 W
+#       Radiation from flame to melt:       0.33069342705000E+06 W
+#       Radiation from flame to walls:      0.58772316686248E+06 W
+#       Radiation from flame to inlets:     0.78811313673409E+04 W
+#       Radiation from flame to exits:      0.99726699173613E+04 W
+
+# --------------------------------
+
+#   Mass in:                            0.79271987458731E+00 kg/s
+#   Mass out:                           0.79272449436341E+00 kg/s
+
+#   Fuel mass out:                      0.77790680478367E-03 kg/s
+#   Fuel energy out:                    0.38895340239183E+05 W
+
+#   Mean temperature:                   0.18143174219206E+04 K
+#   Mean exit temperature:              0.20336012702769E+04 K
+#   Mean wall temperature:              0.15940215424127E+04 K
+
+#   Cycle count:                      23
+
+
+
+# #################   Run End   #################
+
+
+# Energy Balance on Exterior Walls
+# --------------------------------
+
+#   Total energy in:                    0.31445258139544E+07 W
+#       Energy in with flow:                0.12138074293500E+07 W
+#       Energy in via combustion:           0.19307183846045E+07 W
+
+#   Total energy leaving furnace:       0.31931521156425E+07 W
+#       Energy out with flow:               0.20014160713123E+07 W
+#       Energy out through walls:           0.11234059528003E+06 W
+#       Net radiation out inlets:           0.40679794074694E+05 W
+#       Net radiation out outlets:          0.33028434060773E+05 W
+#       Energy out to melt:                 0.10056872209146E+07 W
+#           from flame:                         0.63947950865448E+05 W
+#           from surfaces:                      0.93767096787461E+06 W
+#           from convection:                    0.40683021745812E+04 W
+#           (sum of froms):                     0.10056872209146E+07 W
+
+# Gas Energy Balance
+# --------------------------------
+
+#   Total energy in:                    0.31445258139544E+07 W
+#       Energy in with flow:                0.12138074293500E+07 W
+#       Energy in via combustion:           0.19307183846045E+07 W
+
+#   Energy out with or from the gas     0.31015409948536E+07 W
+#       Energy out with flow                0.20014160713123E+07 W
+#       Convection to walls                 0.14179741129256E+06 W
+#       Convection to melt surface          0.40683021745812E+04 W
+#       Radiation from flame to melt:       0.33688104301116E+06 W
+#       Radiation from flame to walls:      0.59917275308915E+06 W
+#       Radiation from flame to inlets:     0.80598760823965E+04 W
+#       Radiation from flame to exits:      0.10145537891444E+05 W
+
+# --------------------------------
+
+#   Mass in:                            0.79272112068993E+00 kg/s
+#   Mass out:                           0.79270817762588E+00 kg/s
+
+#   Fuel mass out:                      0.86307131764067E-03 kg/s
+#   Fuel energy out:                    0.43153565882034E+05 W
+
+#   Mean temperature:                   0.18180918354736E+04 K
+#   Mean exit temperature:              0.20311536671380E+04 K
+#   Mean wall temperature:              0.15962963399383E+04 K
+
+#   Cycle count:                      24
+
+
+
+# #################   Run End   #################
+
+
+# Energy Balance on Exterior Walls
+# --------------------------------
+
+#   Total energy in:                    0.31439341135808E+07 W
+#       Energy in with flow:                0.12138074293500E+07 W
+#       Energy in via combustion:           0.19301266842309E+07 W
+
+#   Total energy leaving furnace:       0.32230331362840E+07 W
+#       Energy out with flow:               0.20010709394295E+07 W
+#       Energy out through walls:           0.11248308379250E+06 W
+#       Net radiation out inlets:           0.41162536650140E+05 W
+#       Net radiation out outlets:          0.33328582513575E+05 W
+#       Energy out to melt:                 0.10349879938983E+07 W
+#           from flame:                         0.65117018302306E+05 W
+#           from surfaces:                      0.96535130119411E+06 W
+#           from convection:                    0.45196744018390E+04 W
+#           (sum of froms):                     0.10349879938983E+07 W
+
+# Gas Energy Balance
+# --------------------------------
+
+#   Total energy in:                    0.31439341135808E+07 W
+#       Energy in with flow:                0.12138074293500E+07 W
+#       Energy in via combustion:           0.19301266842309E+07 W
+
+#   Energy out with or from the gas     0.31308190558757E+07 W
+#       Energy out with flow                0.20010709394295E+07 W
+#       Convection to walls                 0.15878082759574E+06 W
+#       Convection to melt surface          0.45196744018390E+04 W
+#       Radiation from flame to melt:       0.34067477796958E+06 W
+#       Radiation from flame to walls:      0.60730050700846E+06 W
+#       Radiation from flame to inlets:     0.82015184740557E+04 W
+#       Radiation from flame to exits:      0.10270810996513E+05 W
+
+# --------------------------------
+
+#   Mass in:                            0.79272220258377E+00 kg/s
+#   Mass out:                           0.79270630128910E+00 kg/s
+
+#   Fuel mass out:                      0.95000075523264E-03 kg/s
+#   Fuel energy out:                    0.47500037761632E+05 W
+
+#   Mean temperature:                   0.18113784633805E+04 K
+#   Mean exit temperature:              0.20324043485214E+04 K
+#   Mean wall temperature:              0.15979365172751E+04 K
+
+#   Cycle count:                      25
+
+
+
+# #################   Run End   #################
+
+
+# Energy Balance on Exterior Walls
+# --------------------------------
+
+#   Total energy in:                    0.31442256379126E+07 W
+#       Energy in with flow:                0.12138074293500E+07 W
+#       Energy in via combustion:           0.19304182085626E+07 W
+
+#   Total energy leaving furnace:       0.32190900023187E+07 W
+#       Energy out with flow:               0.19999483712023E+07 W
+#       Energy out through walls:           0.11228772449344E+06 W
+#       Net radiation out inlets:           0.40490817115789E+05 W
+#       Net radiation out outlets:          0.32520916389847E+05 W
+#       Energy out to melt:                 0.10338421731173E+07 W
+#           from flame:                         0.67005381491124E+05 W
+#           from surfaces:                      0.96260404619130E+06 W
+#           from convection:                    0.42327454348697E+04 W
+#           (sum of froms):                     0.10338421731173E+07 W
+
+# Gas Energy Balance
+# --------------------------------
+
+#   Total energy in:                    0.31442256379126E+07 W
+#       Energy in with flow:                0.12138074293500E+07 W
+#       Energy in via combustion:           0.19304182085626E+07 W
+
+#   Energy out with or from the gas     0.31252149428419E+07 W
+#       Energy out with flow                0.19999483712023E+07 W
+#       Convection to walls                 0.14205077770947E+06 W
+#       Convection to melt surface          0.42327454348697E+04 W
+#       Radiation from flame to melt:       0.34489871938775E+06 W
+#       Radiation from flame to walls:      0.61534822265760E+06 W
+#       Radiation from flame to inlets:     0.83395680389109E+04 W
+#       Radiation from flame to exits:      0.10396538411036E+05 W
+
+# --------------------------------
+
+#   Mass in:                            0.79272353102814E+00 kg/s
+#   Mass out:                           0.79271733104024E+00 kg/s
+
+#   Fuel mass out:                      0.10364942917988E-02 kg/s
+#   Fuel energy out:                    0.51824714589940E+05 W
+
+#   Mean temperature:                   0.18160088912243E+04 K
+#   Mean exit temperature:              0.20303204389306E+04 K
+#   Mean wall temperature:              0.15956877472564E+04 K
+
+#   Cycle count:                      26
+
+
+
+# #################   Run End   #################
+
+
+# Energy Balance on Exterior Walls
+# --------------------------------
+
+#   Total energy in:                    0.31451603912807E+07 W
+#       Energy in with flow:                0.12138074293500E+07 W
+#       Energy in via combustion:           0.19313529619307E+07 W
+
+#   Total energy leaving furnace:       0.32448050268221E+07 W
+#       Energy out with flow:               0.19984288021239E+07 W
+#       Energy out through walls:           0.11206257915688E+06 W
+#       Net radiation out inlets:           0.39548987356198E+05 W
+#       Net radiation out outlets:          0.31467073192082E+05 W
+#       Energy out to melt:                 0.10632975849930E+07 W
+#           from flame:                         0.68416994030165E+05 W
+#           from surfaces:                      0.98999560693700E+06 W
+#           from convection:                    0.48849840258278E+04 W
+#           (sum of froms):                     0.10632975849930E+07 W
+
+# Gas Energy Balance
+# --------------------------------
+
+#   Total energy in:                    0.31451603912807E+07 W
+#       Energy in with flow:                0.12138074293500E+07 W
+#       Energy in via combustion:           0.19313529619307E+07 W
+
+#   Energy out with or from the gas     0.31507553399747E+07 W
+#       Energy out with flow                0.19984288021239E+07 W
+#       Convection to walls                 0.16104905326310E+06 W
+#       Convection to melt surface          0.48849840258278E+04 W
+#       Radiation from flame to melt:       0.34691061866383E+06 W
+#       Radiation from flame to walls:      0.62055747073219E+06 W
+#       Radiation from flame to inlets:     0.84386834762407E+04 W
+#       Radiation from flame to exits:      0.10485727689537E+05 W
+
+# --------------------------------
+
+#   Mass in:                            0.79272446282788E+00 kg/s
+#   Mass out:                           0.79271636237888E+00 kg/s
+
+#   Fuel mass out:                      0.11090755596684E-02 kg/s
+#   Fuel energy out:                    0.55453777983420E+05 W
+
+#   Mean temperature:                   0.18080620746874E+04 K
+#   Mean exit temperature:              0.20278339297725E+04 K
+#   Mean wall temperature:              0.15930961118177E+04 K
+
+#   Cycle count:                      27
+
+
+
+# #################   Run End   #################
+
+
+# Energy Balance on Exterior Walls
+# --------------------------------
+
+#   Total energy in:                    0.31460327603021E+07 W
+#       Energy in with flow:                0.12138074293500E+07 W
+#       Energy in via combustion:           0.19322253309521E+07 W
+
+#   Total energy leaving furnace:       0.32276788079206E+07 W
+#       Energy out with flow:               0.19977410280867E+07 W
+#       Energy out through walls:           0.11243927030636E+06 W
+#       Net radiation out inlets:           0.41038049599758E+05 W
+#       Net radiation out outlets:          0.32865887609259E+05 W
+#       Energy out to melt:                 0.10435945723185E+07 W
+#           from flame:                         0.68060328398234E+05 W
+#           from surfaces:                      0.97130466766031E+06 W
+#           from convection:                    0.42295762599677E+04 W
+#           (sum of froms):                     0.10435945723185E+07 W
+
+# Gas Energy Balance
+# --------------------------------
+
+#   Total energy in:                    0.31460327603021E+07 W
+#       Energy in with flow:                0.12138074293500E+07 W
+#       Energy in via combustion:           0.19322253309521E+07 W
+
+#   Energy out with or from the gas     0.31332963801430E+07 W
+#       Energy out with flow                0.19977410280867E+07 W
+#       Convection to walls                 0.13968676795062E+06 W
+#       Convection to melt surface          0.42295762599677E+04 W
+#       Radiation from flame to melt:       0.34858859077369E+06 W
+#       Radiation from flame to walls:      0.62398958998797E+06 W
+#       Radiation from flame to inlets:     0.85100756761038E+04 W
+#       Radiation from flame to exits:      0.10550751407918E+05 W
+
+# --------------------------------
+
+#   Mass in:                            0.79272518131827E+00 kg/s
+#   Mass out:                           0.79271696290440E+00 kg/s
+
+#   Fuel mass out:                      0.11688572398690E-02 kg/s
+#   Fuel energy out:                    0.58442861993449E+05 W
+
+#   Mean temperature:                   0.18143502420081E+04 K
+#   Mean exit temperature:              0.20261894142754E+04 K
+#   Mean wall temperature:              0.15974321826746E+04 K
+
+#   Cycle count:                      28
+
+
+
+# #################   Run End   #################
+
+
+# Energy Balance on Exterior Walls
+# --------------------------------
+
+#   Total energy in:                    0.31464435325262E+07 W
+#       Energy in with flow:                0.12138074293500E+07 W
+#       Energy in via combustion:           0.19326361031762E+07 W
+
+#   Total energy leaving furnace:       0.32515141008642E+07 W
+#       Energy out with flow:               0.19959678253540E+07 W
+#       Energy out through walls:           0.11225125284203E+06 W
+#       Net radiation out inlets:           0.40211932275164E+05 W
+#       Net radiation out outlets:          0.32008902079654E+05 W
+#       Energy out to melt:                 0.10710741883133E+07 W
+#           from flame:                         0.69399120973657E+05 W
+#           from surfaces:                      0.99671623828782E+06 W
+#           from convection:                    0.49588290518047E+04 W
+#           (sum of froms):                     0.10710741883133E+07 W
+
+# Gas Energy Balance
+# --------------------------------
+
+#   Total energy in:                    0.31464435325262E+07 W
+#       Energy in with flow:                0.12138074293500E+07 W
+#       Energy in via combustion:           0.19326361031762E+07 W
+
+#   Energy out with or from the gas     0.31570654897490E+07 W
+#       Energy out with flow                0.19959678253540E+07 W
+#       Convection to walls                 0.15941937394358E+06 W
+#       Convection to melt surface          0.49588290518047E+04 W
+#       Radiation from flame to melt:       0.35050834696133E+06 W
+#       Radiation from flame to walls:      0.62696849832190E+06 W
+#       Radiation from flame to inlets:     0.85563184494243E+04 W
+#       Radiation from flame to exits:      0.10686297666958E+05 W
+
+# --------------------------------
+
+#   Mass in:                            0.79272575647138E+00 kg/s
+#   Mass out:                           0.79272696165074E+00 kg/s
+
+#   Fuel mass out:                      0.12090352689902E-02 kg/s
+#   Fuel energy out:                    0.60451763449512E+05 W
+
+#   Mean temperature:                   0.18068166317585E+04 K
+#   Mean exit temperature:              0.20252826828635E+04 K
+#   Mean wall temperature:              0.15952679241068E+04 K
+
+#   Cycle count:                      29
+
+
+
+# #################   Run End   #################
+
+
+# Energy Balance on Exterior Walls
+# --------------------------------
+
+#   Total energy in:                    0.31460964230243E+07 W
+#       Energy in with flow:                0.12138074293500E+07 W
+#       Energy in via combustion:           0.19322889936744E+07 W
+
+#   Total energy leaving furnace:       0.32182469610076E+07 W
+#       Energy out with flow:               0.19925275332019E+07 W
+#       Energy out through walls:           0.11263175857400E+06 W
+#       Net radiation out inlets:           0.41631583366849E+05 W
+#       Net radiation out outlets:          0.33481405821576E+05 W
+#       Energy out to melt:                 0.10379746800432E+07 W
+#           from flame:                         0.67129290696259E+05 W
+#           from surfaces:                      0.96675490899392E+06 W
+#           from convection:                    0.40904803530096E+04 W
+#           (sum of froms):                     0.10379746800432E+07 W
+
+# Gas Energy Balance
+# --------------------------------
+
+#   Total energy in:                    0.31460964230243E+07 W
+#       Energy in with flow:                0.12138074293500E+07 W
+#       Energy in via combustion:           0.19322889936744E+07 W
+
+#   Energy out with or from the gas     0.31244473657513E+07 W
+#       Energy out with flow                0.19925275332019E+07 W
+#       Convection to walls                 0.13811245563301E+06 W
+#       Convection to melt surface          0.40904803530096E+04 W
+#       Radiation from flame to melt:       0.34644895432748E+06 W
+#       Radiation from flame to walls:      0.62391207344440E+06 W
+#       Radiation from flame to inlets:     0.85275407933143E+04 W
+#       Radiation from flame to exits:      0.10828327998177E+05 W
+
+# --------------------------------
+
+#   Mass in:                            0.79272643695657E+00 kg/s
+#   Mass out:                           0.79273988241473E+00 kg/s
+
+#   Fuel mass out:                      0.12333456107727E-02 kg/s
+#   Fuel energy out:                    0.61667280538636E+05 W
+
+#   Mean temperature:                   0.18137076442613E+04 K
+#   Mean exit temperature:              0.20216137844127E+04 K
+#   Mean wall temperature:              0.15996479044104E+04 K
+
+#   Cycle count:                      30
+
+
+
+# #################   Run End   #################
+
+
+# Energy Balance on Exterior Walls
+# --------------------------------
+
+#   Total energy in:                    0.31377721642977E+07 W
+#       Energy in with flow:                0.12138074293500E+07 W
+#       Energy in via combustion:           0.19239647349477E+07 W
+
+#   Total energy leaving furnace:       0.32420754241557E+07 W
+#       Energy out with flow:               0.19769489814806E+07 W
+#       Energy out through walls:           0.11230343014529E+06 W
+#       Net radiation out inlets:           0.40358362358601E+05 W
+#       Net radiation out outlets:          0.31929785553366E+05 W
+#       Energy out to melt:                 0.10805348646179E+07 W
+#           from flame:                         0.70555629084633E+05 W
+#           from surfaces:                      0.10052243392457E+07 W
+#           from convection:                    0.47548962875906E+04 W
+#           (sum of froms):                     0.10805348646179E+07 W
+
+# Gas Energy Balance
+# --------------------------------
+
+#   Total energy in:                    0.31377721642977E+07 W
+#       Energy in with flow:                0.12138074293500E+07 W
+#       Energy in via combustion:           0.19239647349477E+07 W
+
+#   Energy out with or from the gas     0.31463270424803E+07 W
+#       Energy out with flow                0.19769489814806E+07 W
+#       Convection to walls                 0.15679644211654E+06 W
+#       Convection to melt surface          0.47548962875906E+04 W
+#       Radiation from flame to melt:       0.35671898286486E+06 W
+#       Radiation from flame to walls:      0.63215065565512E+06 W
+#       Radiation from flame to inlets:     0.86477146204611E+04 W
+#       Radiation from flame to exits:      0.10309369455142E+05 W
+
+# --------------------------------
+
+#   Mass in:                            0.79272859710950E+00 kg/s
+#   Mass out:                           0.79281284644936E+00 kg/s
+
+#   Fuel mass out:                      0.88907471113848E-03 kg/s
+#   Fuel energy out:                    0.44453735556924E+05 W
+
+#   Mean temperature:                   0.18056738621629E+04 K
+#   Mean exit temperature:              0.20121648490769E+04 K
+#   Mean wall temperature:              0.15958685341408E+04 K
+
+#   Cycle count:                      31
+
+
+
+# #################   Run End   #################
+
+
+# Energy Balance on Exterior Walls
+# --------------------------------
+
+#   Total energy in:                    0.31402383975924E+07 W
+#       Energy in with flow:                0.12138074293500E+07 W
+#       Energy in via combustion:           0.19264309682424E+07 W
+
+#   Total energy leaving furnace:       0.32289509463268E+07 W
+#       Energy out with flow:               0.19713077395678E+07 W
+#       Energy out through walls:           0.11293630011835E+06 W
+#       Net radiation out inlets:           0.42953111221041E+05 W
+#       Net radiation out outlets:          0.34300624178738E+05 W
+#       Energy out to melt:                 0.10674531712409E+07 W
+#           from flame:                         0.69931339791496E+05 W
+#           from surfaces:                      0.99394593361934E+06 W
+#           from convection:                    0.35758978300448E+04 W
+#           (sum of froms):                     0.10674531712409E+07 W
+
+# Gas Energy Balance
+# --------------------------------
+
+#   Total energy in:                    0.31402383975924E+07 W
+#       Energy in with flow:                0.12138074293500E+07 W
+#       Energy in via combustion:           0.19264309682424E+07 W
+
+#   Energy out with or from the gas     0.31308749349107E+07 W
+#       Energy out with flow                0.19713077395678E+07 W
+#       Convection to walls                 0.13032290615713E+06 W
+#       Convection to melt surface          0.35758978300448E+04 W
+#       Radiation from flame to melt:       0.36041900350500E+06 W
+#       Radiation from flame to walls:      0.64606287587435E+06 W
+#       Radiation from flame to inlets:     0.87954375404131E+04 W
+#       Radiation from flame to exits:      0.10391074435954E+05 W
+
+# --------------------------------
+
+#   Mass in:                            0.79272947215282E+00 kg/s
+#   Mass out:                           0.79274827487071E+00 kg/s
+
+#   Fuel mass out:                      0.95269570097788E-03 kg/s
+#   Fuel energy out:                    0.47634785048894E+05 W
+
+#   Mean temperature:                   0.18041783054999E+04 K
+#   Mean exit temperature:              0.20062290017019E+04 K
+#   Mean wall temperature:              0.16031534651781E+04 K
+
+#   Cycle count:                      32
+
+
+
+# #################   Run End   #################
+
+
+# Energy Balance on Exterior Walls
+# --------------------------------
+
+#   Total energy in:                    0.31392843100819E+07 W
+#       Energy in with flow:                0.12138074293500E+07 W
+#       Energy in via combustion:           0.19254768807319E+07 W
+
+#   Total energy leaving furnace:       0.32634923415525E+07 W
+#       Energy out with flow:               0.19729293401634E+07 W
+#       Energy out through walls:           0.11299999849573E+06 W
+#       Net radiation out inlets:           0.43206405819182E+05 W
+#       Net radiation out outlets:          0.34430015548988E+05 W
+#       Energy out to melt:                 0.10999265815251E+07 W
+#           from flame:                         0.71533643700252E+05 W
+#           from surfaces:                      0.10243064579189E+07 W
+#           from convection:                    0.40864799059917E+04 W
+#           (sum of froms):                     0.10999265815251E+07 W
+
+# Gas Energy Balance
+# --------------------------------
+
+#   Total energy in:                    0.31392843100819E+07 W
+#       Energy in with flow:                0.12138074293500E+07 W
+#       Energy in via combustion:           0.19254768807319E+07 W
+
+#   Energy out with or from the gas     0.31639997929756E+07 W
+#       Energy out with flow                0.19729293401634E+07 W
+#       Convection to walls                 0.14707264248575E+06 W
+#       Convection to melt surface          0.40864799059917E+04 W
+#       Radiation from flame to melt:       0.36549500626632E+06 W
+#       Radiation from flame to walls:      0.65499866729576E+06 W
+#       Radiation from flame to inlets:     0.89188966401218E+04 W
+#       Radiation from flame to exits:      0.10498760218207E+05 W
+
+# --------------------------------
+
+#   Mass in:                            0.79273005022594E+00 kg/s
+#   Mass out:                           0.79272996769144E+00 kg/s
+
+#   Fuel mass out:                      0.10365793414623E-02 kg/s
+#   Fuel energy out:                    0.51828967073115E+05 W
+
+#   Mean temperature:                   0.18000427686929E+04 K
+#   Mean exit temperature:              0.20064497436968E+04 K
+#   Mean wall temperature:              0.16038866936551E+04 K
+
+#   Cycle count:                      33
+
+
+
+# #################   Run End   #################
+
+
+# Energy Balance on Exterior Walls
+# --------------------------------
+
+#   Total energy in:                    0.31386864760269E+07 W
+#       Energy in with flow:                0.12138074293500E+07 W
+#       Energy in via combustion:           0.19248790466770E+07 W
+
+#   Total energy leaving furnace:       0.32529127708206E+07 W
+#       Energy out with flow:               0.19755055041436E+07 W
+#       Energy out through walls:           0.11358336088955E+06 W
+#       Net radiation out inlets:           0.45619416904256E+05 W
+#       Net radiation out outlets:          0.36715690448223E+05 W
+#       Energy out to melt:                 0.10814887984351E+07 W
+#           from flame:                         0.70952101747550E+05 W
+#           from surfaces:                      0.10072635913186E+07 W
+#           from convection:                    0.32731053688972E+04 W
+#           (sum of froms):                     0.10814887984351E+07 W
+
+# Gas Energy Balance
+# --------------------------------
+
+#   Total energy in:                    0.31386864760269E+07 W
+#       Energy in with flow:                0.12138074293500E+07 W
+#       Energy in via combustion:           0.19248790466770E+07 W
+
+#   Energy out with or from the gas     0.31527661136056E+07 W
+#       Energy out with flow                0.19755055041436E+07 W
+#       Convection to walls                 0.12479456444660E+06 W
+#       Convection to melt surface          0.32731053688972E+04 W
+#       Radiation from flame to melt:       0.36851953517398E+06 W
+#       Radiation from flame to walls:      0.66106956792886E+06 W
+#       Radiation from flame to inlets:     0.90175745257429E+04 W
+#       Radiation from flame to exits:      0.10586262017930E+05 W
+
+# --------------------------------
+
+#   Mass in:                            0.79273048009444E+00 kg/s
+#   Mass out:                           0.79272407375788E+00 kg/s
+
+#   Fuel mass out:                      0.11210911774584E-02 kg/s
+#   Fuel energy out:                    0.56054558872920E+05 W
+
+#   Mean temperature:                   0.18031280627378E+04 K
+#   Mean exit temperature:              0.20076808591612E+04 K
+#   Mean wall temperature:              0.16106017457031E+04 K
+
+#   Cycle count:                      34
+
+
+
+# #################   Run End   #################
+
+
+# Energy Balance on Exterior Walls
+# --------------------------------
+
+#   Total energy in:                    0.31387249385810E+07 W
+#       Energy in with flow:                0.12138074293500E+07 W
+#       Energy in via combustion:           0.19249175092310E+07 W
+
+#   Total energy leaving furnace:       0.32792861086607E+07 W
+#       Energy out with flow:               0.19779208559576E+07 W
+#       Energy out through walls:           0.11359578570873E+06 W
+#       Net radiation out inlets:           0.45662189866270E+05 W
+#       Net radiation out outlets:          0.36657837667178E+05 W
+#       Energy out to melt:                 0.11054494394609E+07 W
+#           from flame:                         0.71770923392635E+05 W
+#           from surfaces:                      0.10299145810655E+07 W
+#           from convection:                    0.37639350027639E+04 W
+#           (sum of froms):                     0.11054494394609E+07 W
+
+# Gas Energy Balance
+# --------------------------------
+
+#   Total energy in:                    0.31387249385810E+07 W
+#       Energy in with flow:                0.12138074293500E+07 W
+#       Energy in via combustion:           0.19249175092310E+07 W
+
+#   Energy out with or from the gas     0.31789208242341E+07 W
+#       Energy out with flow                0.19779208559576E+07 W
+#       Convection to walls                 0.14141013553336E+06 W
+#       Convection to melt surface          0.37639350027639E+04 W
+#       Radiation from flame to melt:       0.37081107691063E+06 W
+#       Radiation from flame to walls:      0.66528149206985E+06 W
+#       Radiation from flame to inlets:     0.90925838798696E+04 W
+#       Radiation from flame to exits:      0.10640744879989E+05 W
+
+# --------------------------------
+
+#   Mass in:                            0.79273080909132E+00 kg/s
+#   Mass out:                           0.79272579931067E+00 kg/s
+
+#   Fuel mass out:                      0.11995039102544E-02 kg/s
+#   Fuel energy out:                    0.59975195512721E+05 W
+
+#   Mean temperature:                   0.17965308811511E+04 K
+#   Mean exit temperature:              0.20089012068504E+04 K
+#   Mean wall temperature:              0.16107447671053E+04 K
+
+#   Cycle count:                      35
+
+
+
+# #################   Run End   #################
+
+
+# Energy Balance on Exterior Walls
+# --------------------------------
+
+#   Total energy in:                    0.31398417204869E+07 W
+#       Energy in with flow:                0.12138074293500E+07 W
+#       Energy in via combustion:           0.19260342911369E+07 W
+
+#   Total energy leaving furnace:       0.32593795215751E+07 W
+#       Energy out with flow:               0.19793623487025E+07 W
+#       Energy out through walls:           0.11409711043780E+06 W
+#       Net radiation out inlets:           0.47738480095392E+05 W
+#       Net radiation out outlets:          0.38676684079909E+05 W
+#       Energy out to melt:                 0.10795048982595E+07 W
+#           from flame:                         0.70479078087528E+05 W
+#           from surfaces:                      0.10060244125084E+07 W
+#           from convection:                    0.30014076636033E+04 W
+#           (sum of froms):                     0.10795048982595E+07 W
+
+# Gas Energy Balance
+# --------------------------------
+
+#   Total energy in:                    0.31398417204869E+07 W
+#       Energy in with flow:                0.12138074293500E+07 W
+#       Energy in via combustion:           0.19260342911369E+07 W
+
+#   Energy out with or from the gas     0.31591913765437E+07 W
+#       Energy out with flow                0.19793623487025E+07 W
+#       Convection to walls                 0.11881774179504E+06 W
+#       Convection to melt surface          0.30014076636033E+04 W
+#       Radiation from flame to melt:       0.37122432306192E+06 W
+#       Radiation from flame to walls:      0.66696281290783E+06 W
+#       Radiation from flame to inlets:     0.91371924195436E+04 W
+#       Radiation from flame to exits:      0.10685549993297E+05 W
+
+# --------------------------------
+
+#   Mass in:                            0.79273107447241E+00 kg/s
+#   Mass out:                           0.79266784330377E+00 kg/s
+
+#   Fuel mass out:                      0.12720545527395E-02 kg/s
+#   Fuel energy out:                    0.63602727636973E+05 W
+
+#   Mean temperature:                   0.18013091519258E+04 K
+#   Mean exit temperature:              0.20106003689322E+04 K
+#   Mean wall temperature:              0.16165154881603E+04 K
+
+#   Cycle count:                      36
+
+
+
+# #################   Run End   #################
+
+
+# Energy Balance on Exterior Walls
+# --------------------------------
+
+#   Total energy in:                    0.31413841200229E+07 W
+#       Energy in with flow:                0.12138074293500E+07 W
+#       Energy in via combustion:           0.19275766906729E+07 W
+
+#   Total energy leaving furnace:       0.32861358662286E+07 W
+#       Energy out with flow:               0.19813632762515E+07 W
+#       Energy out through walls:           0.11403309357340E+06 W
+#       Net radiation out inlets:           0.47452074995814E+05 W
+#       Net radiation out outlets:          0.38343208636918E+05 W
+#       Energy out to melt:                 0.11049442127709E+07 W
+#           from flame:                         0.71412653448713E+05 W
+#           from surfaces:                      0.10299033675221E+07 W
+#           from convection:                    0.36281918001356E+04 W
+#           (sum of froms):                     0.11049442127709E+07 W
+
+# Gas Energy Balance
+# --------------------------------
+
+#   Total energy in:                    0.31413841200229E+07 W
+#       Energy in with flow:                0.12138074293500E+07 W
+#       Energy in via combustion:           0.19275766906729E+07 W
+
+#   Energy out with or from the gas     0.31859136467620E+07 W
+#       Energy out with flow                0.19813632762515E+07 W
+#       Convection to walls                 0.13756847472979E+06 W
+#       Convection to melt surface          0.36281918001356E+04 W
+#       Radiation from flame to melt:       0.37328704546925E+06 W
+#       Radiation from flame to walls:      0.67014054729379E+06 W
+#       Radiation from flame to inlets:     0.91850271516896E+04 W
+#       Radiation from flame to exits:      0.10741084065853E+05 W
+
+# --------------------------------
+
+#   Mass in:                            0.79273128761042E+00 kg/s
+#   Mass out:                           0.79271439959055E+00 kg/s
+
+#   Fuel mass out:                      0.13335463428341E-02 kg/s
+#   Fuel energy out:                    0.66677317141707E+05 W
+
+#   Mean temperature:                   0.17937739060390E+04 K
+#   Mean exit temperature:              0.20113702601101E+04 K
+#   Mean wall temperature:              0.16157785935970E+04 K
+
+#   Cycle count:                       1
+
+
+
+# #################   Run End   #################
+
+
+# Energy Balance on Exterior Walls
+# --------------------------------
+
+#   Total energy in:                    0.31426647511215E+07 W
+#       Energy in with flow:                0.12138074293500E+07 W
+#       Energy in via combustion:           0.19288573217715E+07 W
+
+#   Total energy leaving furnace:       0.32600680424379E+07 W
+#       Energy out with flow:               0.19829743636464E+07 W
+#       Energy out through walls:           0.11447455200869E+06 W
+#       Net radiation out inlets:           0.49216334217987E+05 W
+#       Net radiation out outlets:          0.40103495269286E+05 W
+#       Energy out to melt:                 0.10732992972956E+07 W
+#           from flame:                         0.69589671188290E+05 W
+#           from surfaces:                      0.10008498517127E+07 W
+#           from convection:                    0.28597743946247E+04 W
+#           (sum of froms):                     0.10732992972956E+07 W
+
+# Gas Energy Balance
+# --------------------------------
+
+#   Total energy in:                    0.31426647511215E+07 W
+#       Energy in with flow:                0.12138074293500E+07 W
+#       Energy in via combustion:           0.19288573217715E+07 W
+
+#   Energy out with or from the gas     0.31603345126418E+07 W
+#       Energy out with flow                0.19829743636464E+07 W
+#       Convection to walls                 0.11479535577741E+06 W
+#       Convection to melt surface          0.28597743946247E+04 W
+#       Radiation from flame to melt:       0.37152622679044E+06 W
+#       Radiation from flame to walls:      0.66825299982063E+06 W
+#       Radiation from flame to inlets:     0.91745561209474E+04 W
+#       Radiation from flame to exits:      0.10751236091375E+05 W
+
+# --------------------------------
+
+#   Mass in:                            0.79273144946959E+00 kg/s
+#   Mass out:                           0.79271463084946E+00 kg/s
+
+#   Fuel mass out:                      0.13803196023815E-02 kg/s
+#   Fuel energy out:                    0.69015980119073E+05 W
+
+#   Mean temperature:                   0.18006970636770E+04 K
+#   Mean exit temperature:              0.20119330322592E+04 K
+#   Mean wall temperature:              0.16208601970762E+04 K
+
+#   Cycle count:                       2
+
+
+
+# #################   Run End   #################
+
+
+# Energy Balance on Exterior Walls
+# --------------------------------
+
+#   Total energy in:                    0.31434338379732E+07 W
+#       Energy in with flow:                0.12138074293500E+07 W
+#       Energy in via combustion:           0.19296264086232E+07 W
+
+#   Total energy leaving furnace:       0.32822745998266E+07 W
+#       Energy out with flow:               0.19829158786060E+07 W
+#       Energy out through walls:           0.11442365712005E+06 W
+#       Net radiation out inlets:           0.48898833232884E+05 W
+#       Net radiation out outlets:          0.39809237464101E+05 W
+#       Energy out to melt:                 0.10962269934035E+07 W
+#           from flame:                         0.70369906863226E+05 W
+#           from surfaces:                      0.10223287866541E+07 W
+#           from convection:                    0.35282998862384E+04 W
+#           (sum of froms):                     0.10962269934035E+07 W
+
+# Gas Energy Balance
+# --------------------------------
+
+#   Total energy in:                    0.31434338379732E+07 W
+#       Energy in with flow:                0.12138074293500E+07 W
+#       Energy in via combustion:           0.19296264086232E+07 W
+
+#   Energy out with or from the gas     0.31829001584362E+07 W
+#       Energy out with flow                0.19829158786060E+07 W
+#       Convection to walls                 0.13472925632422E+06 W
+#       Convection to melt surface          0.35282998862384E+04 W
+#       Radiation from flame to melt:       0.37269044427225E+06 W
+#       Radiation from flame to walls:      0.66896385788826E+06 W
+#       Radiation from flame to inlets:     0.91816613909111E+04 W
+#       Radiation from flame to exits:      0.10890760068242E+05 W
+
+# --------------------------------
+
+#   Mass in:                            0.79273148563185E+00 kg/s
+#   Mass out:                           0.79272458321301E+00 kg/s
+
+#   Fuel mass out:                      0.14073239515662E-02 kg/s
+#   Fuel energy out:                    0.70366197578309E+05 W
+
+#   Mean temperature:                   0.17930492144854E+04 K
+#   Mean exit temperature:              0.20112249057806E+04 K
+#   Mean wall temperature:              0.16202743488456E+04 K
+
+#   Cycle count:                       3
+
+
+
+# #################   Run End   #################
+
+
+# Energy Balance on Exterior Walls
+# --------------------------------
+
+#   Total energy in:                    0.31436027173521E+07 W
+#       Energy in with flow:                0.12138074293500E+07 W
+#       Energy in via combustion:           0.19297952880022E+07 W
+
+#   Total energy leaving furnace:       0.32461175676883E+07 W
+#       Energy out with flow:               0.19812934683502E+07 W
+#       Energy out through walls:           0.11454913194483E+06 W
+#       Net radiation out inlets:           0.49357890937639E+05 W
+#       Net radiation out outlets:          0.40382950948898E+05 W
+#       Energy out to melt:                 0.10605341255068E+07 W
+#           from flame:                         0.68125176308917E+05 W
+#           from surfaces:                      0.98956594893341E+06 W
+#           from convection:                    0.28430002644271E+04 W
+#           (sum of froms):                     0.10605341255068E+07 W
+
+# Gas Energy Balance
+# --------------------------------
+
+#   Total energy in:                    0.31436027173521E+07 W
+#       Energy in with flow:                0.12138074293500E+07 W
+#       Energy in via combustion:           0.19297952880022E+07 W
+
+#   Energy out with or from the gas     0.31477620107649E+07 W
+#       Energy out with flow                0.19812934683502E+07 W
+#       Convection to walls                 0.11416353722105E+06 W
+#       Convection to melt surface          0.28430002644271E+04 W
+#       Radiation from flame to melt:       0.36705573748034E+06 W
+#       Radiation from flame to walls:      0.66231097624870E+06 W
+#       Radiation from flame to inlets:     0.90988349527341E+04 W
+#       Radiation from flame to exits:      0.10996456247461E+05 W
+
+# --------------------------------
+
+#   Mass in:                            0.79273121078001E+00 kg/s
+#   Mass out:                           0.79273657870049E+00 kg/s
+
+#   Fuel mass out:                      0.14171788470800E-02 kg/s
+#   Fuel energy out:                    0.70858942354000E+05 W
+
+#   Mean temperature:                   0.18010904294916E+04 K
+#   Mean exit temperature:              0.20081435581242E+04 K
+#   Mean wall temperature:              0.16217186825703E+04 K
+
+#   Cycle count:                       4
+
+
+
+# #################   Run End   #################
+
+
+# Energy Balance on Exterior Walls
+# --------------------------------
+
+#   Total energy in:                    0.31347339725203E+07 W
+#       Energy in with flow:                0.12138074293500E+07 W
+#       Energy in via combustion:           0.19209265431703E+07 W
+
+#   Total energy leaving furnace:       0.32601334330270E+07 W
+#       Energy out with flow:               0.19672692352544E+07 W
+#       Energy out through walls:           0.11453182148150E+06 W
+#       Net radiation out inlets:           0.49170099693458E+05 W
+#       Net radiation out outlets:          0.40035543529802E+05 W
+#       Energy out to melt:                 0.10891267330679E+07 W
+#           from flame:                         0.69874157836451E+05 W
+#           from surfaces:                      0.10158885736424E+07 W
+#           from convection:                    0.33640015889991E+04 W
+#           (sum of froms):                     0.10891267330679E+07 W
+
+# Gas Energy Balance
+# --------------------------------
+
+#   Total energy in:                    0.31347339725203E+07 W
+#       Energy in with flow:                0.12138074293500E+07 W
+#       Energy in via combustion:           0.19209265431703E+07 W
+
+#   Energy out with or from the gas     0.31614371912479E+07 W
+#       Energy out with flow                0.19672692352544E+07 W
+#       Convection to walls                 0.13238903452085E+06 W
+#       Convection to melt surface          0.33640015889991E+04 W
+#       Radiation from flame to melt:       0.37410002652017E+06 W
+#       Radiation from flame to walls:      0.66468679206845E+06 W
+#       Radiation from flame to inlets:     0.91281983011843E+04 W
+#       Radiation from flame to exits:      0.10499902993876E+05 W
+
+# --------------------------------
+
+#   Mass in:                            0.79273249563008E+00 kg/s
+#   Mass out:                           0.79281438323154E+00 kg/s
+
+#   Fuel mass out:                      0.10250503257025E-02 kg/s
+#   Fuel energy out:                    0.51252516285125E+05 W
+
+#   Mean temperature:                   0.17924771017860E+04 K
+#   Mean exit temperature:              0.19998598418310E+04 K
+#   Mean wall temperature:              0.16215194227904E+04 K
+
+#   Cycle count:                       5
+
+
+
+# #################   Run End   #################
+
+
+# Energy Balance on Exterior Walls
+# --------------------------------
+
+#   Total energy in:                    0.31374947648178E+07 W
+#       Energy in with flow:                0.12138074293500E+07 W
+#       Energy in via combustion:           0.19236873354678E+07 W
+
+#   Total energy leaving furnace:       0.32475984417498E+07 W
+#       Energy out with flow:               0.19609650573887E+07 W
+#       Energy out through walls:           0.11468392992254E+06 W
+#       Net radiation out inlets:           0.49949528878675E+05 W
+#       Net radiation out outlets:          0.40638864253446E+05 W
+#       Energy out to melt:                 0.10813610613064E+07 W
+#           from flame:                         0.70087394568433E+05 W
+#           from surfaces:                      0.10087485155965E+07 W
+#           from convection:                    0.25251511414882E+04 W
+#           (sum of froms):                     0.10813610613064E+07 W
+
+# Gas Energy Balance
+# --------------------------------
+
+#   Total energy in:                    0.31374947648178E+07 W
+#       Energy in with flow:                0.12138074293500E+07 W
+#       Energy in via combustion:           0.19236873354678E+07 W
+
+#   Energy out with or from the gas     0.31461842884018E+07 W
+#       Energy out with flow                0.19609650573887E+07 W
+#       Convection to walls                 0.10828021915777E+06 W
+#       Convection to melt surface          0.25251511414882E+04 W
+#       Radiation from flame to melt:       0.37709787842015E+06 W
+#       Radiation from flame to walls:      0.67752320807464E+06 W
+#       Radiation from flame to inlets:     0.92417085356779E+04 W
+#       Radiation from flame to exits:      0.10551065683366E+05 W
+
+# --------------------------------
+
+#   Mass in:                            0.79273299647910E+00 kg/s
+#   Mass out:                           0.79274947347751E+00 kg/s
+
+#   Fuel mass out:                      0.10734931873184E-02 kg/s
+#   Fuel energy out:                    0.53674659365920E+05 W
+
+#   Mean temperature:                   0.17914228409351E+04 K
+#   Mean exit temperature:              0.19936356942033E+04 K
+#   Mean wall temperature:              0.16232703345896E+04 K
+
+#   Cycle count:                       6
+
+
+
+# #################   Run End   #################
+
+
+# Energy Balance on Exterior Walls
+# --------------------------------
+
+#   Total energy in:                    0.31365246234855E+07 W
+#       Energy in with flow:                0.12138074293500E+07 W
+#       Energy in via combustion:           0.19227171941356E+07 W
+
+#   Total energy leaving furnace:       0.32819391584127E+07 W
+#       Energy out with flow:               0.19642451167005E+07 W
+#       Energy out through walls:           0.11480007813236E+06 W
+#       Net radiation out inlets:           0.50366832659936E+05 W
+#       Net radiation out outlets:          0.40988318899243E+05 W
+#       Energy out to melt:                 0.11115388120206E+07 W
+#           from flame:                         0.71165809105183E+05 W
+#           from surfaces:                      0.10373604074892E+07 W
+#           from convection:                    0.30125954262338E+04 W
+#           (sum of froms):                     0.11115388120206E+07 W
+
+# Gas Energy Balance
+# --------------------------------
+
+#   Total energy in:                    0.31365246234855E+07 W
+#       Energy in with flow:                0.12138074293500E+07 W
+#       Energy in via combustion:           0.19227171941356E+07 W
+
+#   Energy out with or from the gas     0.31795357438877E+07 W
+#       Energy out with flow                0.19642451167005E+07 W
+#       Convection to walls                 0.12723853003143E+06 W
+#       Convection to melt surface          0.30125954262338E+04 W
+#       Radiation from flame to melt:       0.38083996663264E+06 W
+#       Radiation from flame to walls:      0.68423665311080E+06 W
+#       Radiation from flame to inlets:     0.93282904904496E+04 W
+#       Radiation from flame to exits:      0.10634591495705E+05 W
+
+# --------------------------------
+
+#   Mass in:                            0.79273325779883E+00 kg/s
+#   Mass out:                           0.79272951585509E+00 kg/s
+
+#   Fuel mass out:                      0.11533127515757E-02 kg/s
+#   Fuel energy out:                    0.57665637578786E+05 W
+
+#   Mean temperature:                   0.17874913110693E+04 K
+#   Mean exit temperature:              0.19955183115834E+04 K
+#   Mean wall temperature:              0.16246073101686E+04 K
+
+#   Cycle count:                       7
+
+
+
+# #################   Run End   #################
+
+
+# Energy Balance on Exterior Walls
+# --------------------------------
+
+#   Total energy in:                    0.31353170866287E+07 W
+#       Energy in with flow:                0.12138074293500E+07 W
+#       Energy in via combustion:           0.19215096572787E+07 W
+
+#   Total energy leaving furnace:       0.32678106872011E+07 W
+#       Energy out with flow:               0.19681028970453E+07 W
+#       Energy out through walls:           0.11491954750314E+06 W
+#       Net radiation out inlets:           0.51003018220103E+05 W
+#       Net radiation out outlets:          0.41586295262264E+05 W
+#       Energy out to melt:                 0.10921989291704E+07 W
+#           from flame:                         0.70955551476561E+05 W
+#           from surfaces:                      0.10188151265513E+07 W
+#           from convection:                    0.24282511424489E+04 W
+#           (sum of froms):                     0.10921989291704E+07 W
+
+# Gas Energy Balance
+# --------------------------------
+
+#   Total energy in:                    0.31353170866287E+07 W
+#       Energy in with flow:                0.12138074293500E+07 W
+#       Energy in via combustion:           0.19215096572787E+07 W
+
+#   Energy out with or from the gas     0.31649542809914E+07 W
+#       Energy out with flow                0.19681028970453E+07 W
+#       Convection to walls                 0.10628782155715E+06 W
+#       Convection to melt surface          0.24282511424489E+04 W
+#       Radiation from flame to melt:       0.38180426596766E+06 W
+#       Radiation from flame to walls:      0.68627170906688E+06 W
+#       Radiation from flame to inlets:     0.93731521335072E+04 W
+#       Radiation from flame to exits:      0.10686184078489E+05 W
+
+# --------------------------------
+
+#   Mass in:                            0.79273337800865E+00 kg/s
+#   Mass out:                           0.79273189995187E+00 kg/s
+
+#   Fuel mass out:                      0.12387772466483E-02 kg/s
+#   Fuel energy out:                    0.61938862332414E+05 W
+
+#   Mean temperature:                   0.17914401810655E+04 K
+#   Mean exit temperature:              0.19980013056884E+04 K
+#   Mean wall temperature:              0.16259825154465E+04 K
+
+#   Cycle count:                       8
+
+
+
+# #################   Run End   #################
+
+
+# Energy Balance on Exterior Walls
+# --------------------------------
+
+#   Total energy in:                    0.31354085261063E+07 W
+#       Energy in with flow:                0.12138074293500E+07 W
+#       Energy in via combustion:           0.19216010967564E+07 W
+
+#   Total energy leaving furnace:       0.32939718443712E+07 W
+#       Energy out with flow:               0.19713673952931E+07 W
+#       Energy out through walls:           0.11498945224892E+06 W
+#       Net radiation out inlets:           0.51202421133635E+05 W
+#       Net radiation out outlets:          0.41752152374012E+05 W
+#       Energy out to melt:                 0.11146604233216E+07 W
+#           from flame:                         0.71397033786733E+05 W
+#           from surfaces:                      0.10403262399387E+07 W
+#           from convection:                    0.29371495961327E+04 W
+#           (sum of froms):                     0.11146604233216E+07 W
+
+# Gas Energy Balance
+# --------------------------------
+
+#   Total energy in:                    0.31354085261063E+07 W
+#       Energy in with flow:                0.12138074293500E+07 W
+#       Energy in via combustion:           0.19216010967564E+07 W
+
+#   Energy out with or from the gas     0.31914545138039E+07 W
+#       Energy out with flow                0.19713673952931E+07 W
+#       Convection to walls                 0.12541154035925E+06 W
+#       Convection to melt surface          0.29371495961327E+04 W
+#       Radiation from flame to melt:       0.38305862298447E+06 W
+#       Radiation from flame to walls:      0.68851217147255E+06 W
+#       Radiation from flame to inlets:     0.94138358332794E+04 W
+#       Radiation from flame to exits:      0.10753798265125E+05 W
+
+# --------------------------------
+
+#   Mass in:                            0.79273343974056E+00 kg/s
+#   Mass out:                           0.79218348144336E+00 kg/s
+
+#   Fuel mass out:                      0.13147154770907E-02 kg/s
+#   Fuel energy out:                    0.65735773854537E+05 W
+
+#   Mean temperature:                   0.17843306963976E+04 K
+#   Mean exit temperature:              0.20030611610474E+04 K
+#   Mean wall temperature:              0.16267871850847E+04 K
+
+#   Cycle count:                       9
+
+
+
+# #################   Run End   #################
+
+
+# Energy Balance on Exterior Walls
+# --------------------------------
+
+#   Total energy in:                    0.31367047441572E+07 W
+#       Energy in with flow:                0.12138074293500E+07 W
+#       Energy in via combustion:           0.19228973148073E+07 W
+
+#   Total energy leaving furnace:       0.32703253613715E+07 W
+#       Energy out with flow:               0.19737743681855E+07 W
+#       Energy out through walls:           0.11507667185219E+06 W
+#       Net radiation out inlets:           0.51654068765404E+05 W
+#       Net radiation out outlets:          0.42226616315894E+05 W
+#       Energy out to melt:                 0.10875936362526E+07 W
+#           from flame:                         0.70480444006906E+05 W
+#           from surfaces:                      0.10147894499020E+07 W
+#           from convection:                    0.23237423436793E+04 W
+#           (sum of froms):                     0.10875936362526E+07 W
+
+# Gas Energy Balance
+# --------------------------------
+
+#   Total energy in:                    0.31367047441572E+07 W
+#       Energy in with flow:                0.12138074293500E+07 W
+#       Energy in via combustion:           0.19228973148073E+07 W
+
+#   Energy out with or from the gas     0.31679435483622E+07 W
+#       Energy out with flow                0.19737743681855E+07 W
+#       Convection to walls                 0.10300340303990E+06 W
+#       Convection to melt surface          0.23237423436793E+04 W
+#       Radiation from flame to melt:       0.38169133174215E+06 W
+#       Radiation from flame to walls:      0.68696055768122E+06 W
+#       Radiation from flame to inlets:     0.94048389295972E+04 W
+#       Radiation from flame to exits:      0.10785306440220E+05 W
+
+# --------------------------------
+
+#   Mass in:                            0.79273346559629E+00 kg/s
+#   Mass out:                           0.79271362974187E+00 kg/s
+
+#   Fuel mass out:                      0.13853331125809E-02 kg/s
+#   Fuel energy out:                    0.69266655629044E+05 W
+
+#   Mean temperature:                   0.17905229434659E+04 K
+#   Mean exit temperature:              0.20041961605931E+04 K
+#   Mean wall temperature:              0.16277911650837E+04 K
+
+#   Cycle count:                      10
+
+
+
+# #################   Run End   #################
+
+
+# Energy Balance on Exterior Walls
+# --------------------------------
+
+#   Total energy in:                    0.31387658116731E+07 W
+#       Energy in with flow:                0.12138074293500E+07 W
+#       Energy in via combustion:           0.19249583823232E+07 W
+
+#   Total energy leaving furnace:       0.32979651480112E+07 W
+#       Energy out with flow:               0.19761557964640E+07 W
+#       Energy out through walls:           0.11511545919699E+06 W
+#       Net radiation out inlets:           0.51701520579184E+05 W
+#       Net radiation out outlets:          0.42267651315130E+05 W
+#       Energy out to melt:                 0.11127247204559E+07 W
+#           from flame:                         0.71138977353404E+05 W
+#           from surfaces:                      0.10386261991287E+07 W
+#           from convection:                    0.29595439737963E+04 W
+#           (sum of froms):                     0.11127247204559E+07 W
+
+# Gas Energy Balance
+# --------------------------------
+
+#   Total energy in:                    0.31387658116731E+07 W
+#       Energy in with flow:                0.12138074293500E+07 W
+#       Energy in via combustion:           0.19249583823232E+07 W
+
+#   Energy out with or from the gas     0.31960013198037E+07 W
+#       Energy out with flow                0.19761557964640E+07 W
+#       Convection to walls                 0.12433047976361E+06 W
+#       Convection to melt surface          0.29595439737963E+04 W
+#       Radiation from flame to melt:       0.38331033827121E+06 W
+#       Radiation from flame to walls:      0.68896114638966E+06 W
+#       Radiation from flame to inlets:     0.94312561303223E+04 W
+#       Radiation from flame to exits:      0.10852758811102E+05 W
+
+# --------------------------------
+
+#   Mass in:                            0.79273346505281E+00 kg/s
+#   Mass out:                           0.79271513058200E+00 kg/s
+
+#   Fuel mass out:                      0.14416151434418E-02 kg/s
+#   Fuel energy out:                    0.72080757172092E+05 W
+
+#   Mean temperature:                   0.17819360299800E+04 K
+#   Mean exit temperature:              0.20053670353182E+04 K
+#   Mean wall temperature:              0.16282376440509E+04 K
+
+#   Cycle count:                      11
+
+
+
+# #################   Run End   #################
+
+
+# Energy Balance on Exterior Walls
+# --------------------------------
+
+#   Total energy in:                    0.31404816101637E+07 W
+#       Energy in with flow:                0.12138074293500E+07 W
+#       Energy in via combustion:           0.19266741808137E+07 W
+
+#   Total energy leaving furnace:       0.32692324796158E+07 W
+#       Energy out with flow:               0.19782267185715E+07 W
+#       Energy out through walls:           0.11518668304919E+06 W
+#       Net radiation out inlets:           0.52074692093903E+05 W
+#       Net radiation out outlets:          0.42682613727202E+05 W
+#       Energy out to melt:                 0.10810617721740E+07 W
+#           from flame:                         0.69767990634016E+05 W
+#           from surfaces:                      0.10089960369407E+07 W
+#           from convection:                    0.22977445992725E+04 W
+#           (sum of froms):                     0.10810617721740E+07 W
+
+# Gas Energy Balance
+# --------------------------------
+
+#   Total energy in:                    0.31404816101637E+07 W
+#       Energy in with flow:                0.12138074293500E+07 W
+#       Energy in via combustion:           0.19266741808137E+07 W
+
+#   Energy out with or from the gas     0.31675579799739E+07 W
+#       Energy out with flow                0.19782267185715E+07 W
+#       Convection to walls                 0.10109339134435E+06 W
+#       Convection to melt surface          0.22977445992725E+04 W
+#       Radiation from flame to melt:       0.38022812828487E+06 W
+#       Radiation from flame to walls:      0.68545897865132E+06 W
+#       Radiation from flame to inlets:     0.93970449583059E+04 W
+#       Radiation from flame to exits:      0.10855973564307E+05 W
+
+# --------------------------------
+
+#   Mass in:                            0.79273341069612E+00 kg/s
+#   Mass out:                           0.79271691800064E+00 kg/s
+
+#   Fuel mass out:                      0.14793195544229E-02 kg/s
+#   Fuel energy out:                    0.73965977721143E+05 W
+
+#   Mean temperature:                   0.17903446348344E+04 K
+#   Mean exit temperature:              0.20064332313358E+04 K
+#   Mean wall temperature:              0.16290574978497E+04 K
+
+#   Cycle count:                      12
+
+
+
+# #################   Run End   #################
+
+
+# Energy Balance on Exterior Walls
+# --------------------------------
+
+#   Total energy in:                    0.31415889702872E+07 W
+#       Energy in with flow:                0.12138074293500E+07 W
+#       Energy in via combustion:           0.19277815409372E+07 W
+
+#   Total energy leaving furnace:       0.32948034599884E+07 W
+#       Energy out with flow:               0.19784789457968E+07 W
+#       Energy out through walls:           0.11519729608891E+06 W
+#       Net radiation out inlets:           0.51962606320419E+05 W
+#       Net radiation out outlets:          0.42613800879125E+05 W
+#       Energy out to melt:                 0.11065508109031E+07 W
+#           from flame:                         0.70527063838795E+05 W
+#           from surfaces:                      0.10329705721502E+07 W
+#           from convection:                    0.30531749140869E+04 W
+#           (sum of froms):                     0.11065508109031E+07 W
+
+# Gas Energy Balance
+# --------------------------------
+
+#   Total energy in:                    0.31415889702872E+07 W
+#       Energy in with flow:                0.12138074293500E+07 W
+#       Energy in via combustion:           0.19277815409372E+07 W
+
+#   Energy out with or from the gas     0.31938385515263E+07 W
+#       Energy out with flow                0.19784789457968E+07 W
+#       Convection to walls                 0.12423307852601E+06 W
+#       Convection to melt surface          0.30531749140869E+04 W
+#       Radiation from flame to melt:       0.38174161544610E+06 W
+#       Radiation from flame to walls:      0.68595168687022E+06 W
+#       Radiation from flame to inlets:     0.93911226064318E+04 W
+#       Radiation from flame to exits:      0.10988927366677E+05 W
+
+# --------------------------------
+
+#   Mass in:                            0.79273325829499E+00 kg/s
+#   Mass out:                           0.79272926333162E+00 kg/s
+
+#   Fuel mass out:                      0.14981835566961E-02 kg/s
+#   Fuel energy out:                    0.74909177834805E+05 W
+
+#   Mean temperature:                   0.17812319528153E+04 K
+#   Mean exit temperature:              0.20060668778162E+04 K
+#   Mean wall temperature:              0.16291796639593E+04 K
+
+#   Cycle count:                      13
+
+
+
+# #################   Run End   #################
+
+
+# Energy Balance on Exterior Walls
+# --------------------------------
+
+#   Total energy in:                    0.31418881664033E+07 W
+#       Energy in with flow:                0.12138074293500E+07 W
+#       Energy in via combustion:           0.19280807370533E+07 W
+
+#   Total energy leaving furnace:       0.32506521949102E+07 W
+#       Energy out with flow:               0.19769336290381E+07 W
+#       Energy out through walls:           0.11521693915777E+06 W
+#       Net radiation out inlets:           0.52052072464499E+05 W
+#       Net radiation out outlets:          0.42845020895544E+05 W
+#       Energy out to melt:                 0.10636045333543E+07 W
+#           from flame:                         0.67928367837176E+05 W
+#           from surfaces:                      0.99339318547034E+06 W
+#           from convection:                    0.22829800467992E+04 W
+#           (sum of froms):                     0.10636045333543E+07 W
+
+# Gas Energy Balance
+# --------------------------------
+
+#   Total energy in:                    0.31418881664033E+07 W
+#       Energy in with flow:                0.12138074293500E+07 W
+#       Energy in via combustion:           0.19280807370533E+07 W
+
+#   Energy out with or from the gas     0.31508748069296E+07 W
+#       Energy out with flow                0.19769336290381E+07 W
+#       Convection to walls                 0.10054321746718E+06 W
+#       Convection to melt surface          0.22829800467992E+04 W
+#       Radiation from flame to melt:       0.37423575670832E+06 W
+#       Radiation from flame to walls:      0.67654184684147E+06 W
+#       Radiation from flame to inlets:     0.92825849078701E+04 W
+#       Radiation from flame to exits:      0.11054791919934E+05 W
+
+# --------------------------------
+
+#   Mass in:                            0.79273281544982E+00 kg/s
+#   Mass out:                           0.79274451194876E+00 kg/s
+
+#   Fuel mass out:                      0.14986499594501E-02 kg/s
+#   Fuel energy out:                    0.74932497972506E+05 W
+
+#   Mean temperature:                   0.17915351565150E+04 K
+#   Mean exit temperature:              0.20043389950606E+04 K
+#   Mean wall temperature:              0.16294057742316E+04 K
+
+#   Cycle count:                      14
+
+
+
+# #################   Run End   #################
+
+
+# Energy Balance on Exterior Walls
+# --------------------------------
+
+#   Total energy in:                    0.31329350482137E+07 W
+#       Energy in with flow:                0.12138074293500E+07 W
+#       Energy in via combustion:           0.19191276188638E+07 W
+
+#   Total energy leaving furnace:       0.32670402649519E+07 W
+#       Energy out with flow:               0.19631032754894E+07 W
+#       Energy out through walls:           0.11515086513649E+06 W
+#       Net radiation out inlets:           0.51676199310828E+05 W
+#       Net radiation out outlets:          0.42356627199756E+05 W
+#       Energy out to melt:                 0.10947532978154E+07 W
+#           from flame:                         0.69678072685961E+05 W
+#           from surfaces:                      0.10220778013704E+07 W
+#           from convection:                    0.29974237590053E+04 W
+#           (sum of froms):                     0.10947532978154E+07 W
+
+# Gas Energy Balance
+# --------------------------------
+
+#   Total energy in:                    0.31329350482137E+07 W
+#       Energy in with flow:                0.12138074293500E+07 W
+#       Energy in via combustion:           0.19191276188638E+07 W
+
+#   Energy out with or from the gas     0.31675118745362E+07 W
+#       Energy out with flow                0.19631032754894E+07 W
+#       Convection to walls                 0.12368515538428E+06 W
+#       Convection to melt surface          0.29974237590053E+04 W
+#       Radiation from flame to melt:       0.38054987049372E+06 W
+#       Radiation from flame to walls:      0.67730640020596E+06 W
+#       Radiation from flame to inlets:     0.92917883044756E+04 W
+#       Radiation from flame to exits:      0.10577960899333E+05 W
+
+# --------------------------------
+
+#   Mass in:                            0.79273380114452E+00 kg/s
+#   Mass out:                           0.79281797240444E+00 kg/s
+
+#   Fuel mass out:                      0.10825612416993E-02 kg/s
+#   Fuel energy out:                    0.54128062084964E+05 W
+
+#   Mean temperature:                   0.17822632297366E+04 K
+#   Mean exit temperature:              0.19952106010167E+04 K
+#   Mean wall temperature:              0.16286451998501E+04 K
+
+#   Cycle count:                      15
+
+
+
+# #################   Run End   #################
+
+
+# Energy Balance on Exterior Walls
+# --------------------------------
+
+#   Total energy in:                    0.31351143403436E+07 W
+#       Energy in with flow:                0.12138074293500E+07 W
+#       Energy in via combustion:           0.19213069109937E+07 W
+
+#   Total energy leaving furnace:       0.32471797159832E+07 W
+#       Energy out with flow:               0.19564442010118E+07 W
+#       Energy out through walls:           0.11526776400104E+06 W
+#       Net radiation out inlets:           0.52336208042602E+05 W
+#       Net radiation out outlets:          0.42890076122704E+05 W
+#       Energy out to melt:                 0.10802414668051E+07 W
+#           from flame:                         0.69717698214606E+05 W
+#           from surfaces:                      0.10084708785248E+07 W
+#           from convection:                    0.20528900656892E+04 W
+#           (sum of froms):                     0.10802414668051E+07 W
+
+# Gas Energy Balance
+# --------------------------------
+
+#   Total energy in:                    0.31351143403436E+07 W
+#       Energy in with flow:                0.12138074293500E+07 W
+#       Energy in via combustion:           0.19213069109937E+07 W
+
+#   Energy out with or from the gas     0.31450900651737E+07 W
+#       Energy out with flow                0.19564442010118E+07 W
+#       Convection to walls                 0.95905502571659E+05 W
+#       Convection to melt surface          0.20528900656892E+04 W
+#       Radiation from flame to melt:       0.38267215875025E+06 W
+#       Radiation from flame to walls:      0.68801718106743E+06 W
+#       Radiation from flame to inlets:     0.93745591797060E+04 W
+#       Radiation from flame to exits:      0.10623572527215E+05 W
+
+# --------------------------------
+
+#   Mass in:                            0.79273417155693E+00 kg/s
+#   Mass out:                           0.79275019767510E+00 kg/s
+
+#   Fuel mass out:                      0.11301567030060E-02 kg/s
+#   Fuel energy out:                    0.56507835150301E+05 W
+
+#   Mean temperature:                   0.17823019482142E+04 K
+#   Mean exit temperature:              0.19887438368674E+04 K
+#   Mean wall temperature:              0.16299908161738E+04 K
+
+#   Cycle count:                      16
+
+
+
+# #################   Run End   #################
+
+
+# Energy Balance on Exterior Walls
+# --------------------------------
+
+#   Total energy in:                    0.31339533668795E+07 W
+#       Energy in with flow:                0.12138074293500E+07 W
+#       Energy in via combustion:           0.19201459375295E+07 W
+
+#   Total energy leaving furnace:       0.32839871254667E+07 W
+#       Energy out with flow:               0.19604178375514E+07 W
+#       Energy out through walls:           0.11530720772491E+06 W
+#       Net radiation out inlets:           0.52409468220506E+05 W
+#       Net radiation out outlets:          0.42929224448043E+05 W
+#       Energy out to melt:                 0.11129233875219E+07 W
+#           from flame:                         0.70760561111614E+05 W
+#           from surfaces:                      0.10394347534466E+07 W
+#           from convection:                    0.27280729636734E+04 W
+#           (sum of froms):                     0.11129233875219E+07 W
+
+# Gas Energy Balance
+# --------------------------------
+
+#   Total energy in:                    0.31339533668795E+07 W
+#       Energy in with flow:                0.12138074293500E+07 W
+#       Energy in via combustion:           0.19201459375295E+07 W
+
+#   Energy out with or from the gas     0.31813161476565E+07 W
+#       Energy out with flow                0.19604178375514E+07 W
+#       Convection to walls                 0.12019985751428E+06 W
+#       Convection to melt surface          0.27280729636734E+04 W
+#       Radiation from flame to melt:       0.38549613385666E+06 W
+#       Radiation from flame to walls:      0.69235964052817E+06 W
+#       Radiation from flame to inlets:     0.94348400315085E+04 W
+#       Radiation from flame to exits:      0.10679765210793E+05 W
+
+# --------------------------------
+
+#   Mass in:                            0.79273431964146E+00 kg/s
+#   Mass out:                           0.79273405418899E+00 kg/s
+
+#   Fuel mass out:                      0.12115212361485E-02 kg/s
+#   Fuel energy out:                    0.60576061807423E+05 W
+
+#   Mean temperature:                   0.17776151383705E+04 K
+#   Mean exit temperature:              0.19929421336968E+04 K
+#   Mean wall temperature:              0.16304448506840E+04 K
+
+#   Cycle count:                      17
+
+
+
+# #################   Run End   #################
+
+
+# Energy Balance on Exterior Walls
+# --------------------------------
+
+#   Total energy in:                    0.31333863638120E+07 W
+#       Energy in with flow:                0.12138074293500E+07 W
+#       Energy in via combustion:           0.19195789344620E+07 W
+
+#   Total energy leaving furnace:       0.32647006782967E+07 W
+#       Energy out with flow:               0.19646099793803E+07 W
+#       Energy out through walls:           0.11541523051241E+06 W
+#       Net radiation out inlets:           0.53023690666594E+05 W
+#       Net radiation out outlets:          0.43523951060969E+05 W
+#       Energy out to melt:                 0.10881278266764E+07 W
+#           from flame:                         0.70336855912650E+05 W
+#           from surfaces:                      0.10157968386917E+07 W
+#           from convection:                    0.19941320720596E+04 W
+#           (sum of froms):                     0.10881278266764E+07 W
+
+# Gas Energy Balance
+# --------------------------------
+
+#   Total energy in:                    0.31333863638120E+07 W
+#       Energy in with flow:                0.12138074293500E+07 W
+#       Energy in via combustion:           0.19195789344620E+07 W
+
+#   Energy out with or from the gas     0.31615367318540E+07 W
+#       Energy out with flow                0.19646099793803E+07 W
+#       Convection to walls                 0.95303020912311E+05 W
+#       Convection to melt surface          0.19941320720596E+04 W
+#       Radiation from flame to melt:       0.38562328659273E+06 W
+#       Radiation from flame to walls:      0.69379876886616E+06 W
+#       Radiation from flame to inlets:     0.94648307615849E+04 W
+#       Radiation from flame to exits:      0.10742713268952E+05 W
+
+# --------------------------------
+
+#   Mass in:                            0.79273434006406E+00 kg/s
+#   Mass out:                           0.79273244601018E+00 kg/s
+
+#   Fuel mass out:                      0.12928734482740E-02 kg/s
+#   Fuel energy out:                    0.64643672413698E+05 W
+
+#   Mean temperature:                   0.17835877359950E+04 K
+#   Mean exit temperature:              0.19958350405309E+04 K
+#   Mean wall temperature:              0.16316882949790E+04 K
+
+#   Cycle count:                      18
+
+
+
+# #################   Run End   #################
+
+
+# Energy Balance on Exterior Walls
+# --------------------------------
+
+#   Total energy in:                    0.31340160400696E+07 W
+#       Energy in with flow:                0.12138074293500E+07 W
+#       Energy in via combustion:           0.19202086107196E+07 W
+
+#   Total energy leaving furnace:       0.32969594555032E+07 W
+#       Energy out with flow:               0.19682810322193E+07 W
+#       Energy out through walls:           0.11543337507103E+06 W
+#       Net radiation out inlets:           0.52991328782580E+05 W
+#       Net radiation out outlets:          0.43469193092089E+05 W
+#       Energy out to melt:                 0.11167845263381E+07 W
+#           from flame:                         0.71105007770440E+05 W
+#           from surfaces:                      0.10430021626459E+07 W
+#           from convection:                    0.26773559217533E+04 W
+#           (sum of froms):                     0.11167845263381E+07 W
+
+# Gas Energy Balance
+# --------------------------------
+
+#   Total energy in:                    0.31340160400696E+07 W
+#       Energy in with flow:                0.12138074293500E+07 W
+#       Energy in via combustion:           0.19202086107196E+07 W
+
+#   Energy out with or from the gas     0.31940529639545E+07 W
+#       Energy out with flow                0.19682810322193E+07 W
+#       Convection to walls                 0.11912416792903E+06 W
+#       Convection to melt surface          0.26773559217533E+04 W
+#       Radiation from flame to melt:       0.38737496109729E+06 W
+#       Radiation from flame to walls:      0.69629173246513E+06 W
+#       Radiation from flame to inlets:     0.95023303289613E+04 W
+#       Radiation from flame to exits:      0.10801383992991E+05 W
+
+# --------------------------------
+
+#   Mass in:                            0.79273431031300E+00 kg/s
+#   Mass out:                           0.79272434233982E+00 kg/s
+
+#   Fuel mass out:                      0.13661833141455E-02 kg/s
+#   Fuel energy out:                    0.68309165707274E+05 W
+
+#   Mean temperature:                   0.17756166337356E+04 K
+#   Mean exit temperature:              0.19996713648215E+04 K
+#   Mean wall temperature:              0.16318971559834E+04 K
+
+#   Cycle count:                      19
+
+
+
+# #################   Run End   #################
+
+
+# Energy Balance on Exterior Walls
+# --------------------------------
+
+#   Total energy in:                    0.31359037584434E+07 W
+#       Energy in with flow:                0.12138074293500E+07 W
+#       Energy in via combustion:           0.19220963290935E+07 W
+
+#   Total energy leaving furnace:       0.32711592416523E+07 W
+#       Energy out with flow:               0.19707900217493E+07 W
+#       Energy out through walls:           0.11550360230118E+06 W
+#       Net radiation out inlets:           0.53419955042060E+05 W
+#       Net radiation out outlets:          0.43894801506355E+05 W
+#       Energy out to melt:                 0.10875508610534E+07 W
+#           from flame:                         0.70330277522817E+05 W
+#           from surfaces:                      0.10152572212347E+07 W
+#           from convection:                    0.19633622958296E+04 W
+#           (sum of froms):                     0.10875508610534E+07 W
+
+# Gas Energy Balance
+# --------------------------------
+
+#   Total energy in:                    0.31359037584434E+07 W
+#       Energy in with flow:                0.12138074293500E+07 W
+#       Energy in via combustion:           0.19220963290935E+07 W
+
+#   Energy out with or from the gas     0.31682131299021E+07 W
+#       Energy out with flow                0.19707900217493E+07 W
+#       Convection to walls                 0.93666874116900E+05 W
+#       Convection to melt surface          0.19633622958296E+04 W
+#       Radiation from flame to melt:       0.38624594465488E+06 W
+#       Radiation from flame to walls:      0.69521553637468E+06 W
+#       Radiation from flame to inlets:     0.95023550864303E+04 W
+#       Radiation from flame to exits:      0.10829035624108E+05 W
+
+# --------------------------------
+
+#   Mass in:                            0.79273425279884E+00 kg/s
+#   Mass out:                           0.79271856678447E+00 kg/s
+
+#   Fuel mass out:                      0.14298404408315E-02 kg/s
+#   Fuel energy out:                    0.71492022041576E+05 W
+
+#   Mean temperature:                   0.17833308630827E+04 K
+#   Mean exit temperature:              0.20009646049973E+04 K
+#   Mean wall temperature:              0.16327055377212E+04 K
+
+#   Cycle count:                      20
+
+
+
+# #################   Run End   #################
+
+
+# Energy Balance on Exterior Walls
+# --------------------------------
+
+#   Total energy in:                    0.31382144388114E+07 W
+#       Energy in with flow:                0.12138074293500E+07 W
+#       Energy in via combustion:           0.19244070094615E+07 W
+
+#   Total energy leaving furnace:       0.33003667220875E+07 W
+#       Energy out with flow:               0.19733440117165E+07 W
+#       Energy out through walls:           0.11549638175594E+06 W
+#       Net radiation out inlets:           0.53245763889375E+05 W
+#       Net radiation out outlets:          0.43732881449989E+05 W
+#       Energy out to melt:                 0.11145476832758E+07 W
+#           from flame:                         0.70863792361232E+05 W
+#           from surfaces:                      0.10409921928552E+07 W
+#           from convection:                    0.26916980592980E+04 W
+#           (sum of froms):                     0.11145476832758E+07 W
+
+# Gas Energy Balance
+# --------------------------------
+
+#   Total energy in:                    0.31382144388114E+07 W
+#       Energy in with flow:                0.12138074293500E+07 W
+#       Energy in via combustion:           0.19244070094615E+07 W
+
+#   Energy out with or from the gas     0.31980205905472E+07 W
+#       Energy out with flow                0.19733440117165E+07 W
+#       Convection to walls                 0.11824846828141E+06 W
+#       Convection to melt surface          0.26916980592980E+04 W
+#       Radiation from flame to melt:       0.38716212324915E+06 W
+#       Radiation from flame to walls:      0.69618133501440E+06 W
+#       Radiation from flame to inlets:     0.95086198165543E+04 W
+#       Radiation from flame to exits:      0.10884334409953E+05 W
+
+# --------------------------------
+
+#   Mass in:                            0.79273417691523E+00 kg/s
+#   Mass out:                           0.79271691683530E+00 kg/s
+
+#   Fuel mass out:                      0.14782429142453E-02 kg/s
+#   Fuel energy out:                    0.73912145712263E+05 W
+
+#   Mean temperature:                   0.17739545836471E+04 K
+#   Mean exit temperature:              0.20023693606257E+04 K
+#   Mean wall temperature:              0.16326224224268E+04 K
+
+#   Cycle count:                      21
+
+
+
+# #################   Run End   #################
+
+
+# Energy Balance on Exterior Walls
+# --------------------------------
+
+#   Total energy in:                    0.31403182694734E+07 W
+#       Energy in with flow:                0.12138074293500E+07 W
+#       Energy in via combustion:           0.19265108401234E+07 W
+
+#   Total energy leaving furnace:       0.32674384066297E+07 W
+#       Energy out with flow:               0.19752868813908E+07 W
+#       Energy out through walls:           0.11553098260366E+06 W
+#       Net radiation out inlets:           0.53481932066453E+05 W
+#       Net radiation out outlets:          0.44020209103300E+05 W
+#       Energy out to melt:                 0.10791184014656E+07 W
+#           from flame:                         0.69420242532278E+05 W
+#           from surfaces:                      0.10077138251796E+07 W
+#           from convection:                    0.19843337536764E+04 W
+#           (sum of froms):                     0.10791184014656E+07 W
+
+# Gas Energy Balance
+# --------------------------------
+
+#   Total energy in:                    0.31403182694734E+07 W
+#       Energy in with flow:                0.12138074293500E+07 W
+#       Energy in via combustion:           0.19265108401234E+07 W
+
+#   Energy out with or from the gas     0.31655051735453E+07 W
+#       Energy out with flow                0.19752868813908E+07 W
+#       Convection to walls                 0.92896339589296E+05 W
+#       Convection to melt surface          0.19843337536764E+04 W
+#       Radiation from flame to melt:       0.38349733214699E+06 W
+#       Radiation from flame to walls:      0.69149275552927E+06 W
+#       Radiation from flame to inlets:     0.94631863213273E+04 W
+#       Radiation from flame to exits:      0.10884344814015E+05 W
+
+# --------------------------------
+
+#   Mass in:                            0.79273405330908E+00 kg/s
+#   Mass out:                           0.79271985417975E+00 kg/s
+
+#   Fuel mass out:                      0.15106735154339E-02 kg/s
+#   Fuel energy out:                    0.75533675771694E+05 W
+
+#   Mean temperature:                   0.17837357427892E+04 K
+#   Mean exit temperature:              0.20033515073199E+04 K
+#   Mean wall temperature:              0.16330207108592E+04 K
+
+#   Cycle count:                      22
+
+
+
+# #################   Run End   #################
+
+
+# Energy Balance on Exterior Walls
+# --------------------------------
+
+#   Total energy in:                    0.31414365922500E+07 W
+#       Energy in with flow:                0.12138074293500E+07 W
+#       Energy in via combustion:           0.19276291629001E+07 W
+
+#   Total energy leaving furnace:       0.32955147063980E+07 W
+#       Energy out with flow:               0.19760496231313E+07 W
+#       Energy out through walls:           0.11550114942505E+06 W
+#       Net radiation out inlets:           0.53180312798774E+05 W
+#       Net radiation out outlets:          0.43770327206445E+05 W
+#       Energy out to melt:                 0.11070132938364E+07 W
+#           from flame:                         0.70164281611656E+05 W
+#           from surfaces:                      0.10340261885010E+07 W
+#           from convection:                    0.28228237238220E+04 W
+#           (sum of froms):                     0.11070132938364E+07 W
+
+# Gas Energy Balance
+# --------------------------------
+
+#   Total energy in:                    0.31414365922500E+07 W
+#       Energy in with flow:                0.12138074293500E+07 W
+#       Energy in via combustion:           0.19276291629001E+07 W
+
+#   Energy out with or from the gas     0.31943050183614E+07 W
+#       Energy out with flow                0.19760496231313E+07 W
+#       Convection to walls                 0.11888096311520E+06 W
+#       Convection to melt surface          0.28228237238220E+04 W
+#       Radiation from flame to melt:       0.38471443141603E+06 W
+#       Radiation from flame to walls:      0.69140947415290E+06 W
+#       Radiation from flame to inlets:     0.94446380365765E+04 W
+#       Radiation from flame to exits:      0.10983064785571E+05 W
+
+# --------------------------------
+
+#   Mass in:                            0.79273383904445E+00 kg/s
+#   Mass out:                           0.79272914164413E+00 kg/s
+
+#   Fuel mass out:                      0.15241192408987E-02 kg/s
+#   Fuel energy out:                    0.76205962044935E+05 W
+
+#   Mean temperature:                   0.17741344455333E+04 K
+#   Mean exit temperature:              0.20034908188532E+04 K
+#   Mean wall temperature:              0.16326773028005E+04 K
+
+#   Cycle count:                      23
+
+
+
+# #################   Run End   #################
+
+
+# Energy Balance on Exterior Walls
+# --------------------------------
+
+#   Total energy in:                    0.31417233798156E+07 W
+#       Energy in with flow:                0.12138074293500E+07 W
+#       Energy in via combustion:           0.19279159504656E+07 W
+
+#   Total energy leaving furnace:       0.32474334453220E+07 W
+#       Energy out with flow:               0.19747512980945E+07 W
+#       Energy out through walls:           0.11548819100067E+06 W
+#       Net radiation out inlets:           0.53147207515268E+05 W
+#       Net radiation out outlets:          0.43884856087249E+05 W
+#       Energy out to melt:                 0.10601618926243E+07 W
+#           from flame:                         0.67447669704852E+05 W
+#           from surfaces:                      0.99071513472611E+06 W
+#           from convection:                    0.19990881933513E+04 W
+#           (sum of froms):                     0.10601618926243E+07 W
+
+# Gas Energy Balance
+# --------------------------------
+
+#   Total energy in:                    0.31417233798156E+07 W
+#       Energy in with flow:                0.12138074293500E+07 W
+#       Energy in via combustion:           0.19279159504656E+07 W
+
+#   Energy out with or from the gas     0.31475338536121E+07 W
+#       Energy out with flow                0.19747512980945E+07 W
+#       Convection to walls                 0.93127843695426E+05 W
+#       Convection to melt surface          0.19990881933513E+04 W
+#       Radiation from flame to melt:       0.37646992533174E+06 W
+#       Radiation from flame to walls:      0.68082459126735E+06 W
+#       Radiation from flame to inlets:     0.93253533431032E+04 W
+#       Radiation from flame to exits:      0.11035753686604E+05 W
+
+# --------------------------------
+
+#   Mass in:                            0.79273333824895E+00 kg/s
+#   Mass out:                           0.79274184007044E+00 kg/s
+
+#   Fuel mass out:                      0.15208199083730E-02 kg/s
+#   Fuel energy out:                    0.76040995418652E+05 W
+
+#   Mean temperature:                   0.17854105898382E+04 K
+#   Mean exit temperature:              0.20020189329376E+04 K
+#   Mean wall temperature:              0.16325281390987E+04 K
+
+#   Cycle count:                      24
+
+
+
+# #################   Run End   #################
+
+
+# Energy Balance on Exterior Walls
+# --------------------------------
+
+#   Total energy in:                    0.31328393964551E+07 W
+#       Energy in with flow:                0.12138074293500E+07 W
+#       Energy in via combustion:           0.19190319671052E+07 W
+
+#   Total energy leaving furnace:       0.32677438984510E+07 W
+#       Energy out with flow:               0.19609468984232E+07 W
+#       Energy out through walls:           0.11539624130867E+06 W
+#       Net radiation out inlets:           0.52648923458538E+05 W
+#       Net radiation out outlets:          0.43300805284186E+05 W
+#       Energy out to melt:                 0.10954510299764E+07 W
+#           from flame:                         0.69371257470371E+05 W
+#           from surfaces:                      0.10232615151403E+07 W
+#           from convection:                    0.28182573656954E+04 W
+#           (sum of froms):                     0.10954510299764E+07 W
+
+# Gas Energy Balance
+# --------------------------------
+
+#   Total energy in:                    0.31328393964551E+07 W
+#       Energy in with flow:                0.12138074293500E+07 W
+#       Energy in via combustion:           0.19190319671052E+07 W
+
+#   Energy out with or from the gas     0.31680507598768E+07 W
+#       Energy out with flow                0.19609468984232E+07 W
+#       Convection to walls                 0.11940327105510E+06 W
+#       Convection to melt surface          0.28182573656954E+04 W
+#       Radiation from flame to melt:       0.38300772091018E+06 W
+#       Radiation from flame to walls:      0.68195845199924E+06 W
+#       Radiation from flame to inlets:     0.93288445574640E+04 W
+#       Radiation from flame to exits:      0.10587315565917E+05 W
+
+# --------------------------------
+
+#   Mass in:                            0.79273423047572E+00 kg/s
+#   Mass out:                           0.79282280800882E+00 kg/s
+
+#   Fuel mass out:                      0.10963845421511E-02 kg/s
+#   Fuel energy out:                    0.54819227107553E+05 W
+
+#   Mean temperature:                   0.17764477139811E+04 K
+#   Mean exit temperature:              0.19929598618021E+04 K
+#   Mean wall temperature:              0.16314697113116E+04 K
+
+#   Cycle count:                      25
+
+
+
+# #################   Run End   #################
+
+
+# Energy Balance on Exterior Walls
+# --------------------------------
+
+#   Total energy in:                    0.31347906374377E+07 W
+#       Energy in with flow:                0.12138074293500E+07 W
+#       Energy in via combustion:           0.19209832080877E+07 W
+
+#   Total energy leaving furnace:       0.32440764997260E+07 W
+#       Energy out with flow:               0.19544852142851E+07 W
+#       Energy out through walls:           0.11549086720777E+06 W
+#       Net radiation out inlets:           0.53224792110507E+05 W
+#       Net radiation out outlets:          0.43740472391611E+05 W
+#       Energy out to melt:                 0.10771351537310E+07 W
+#           from flame:                         0.69232007097967E+05 W
+#           from surfaces:                      0.10060938234421E+07 W
+#           from convection:                    0.18093231909673E+04 W
+#           (sum of froms):                     0.10771351537310E+07 W
+
+# Gas Energy Balance
+# --------------------------------
+
+#   Total energy in:                    0.31347906374377E+07 W
+#       Energy in with flow:                0.12138074293500E+07 W
+#       Energy in via combustion:           0.19209832080877E+07 W
+
+#   Energy out with or from the gas     0.31418713542817E+07 W
+#       Energy out with flow                0.19544852142851E+07 W
+#       Convection to walls                 0.89511535136580E+05 W
+#       Convection to melt surface          0.18093231909673E+04 W
+#       Radiation from flame to melt:       0.38442110886862E+06 W
+#       Radiation from flame to walls:      0.69163159161126E+06 W
+#       Radiation from flame to inlets:     0.94019536259893E+04 W
+#       Radiation from flame to exits:      0.10610627563159E+05 W
+
+# --------------------------------
+
+#   Mass in:                            0.79273455845575E+00 kg/s
+#   Mass out:                           0.79275034902963E+00 kg/s
+
+#   Fuel mass out:                      0.11387282451353E-02 kg/s
+#   Fuel energy out:                    0.56936412256767E+05 W
+
+#   Mean temperature:                   0.17764193777246E+04 K
+#   Mean exit temperature:              0.19867806443348E+04 K
+#   Mean wall temperature:              0.16325589447697E+04 K
+
+#   Cycle count:                      26
+
+
+
+# #################   Run End   #################
+
+
+# Energy Balance on Exterior Walls
+# --------------------------------
+
+#   Total energy in:                    0.31338690814917E+07 W
+#       Energy in with flow:                0.12138074293500E+07 W
+#       Energy in via combustion:           0.19200616521417E+07 W
+
+#   Total energy leaving furnace:       0.32851136109146E+07 W
+#       Energy out with flow:               0.19587218341245E+07 W
+#       Energy out through walls:           0.11551545537729E+06 W
+#       Net radiation out inlets:           0.53230434320402E+05 W
+#       Net radiation out outlets:          0.43716977318433E+05 W
+#       Energy out to melt:                 0.11139289097739E+07 W
+#           from flame:                         0.70490819136198E+05 W
+#           from surfaces:                      0.10408853565710E+07 W
+#           from convection:                    0.25527340666764E+04 W
+#           (sum of froms):                     0.11139289097739E+07 W
+
+# Gas Energy Balance
+# --------------------------------
+
+#   Total energy in:                    0.31338690814917E+07 W
+#       Energy in with flow:                0.12138074293500E+07 W
+#       Energy in via combustion:           0.19200616521417E+07 W
+
+#   Energy out with or from the gas     0.31821552756335E+07 W
+#       Energy out with flow                0.19587218341245E+07 W
+#       Convection to walls                 0.11624484954942E+06 W
+#       Convection to melt surface          0.25527340666764E+04 W
+#       Radiation from flame to melt:       0.38770394154544E+06 W
+#       Radiation from flame to walls:      0.69679865696116E+06 W
+#       Radiation from flame to inlets:     0.94662187991337E+04 W
+#       Radiation from flame to exits:      0.10667040587115E+05 W
+
+# --------------------------------
+
+#   Mass in:                            0.79273466910562E+00 kg/s
+#   Mass out:                           0.79273556735724E+00 kg/s
+
+#   Fuel mass out:                      0.12199371510941E-02 kg/s
+#   Fuel energy out:                    0.60996857554703E+05 W
+
+#   Mean temperature:                   0.17720803944298E+04 K
+#   Mean exit temperature:              0.19912172803012E+04 K
+#   Mean wall temperature:              0.16328419778206E+04 K
+
+#   Cycle count:                      27
+
+
+
+# #################   Run End   #################
+
+
+# Energy Balance on Exterior Walls
+# --------------------------------
+
+#   Total energy in:                    0.31330012814451E+07 W
+#       Energy in with flow:                0.12138074293500E+07 W
+#       Energy in via combustion:           0.19191938520951E+07 W
+
+#   Total energy leaving furnace:       0.32627288906214E+07 W
+#       Energy out with flow:               0.19628486487239E+07 W
+#       Energy out through walls:           0.11558526980751E+06 W
+#       Net radiation out inlets:           0.53702748408372E+05 W
+#       Net radiation out outlets:          0.44175842749607E+05 W
+#       Energy out to melt:                 0.10864163809320E+07 W
+#           from flame:                         0.70033295431958E+05 W
+#           from surfaces:                      0.10145834365927E+07 W
+#           from convection:                    0.17996489074351E+04 W
+#           (sum of froms):                     0.10864163809320E+07 W
+
+# Gas Energy Balance
+# --------------------------------
+
+#   Total energy in:                    0.31330012814451E+07 W
+#       Energy in with flow:                0.12138074293500E+07 W
+#       Energy in via combustion:           0.19191938520951E+07 W
+
+#   Energy out with or from the gas     0.31593810994145E+07 W
+#       Energy out with flow                0.19628486487239E+07 W
+#       Convection to walls                 0.89810975262736E+05 W
+#       Convection to melt surface          0.17996489074351E+04 W
+#       Radiation from flame to melt:       0.38735017390818E+06 W
+#       Radiation from flame to walls:      0.69735921553217E+06 W
+#       Radiation from flame to inlets:     0.94905019609774E+04 W
+#       Radiation from flame to exits:      0.10721935119165E+05 W
+
+# --------------------------------
+
+#   Mass in:                            0.79273465277252E+00 kg/s
+#   Mass out:                           0.79273180803852E+00 kg/s
+
+#   Fuel mass out:                      0.13016609207945E-02 kg/s
+#   Fuel energy out:                    0.65083046039724E+05 W
+
+#   Mean temperature:                   0.17785660025798E+04 K
+#   Mean exit temperature:              0.19940072392521E+04 K
+#   Mean wall temperature:              0.16336456078414E+04 K
+
+#   Cycle count:                      28
+
+
+
+# #################   Run End   #################
+
+
+# Energy Balance on Exterior Walls
+# --------------------------------
+
+#   Total energy in:                    0.31332103325978E+07 W
+#       Energy in with flow:                0.12138074293500E+07 W
+#       Energy in via combustion:           0.19194029032478E+07 W
+
+#   Total energy leaving furnace:       0.32964298900560E+07 W
+#       Energy out with flow:               0.19665970780684E+07 W
+#       Energy out through walls:           0.11558032884019E+06 W
+#       Net radiation out inlets:           0.53561536615336E+05 W
+#       Net radiation out outlets:          0.44029832262067E+05 W
+#       Energy out to melt:                 0.11166611142700E+07 W
+#           from flame:                         0.70820253310860E+05 W
+#           from surfaces:                      0.10433064599943E+07 W
+#           from convection:                    0.25344009647963E+04 W
+#           (sum of froms):                     0.11166611142700E+07 W
+
+# Gas Energy Balance
+# --------------------------------
+
+#   Total energy in:                    0.31332103325978E+07 W
+#       Energy in with flow:                0.12138074293500E+07 W
+#       Energy in via combustion:           0.19194029032478E+07 W
+
+#   Energy out with or from the gas     0.31934135897946E+07 W
+#       Energy out with flow                0.19665970780684E+07 W
+#       Convection to walls                 0.11569344871152E+06 W
+#       Convection to melt surface          0.25344009647963E+04 W
+#       Radiation from flame to melt:       0.38882739693665E+06 W
+#       Radiation from flame to walls:      0.69945349363962E+06 W
+#       Radiation from flame to inlets:     0.95184511738964E+04 W
+#       Radiation from flame to exits:      0.10789320299634E+05 W
+
+# --------------------------------
+
+#   Mass in:                            0.79273459189092E+00 kg/s
+#   Mass out:                           0.79272634310448E+00 kg/s
+
+#   Fuel mass out:                      0.13804430125483E-02 kg/s
+#   Fuel energy out:                    0.69022150627413E+05 W
+
+#   Mean temperature:                   0.17703491305032E+04 K
+#   Mean exit temperature:              0.19963901123776E+04 K
+#   Mean wall temperature:              0.16335887326415E+04 K
+
+#   Cycle count:                      29
+
+
+
+# #################   Run End   #################
+
+
+# Energy Balance on Exterior Walls
+# --------------------------------
+
+#   Total energy in:                    0.31350867099072E+07 W
+#       Energy in with flow:                0.12138074293500E+07 W
+#       Energy in via combustion:           0.19212792805572E+07 W
+
+#   Total energy leaving furnace:       0.32668342951040E+07 W
+#       Energy out with flow:               0.19694007154966E+07 W
+#       Energy out through walls:           0.11561826886891E+06 W
+#       Net radiation out inlets:           0.53864480859781E+05 W
+#       Net radiation out outlets:          0.44359940662882E+05 W
+#       Energy out to melt:                 0.10835908892158E+07 W
+#           from flame:                         0.69843285872523E+05 W
+#           from surfaces:                      0.10119503676539E+07 W
+#           from convection:                    0.17972356893364E+04 W
+#           (sum of froms):                     0.10835908892158E+07 W
+
+# Gas Energy Balance
+# --------------------------------
+
+#   Total energy in:                    0.31350867099072E+07 W
+#       Energy in with flow:                0.12138074293500E+07 W
+#       Energy in via combustion:           0.19212792805572E+07 W
+
+#   Energy out with or from the gas     0.31639868274117E+07 W
+#       Energy out with flow                0.19694007154966E+07 W
+#       Convection to walls                 0.89108629706388E+05 W
+#       Convection to melt surface          0.17972356893364E+04 W
+#       Radiation from flame to melt:       0.38660708366724E+06 W
+#       Radiation from flame to walls:      0.69674850890897E+06 W
+#       Radiation from flame to inlets:     0.95045654093842E+04 W
+#       Radiation from flame to exits:      0.10820088533813E+05 W
+
+# --------------------------------
+
+#   Mass in:                            0.79273450830293E+00 kg/s
+#   Mass out:                           0.79271884539099E+00 kg/s
+
+#   Fuel mass out:                      0.14455550005337E-02 kg/s
+#   Fuel energy out:                    0.72277750026684E+05 W
+
+#   Mean temperature:                   0.17788677635573E+04 K
+#   Mean exit temperature:              0.19994065394493E+04 K
+#   Mean wall temperature:              0.16340254582005E+04 K
+
+#   Cycle count:                      30
+
+
+
+# #################   Run End   #################
+
+
+# Energy Balance on Exterior Walls
+# --------------------------------
+
+#   Total energy in:                    0.31373196249611E+07 W
+#       Energy in with flow:                0.12138074293500E+07 W
+#       Energy in via combustion:           0.19235121956112E+07 W
+
+#   Total energy leaving furnace:       0.32984427212568E+07 W
+#       Energy out with flow:               0.19718732753331E+07 W
+#       Energy out through walls:           0.11558552296707E+06 W
+#       Net radiation out inlets:           0.53592417442102E+05 W
+#       Net radiation out outlets:          0.44086874085072E+05 W
+#       Energy out to melt:                 0.11133046314295E+07 W
+#           from flame:                         0.70628156935447E+05 W
+#           from surfaces:                      0.10400655865219E+07 W
+#           from convection:                    0.26108879721272E+04 W
+#           (sum of froms):                     0.11133046314295E+07 W
+
+# Gas Energy Balance
+# --------------------------------
+
+#   Total energy in:                    0.31373196249611E+07 W
+#       Energy in with flow:                0.12138074293500E+07 W
+#       Energy in via combustion:           0.19235121956112E+07 W
+
+#   Energy out with or from the gas     0.31962060194760E+07 W
+#       Energy out with flow                0.19718732753331E+07 W
+#       Convection to walls                 0.11575495410929E+06 W
+#       Convection to melt surface          0.26108879721272E+04 W
+#       Radiation from flame to melt:       0.38794044716376E+06 W
+#       Radiation from flame to walls:      0.69763484571843E+06 W
+#       Radiation from flame to inlets:     0.95160101463702E+04 W
+#       Radiation from flame to exits:      0.10875599032933E+05 W
+
+# --------------------------------
+
+#   Mass in:                            0.79273440742053E+00 kg/s
+#   Mass out:                           0.79271441486821E+00 kg/s
+
+#   Fuel mass out:                      0.14941484307931E-02 kg/s
+#   Fuel energy out:                    0.74707421539653E+05 W
+
+#   Mean temperature:                   0.17696660620453E+04 K
+#   Mean exit temperature:              0.20007328369782E+04 K
+#   Mean wall temperature:              0.16336485219469E+04 K
+
+#   Cycle count:                      31
+
+
+
+# #################   Run End   #################
+
+
+# Energy Balance on Exterior Walls
+# --------------------------------
+
+#   Total energy in:                    0.31395436756360E+07 W
+#       Energy in with flow:                0.12138074293500E+07 W
+#       Energy in via combustion:           0.19257362462861E+07 W
+
+#   Total energy leaving furnace:       0.32637149968635E+07 W
+#       Energy out with flow:               0.19740008423426E+07 W
+#       Energy out through walls:           0.11559991417405E+06 W
+#       Net radiation out inlets:           0.53753032132101E+05 W
+#       Net radiation out outlets:          0.44310461991177E+05 W
+#       Energy out to melt:                 0.10760507462236E+07 W
+#           from flame:                         0.69144032124934E+05 W
+#           from surfaces:                      0.10050113033447E+07 W
+#           from convection:                    0.18954107539070E+04 W
+#           (sum of froms):                     0.10760507462236E+07 W
+
+# Gas Energy Balance
+# --------------------------------
+
+#   Total energy in:                    0.31395436756360E+07 W
+#       Energy in with flow:                0.12138074293500E+07 W
+#       Energy in via combustion:           0.19257362462861E+07 W
+
+#   Energy out with or from the gas     0.31619386050681E+07 W
+#       Energy out with flow                0.19740008423426E+07 W
+#       Convection to walls                 0.89560869687141E+05 W
+#       Convection to melt surface          0.18954107539070E+04 W
+#       Radiation from flame to melt:       0.38387500452532E+06 W
+#       Radiation from flame to walls:      0.69227690816550E+06 W
+#       Radiation from flame to inlets:     0.94633760412268E+04 W
+#       Radiation from flame to exits:      0.10866193552442E+05 W
+
+# --------------------------------
+
+#   Mass in:                            0.79273426041965E+00 kg/s
+#   Mass out:                           0.79272121426975E+00 kg/s
+
+#   Fuel mass out:                      0.15265291014603E-02 kg/s
+#   Fuel energy out:                    0.76326455073014E+05 W
+
+#   Mean temperature:                   0.17801142723094E+04 K
+#   Mean exit temperature:              0.20019108211012E+04 K
+#   Mean wall temperature:              0.16338141783295E+04 K
+
+#   Cycle count:                      32
+
+
+
+# #################   Run End   #################
+
+
+# Energy Balance on Exterior Walls
+# --------------------------------
+
+#   Total energy in:                    0.31407640424083E+07 W
+#       Energy in with flow:                0.12138074293500E+07 W
+#       Energy in via combustion:           0.19269566130584E+07 W
+
+#   Total energy leaving furnace:       0.32915126399420E+07 W
+#       Energy out with flow:               0.19750063911771E+07 W
+#       Energy out through walls:           0.11554491432696E+06 W
+#       Net radiation out inlets:           0.53353871428473E+05 W
+#       Net radiation out outlets:          0.43952179871112E+05 W
+#       Energy out to melt:                 0.11036552831384E+07 W
+#           from flame:                         0.69818582655644E+05 W
+#           from surfaces:                      0.10310768410374E+07 W
+#           from convection:                    0.27598594453336E+04 W
+#           (sum of froms):                     0.11036552831384E+07 W
+
+# Gas Energy Balance
+# --------------------------------
+
+#   Total energy in:                    0.31407640424083E+07 W
+#       Energy in with flow:                0.12138074293500E+07 W
+#       Energy in via combustion:           0.19269566130584E+07 W
+
+#   Energy out with or from the gas     0.31906034169235E+07 W
+#       Energy out with flow                0.19750063911771E+07 W
+#       Convection to walls                 0.11668982794221E+06 W
+#       Convection to melt surface          0.27598594453336E+04 W
+#       Radiation from flame to melt:       0.38457407864417E+06 W
+#       Radiation from flame to walls:      0.69117372295089E+06 W
+#       Radiation from flame to inlets:     0.94431014881987E+04 W
+#       Radiation from flame to exits:      0.10956435275642E+05 W
+
+# --------------------------------
+
+#   Mass in:                            0.79273402462187E+00 kg/s
+#   Mass out:                           0.79272700569588E+00 kg/s
+
+#   Fuel mass out:                      0.15371311648801E-02 kg/s
+#   Fuel energy out:                    0.76856558244003E+05 W
+
+#   Mean temperature:                   0.17705303000990E+04 K
+#   Mean exit temperature:              0.20023034036860E+04 K
+#   Mean wall temperature:              0.16331810781507E+04 K
+
+#   Cycle count:                      33
+
+
+
+# #################   Run End   #################
+
+
+# Energy Balance on Exterior Walls
+# --------------------------------
+
+#   Total energy in:                    0.31411856360618E+07 W
+#       Energy in with flow:                0.12138074293500E+07 W
+#       Energy in via combustion:           0.19273782067118E+07 W
+
+#   Total energy leaving furnace:       0.32424781534215E+07 W
+#       Energy out with flow:               0.19737123286252E+07 W
+#       Energy out through walls:           0.11551307877797E+06 W
+#       Net radiation out inlets:           0.53242602945478E+05 W
+#       Net radiation out outlets:          0.44005556485008E+05 W
+#       Energy out to melt:                 0.10560045865879E+07 W
+#           from flame:                         0.67088350901064E+05 W
+#           from surfaces:                      0.98698014541619E+06 W
+#           from convection:                    0.19360902706473E+04 W
+#           (sum of froms):                     0.10560045865879E+07 W
+
+# Gas Energy Balance
+# --------------------------------
+
+#   Total energy in:                    0.31411856360618E+07 W
+#       Energy in with flow:                0.12138074293500E+07 W
+#       Energy in via combustion:           0.19273782067118E+07 W
+
+#   Energy out with or from the gas     0.31429125221137E+07 W
+#       Energy out with flow                0.19737123286252E+07 W
+#       Convection to walls                 0.90730971071136E+05 W
+#       Convection to melt surface          0.19360902706473E+04 W
+#       Radiation from flame to melt:       0.37598350897718E+06 W
+#       Radiation from flame to walls:      0.68020795104478E+06 W
+#       Radiation from flame to inlets:     0.93170686840363E+04 W
+#       Radiation from flame to exits:      0.11024603440733E+05 W
+
+# --------------------------------
+
+#   Mass in:                            0.79273350515681E+00 kg/s
+#   Mass out:                           0.79274007874669E+00 kg/s
+
+#   Fuel mass out:                      0.15327265725253E-02 kg/s
+#   Fuel energy out:                    0.76636328626266E+05 W
+
+#   Mean temperature:                   0.17823415368947E+04 K
+#   Mean exit temperature:              0.20008218040830E+04 K
+#   Mean wall temperature:              0.16328146209181E+04 K
+
+#   Cycle count:                      34
+
+
+
+# #################   Run End   #################
+
+
+# Energy Balance on Exterior Walls
+# --------------------------------
+
+#   Total energy in:                    0.31321620349572E+07 W
+#       Energy in with flow:                0.12138074293500E+07 W
+#       Energy in via combustion:           0.19183546056072E+07 W
+
+#   Total energy leaving furnace:       0.32619832269977E+07 W
+#       Energy out with flow:               0.19585206735402E+07 W
+#       Energy out through walls:           0.11540156386110E+06 W
+#       Net radiation out inlets:           0.52668417017599E+05 W
+#       Net radiation out outlets:          0.43349469073317E+05 W
+#       Energy out to melt:                 0.10920431035055E+07 W
+#           from flame:                         0.69109106868144E+05 W
+#           from surfaces:                      0.10201413092652E+07 W
+#           from convection:                    0.27926873721205E+04 W
+#           (sum of froms):                     0.10920431035055E+07 W
+
+# Gas Energy Balance
+# --------------------------------
+
+#   Total energy in:                    0.31321620349572E+07 W
+#       Energy in with flow:                0.12138074293500E+07 W
+#       Energy in via combustion:           0.19183546056072E+07 W
+
+#   Energy out with or from the gas     0.31626779275035E+07 W
+#       Energy out with flow                0.19585206735402E+07 W
+#       Convection to walls                 0.11796613126884E+06 W
+#       Convection to melt surface          0.27926873721205E+04 W
+#       Radiation from flame to melt:       0.38245749152683E+06 W
+#       Radiation from flame to walls:      0.68104309810786E+06 W
+#       Radiation from flame to inlets:     0.93178186327098E+04 W
+#       Radiation from flame to exits:      0.10580027054948E+05 W
+
+# --------------------------------
+
+#   Mass in:                            0.79273436497577E+00 kg/s
+#   Mass out:                           0.79281829473218E+00 kg/s
+
+#   Fuel mass out:                      0.11030961487010E-02 kg/s
+#   Fuel energy out:                    0.55154807435051E+05 W
+
+#   Mean temperature:                   0.17738649258358E+04 K
+#   Mean exit temperature:              0.19919993900050E+04 K
+#   Mean wall temperature:              0.16315309789164E+04 K
+
+#   Cycle count:                      35
+
+
+
+# #################   Run End   #################
+
+
+# Energy Balance on Exterior Walls
+# --------------------------------
+
+#   Total energy in:                    0.31344657124875E+07 W
+#       Energy in with flow:                0.12138074293500E+07 W
+#       Energy in via combustion:           0.19206582831376E+07 W
+
+#   Total energy leaving furnace:       0.32381764758594E+07 W
+#       Energy out with flow:               0.19533890636771E+07 W
+#       Energy out through walls:           0.11547364097820E+06 W
+#       Net radiation out inlets:           0.53165336549806E+05 W
+#       Net radiation out outlets:          0.43720418051757E+05 W
+#       Energy out to melt:                 0.10724280166026E+07 W
+#           from flame:                         0.68925966709539E+05 W
+#           from surfaces:                      0.10017197822137E+07 W
+#           from convection:                    0.17822676792904E+04 W
+#           (sum of froms):                     0.10724280166026E+07 W
+
+# Gas Energy Balance
+# --------------------------------
+
+#   Total energy in:                    0.31344657124875E+07 W
+#       Energy in with flow:                0.12138074293500E+07 W
+#       Energy in via combustion:           0.19206582831376E+07 W
+
+#   Energy out with or from the gas     0.31364489328557E+07 W
+#       Energy out with flow                0.19533890636771E+07 W
+#       Convection to walls                 0.87831024384739E+05 W
+#       Convection to melt surface          0.17822676792904E+04 W
+#       Radiation from flame to melt:       0.38345177948986E+06 W
+#       Radiation from flame to walls:      0.69000088716196E+06 W
+#       Radiation from flame to inlets:     0.93863568896708E+04 W
+#       Radiation from flame to exits:      0.10607553573078E+05 W
+
+# --------------------------------
+
+#   Mass in:                            0.79273468045297E+00 kg/s
+#   Mass out:                           0.79213722479752E+00 kg/s
+
+#   Fuel mass out:                      0.11433399953574E-02 kg/s
+#   Fuel energy out:                    0.57166999767870E+05 W
+
+#   Mean temperature:                   0.17741897385425E+04 K
+#   Mean exit temperature:              0.19872292913873E+04 K
+#   Mean wall temperature:              0.16323606545999E+04 K
+
+#   Cycle count:                      36

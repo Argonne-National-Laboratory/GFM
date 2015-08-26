@@ -1,0 +1,2552 @@
+# Case 1206 Summary Data for Simulation and Evolving Global Energy Distribution
+
+#   Number of cells in melt grid:      20644
+#   Melt surface area:                  0.45486376900000E+03 m^2
+
+#   Estimated wall loss at T_exit:      0.17808150891641E+07 W
+#   Mean Surface Heat Flux:             0.26381525234207E+05 W/m^2
+
+#   In-Flows:
+
+#   Cullet:                             0.31549992125983E+01 kg/s
+#   Batch:                              0.31549992125983E+01 kg/s
+
+#   Heat Inputs and Requirements:
+
+#   Radiation:                          0.12000000000000E+08 W
+#   Electric Boost:                     0.00000000000000E+00 W
+#   Total Energy In:                    0.12000000000000E+08 W
+
+#   Cullet heatup:                      0.31659871040868E+07 W
+#   Cullet melt:                        0.12619996850393E+07 W
+#   Cullet q needed:                    0.44279867891262E+07 W
+
+#   Batch heatup:                       0.31659871040868E+07 W
+#   Batch melt:                         0.12619996850393E+07 W
+#   Batch q needed:                     0.44279867891262E+07 W
+
+#   Liquid heatup need:                 0.16166215965354E+07 W
+#   Adiabatic energy need:              0.10472595174788E+08 W
+
+
+
+# #################   Run End   #################
+
+
+#  Heat Values at Run End (Scaled):
+
+#   Radiation+Conv In:                  0.12014967318199E+08 W
+#   Electric Boost:                     0.00000000000000E+00 W
+#   Total Energy In:                    0.12014967318199E+08 W
+
+#   Cullet heatup need:                 0.31659871040868E+07 W
+#   Cullet melt need:                   0.12619996850393E+07 W
+#   Radiation to Cullet:                0.37024130180899E+07 W
+#   Conduction to Cullet:               0.70886989812214E+06 W
+#   Cullet q needed:                    0.44279867891262E+07 W
+#   Cullet q net:                       0.44112829162120E+07 W
+
+#   Batch heatup need:                  0.31659871040868E+07 W
+#   Batch melt need:                    0.12619996850393E+07 W
+#   Radiation to Batch:                 0.37057855330887E+07 W
+#   Conduction to Batch:                0.72428920655716E+06 W
+#   Batch q needed:                     0.44279867891262E+07 W
+#   Batch q net:                        0.44300747396458E+07 W
+
+#   Liquid heatup need:                 0.16166215965354E+07 W
+#   Liquid q net:                       0.16316821724695E+07 W
+#   Adiabatic energy need:              0.10472595174788E+08 W
+#   Wall heat loss:                     0.15423721434109E+07 W
+#   Net melt input energy need:         0.12014967318199E+08 W
+#   Actual melt input energy:           0.12014967318199E+08 W
+
+#   Energy need divided by input:       0.10000000000000E+01
+#   Scaling factor:                     0.10012472765166E+01
+
+#   Mean glass exit temperature:        0.12919540776951E+04 K
+#   Cullet rate in:                     0.31549992125983E+01 kg/s
+#   Batch rate in:                      0.31549992125983E+01 kg/s
+#   Total solids rate in:               0.63099984251967E+01 kg/s
+#   Melt rate:                          0.63211033319243E+01 kg/s
+#   Glass rate out:                     0.64057608441749E+01 kg/s
+
+#   Cycle count:                       1
+#   Estimated wall loss at T_exit:      0.15423721434109E+07 W
+
+
+
+# #################   Run End   #################
+
+
+#  Heat Values at Run End (Scaled):
+
+#   Radiation+Conv In:                  0.12033232004206E+08 W
+#   Electric Boost:                     0.00000000000000E+00 W
+#   Total Energy In:                    0.12033232004206E+08 W
+
+#   Cullet heatup need:                 0.31659871040868E+07 W
+#   Cullet melt need:                   0.12619996850393E+07 W
+#   Radiation to Cullet:                0.36359986089890E+07 W
+#   Conduction to Cullet:               0.81363629864223E+06 W
+#   Cullet q needed:                    0.44279867891262E+07 W
+#   Cullet q net:                       0.44496349076312E+07 W
+
+#   Batch heatup need:                  0.31659871040868E+07 W
+#   Batch melt need:                    0.12619996850393E+07 W
+#   Radiation to Batch:                 0.36359979888273E+07 W
+#   Conduction to Batch:                0.81854072231295E+06 W
+#   Batch q needed:                     0.44279867891262E+07 W
+#   Batch q net:                        0.44545387111403E+07 W
+
+#   Liquid heatup need:                 0.16166215965354E+07 W
+#   Liquid q net:                       0.15684011961024E+07 W
+#   Adiabatic energy need:              0.10472595174788E+08 W
+#   Wall heat loss:                     0.15606368294182E+07 W
+#   Net melt input energy need:         0.12033232004206E+08 W
+#   Actual melt input energy:           0.12033232004206E+08 W
+
+#   Energy need divided by input:       0.10000000000000E+01
+#   Scaling factor:                     0.32999490710871E+01
+
+#   Mean glass exit temperature:        0.12879984700274E+04 K
+#   Cullet rate in:                     0.31549992125983E+01 kg/s
+#   Batch rate in:                      0.31549992125983E+01 kg/s
+#   Total solids rate in:               0.63099984251967E+01 kg/s
+#   Melt rate:                          0.63113058768899E+01 kg/s
+#   Glass rate out:                     0.63353008002370E+01 kg/s
+
+#   Cycle count:                       2
+#   Estimated wall loss at T_exit:      0.15606368294182E+07 W
+
+
+
+# #################   Run End   #################
+
+
+#  Heat Values at Run End (Scaled):
+
+#   Radiation+Conv In:                  0.12055094297874E+08 W
+#   Electric Boost:                     0.00000000000000E+00 W
+#   Total Energy In:                    0.12055094297874E+08 W
+
+#   Cullet heatup need:                 0.31659871040868E+07 W
+#   Cullet melt need:                   0.12619996850393E+07 W
+#   Radiation to Cullet:                0.34699417018768E+07 W
+#   Conduction to Cullet:               0.98271070445947E+06 W
+#   Cullet q needed:                    0.44279867891262E+07 W
+#   Cullet q net:                       0.44526524063362E+07 W
+
+#   Batch heatup need:                  0.31659871040868E+07 W
+#   Batch melt need:                    0.12619996850393E+07 W
+#   Radiation to Batch:                 0.34700022044832E+07 W
+#   Conduction to Batch:                0.98600473130741E+06 W
+#   Batch q needed:                     0.44279867891262E+07 W
+#   Batch q net:                        0.44560069357906E+07 W
+
+#   Liquid heatup need:                 0.16166215965354E+07 W
+#   Liquid q net:                       0.15638717592667E+07 W
+#   Adiabatic energy need:              0.10472595174788E+08 W
+#   Wall heat loss:                     0.15824991230867E+07 W
+#   Net melt input energy need:         0.12055094297874E+08 W
+#   Actual melt input energy:           0.12055094297874E+08 W
+
+#   Energy need divided by input:       0.10000000000000E+01
+#   Scaling factor:                     0.23310356340566E+01
+
+#   Mean glass exit temperature:        0.13022356535096E+04 K
+#   Cullet rate in:                     0.31549992125983E+01 kg/s
+#   Batch rate in:                      0.31549992125983E+01 kg/s
+#   Total solids rate in:               0.63099984251967E+01 kg/s
+#   Melt rate:                          0.63033495883400E+01 kg/s
+#   Glass rate out:                     0.62754387769717E+01 kg/s
+
+#   Cycle count:                       3
+#   Estimated wall loss at T_exit:      0.15824991230867E+07 W
+
+
+
+# #################   Run End   #################
+
+
+#  Heat Values at Run End (Scaled):
+
+#   Radiation+Conv In:                  0.12079193778099E+08 W
+#   Electric Boost:                     0.00000000000000E+00 W
+#   Total Energy In:                    0.12079193778099E+08 W
+
+#   Cullet heatup need:                 0.31659871040868E+07 W
+#   Cullet melt need:                   0.12619996850393E+07 W
+#   Radiation to Cullet:                0.33823105133822E+07 W
+#   Conduction to Cullet:               0.10673932242531E+07 W
+#   Cullet q needed:                    0.44279867891262E+07 W
+#   Cullet q net:                       0.44497037376353E+07 W
+
+#   Batch heatup need:                  0.31659871040868E+07 W
+#   Batch melt need:                    0.12619996850393E+07 W
+#   Radiation to Batch:                 0.33823825918467E+07 W
+#   Conduction to Batch:                0.10705446544619E+07 W
+#   Batch q needed:                     0.44279867891262E+07 W
+#   Batch q net:                        0.44529272463085E+07 W
+
+#   Liquid heatup need:                 0.16166215965354E+07 W
+#   Liquid q net:                       0.15699125465568E+07 W
+#   Adiabatic energy need:              0.10472595174788E+08 W
+#   Wall heat loss:                     0.16065986033113E+07 W
+#   Net melt input energy need:         0.12079193778099E+08 W
+#   Actual melt input energy:           0.12079193778099E+08 W
+
+#   Energy need divided by input:       0.10000000000000E+01
+#   Scaling factor:                     0.16906633242036E+01
+
+#   Mean glass exit temperature:        0.13188442759971E+04 K
+#   Cullet rate in:                     0.31549992125983E+01 kg/s
+#   Batch rate in:                      0.31549992125983E+01 kg/s
+#   Total solids rate in:               0.63099984251967E+01 kg/s
+#   Melt rate:                          0.62907659184291E+01 kg/s
+#   Glass rate out:                     0.62809970704044E+01 kg/s
+
+#   Cycle count:                       4
+#   Estimated wall loss at T_exit:      0.16065986033113E+07 W
+
+
+
+# #################   Run End   #################
+
+
+#  Heat Values at Run End (Scaled):
+
+#   Radiation+Conv In:                  0.12092203849398E+08 W
+#   Electric Boost:                     0.00000000000000E+00 W
+#   Total Energy In:                    0.12092203849398E+08 W
+
+#   Cullet heatup need:                 0.31659871040868E+07 W
+#   Cullet melt need:                   0.12619996850393E+07 W
+#   Radiation to Cullet:                0.33423727280572E+07 W
+#   Conduction to Cullet:               0.11102472292558E+07 W
+#   Cullet q needed:                    0.44279867891262E+07 W
+#   Cullet q net:                       0.44526199573131E+07 W
+
+#   Batch heatup need:                  0.31659871040868E+07 W
+#   Batch melt need:                    0.12619996850393E+07 W
+#   Radiation to Batch:                 0.33423891518711E+07 W
+#   Conduction to Batch:                0.11133736766011E+07 W
+#   Batch q needed:                     0.44279867891262E+07 W
+#   Batch q net:                        0.44557628284722E+07 W
+
+#   Liquid heatup need:                 0.16166215965354E+07 W
+#   Liquid q net:                       0.15641646037763E+07 W
+#   Adiabatic energy need:              0.10472595174788E+08 W
+#   Wall heat loss:                     0.16196086746104E+07 W
+#   Net melt input energy need:         0.12092203849398E+08 W
+#   Actual melt input energy:           0.12092203849398E+08 W
+
+#   Energy need divided by input:       0.10000000000000E+01
+#   Scaling factor:                     0.13367495881932E+01
+
+#   Mean glass exit temperature:        0.13247210530839E+04 K
+#   Cullet rate in:                     0.31549992125983E+01 kg/s
+#   Batch rate in:                      0.31549992125983E+01 kg/s
+#   Total solids rate in:               0.63099984251967E+01 kg/s
+#   Melt rate:                          0.62890771466494E+01 kg/s
+#   Glass rate out:                     0.62929541895525E+01 kg/s
+
+#   Cycle count:                       5
+#   Estimated wall loss at T_exit:      0.16196086746104E+07 W
+
+
+
+# #################   Run End   #################
+
+
+#  Heat Values at Run End (Scaled):
+
+#   Radiation+Conv In:                  0.12104336027624E+08 W
+#   Electric Boost:                     0.00000000000000E+00 W
+#   Total Energy In:                    0.12104336027624E+08 W
+
+#   Cullet heatup need:                 0.31659871040868E+07 W
+#   Cullet melt need:                   0.12619996850393E+07 W
+#   Radiation to Cullet:                0.33184508253207E+07 W
+#   Conduction to Cullet:               0.11324106227741E+07 W
+#   Cullet q needed:                    0.44279867891262E+07 W
+#   Cullet q net:                       0.44508614480947E+07 W
+
+#   Batch heatup need:                  0.31659871040868E+07 W
+#   Batch melt need:                    0.12619996850393E+07 W
+#   Radiation to Batch:                 0.33187237418601E+07 W
+#   Conduction to Batch:                0.11363372454536E+07 W
+#   Batch q needed:                     0.44279867891262E+07 W
+#   Batch q net:                        0.44550609873137E+07 W
+
+#   Liquid heatup need:                 0.16166215965354E+07 W
+#   Liquid q net:                       0.15666247230098E+07 W
+#   Adiabatic energy need:              0.10472595174788E+08 W
+#   Wall heat loss:                     0.16317408528366E+07 W
+#   Net melt input energy need:         0.12104336027624E+08 W
+#   Actual melt input energy:           0.12104336027624E+08 W
+
+#   Energy need divided by input:       0.10000000000000E+01
+#   Scaling factor:                     0.12101930468013E+01
+
+#   Mean glass exit temperature:        0.13306739976708E+04 K
+#   Cullet rate in:                     0.31549992125983E+01 kg/s
+#   Batch rate in:                      0.31549992125983E+01 kg/s
+#   Total solids rate in:               0.63099984251967E+01 kg/s
+#   Melt rate:                          0.62934836121364E+01 kg/s
+#   Glass rate out:                     0.62987081981366E+01 kg/s
+
+#   Cycle count:                       6
+#   Estimated wall loss at T_exit:      0.16317408528366E+07 W
+
+
+
+# #################   Run End   #################
+
+
+#  Heat Values at Run End (Scaled):
+
+#   Radiation+Conv In:                  0.12118103139501E+08 W
+#   Electric Boost:                     0.00000000000000E+00 W
+#   Total Energy In:                    0.12118103139501E+08 W
+
+#   Cullet heatup need:                 0.31659871040868E+07 W
+#   Cullet melt need:                   0.12619996850393E+07 W
+#   Radiation to Cullet:                0.33107003241246E+07 W
+#   Conduction to Cullet:               0.11465596585616E+07 W
+#   Cullet q needed:                    0.44279867891262E+07 W
+#   Cullet q net:                       0.44572599826862E+07 W
+
+#   Batch heatup need:                  0.31659871040868E+07 W
+#   Batch melt need:                    0.12619996850393E+07 W
+#   Radiation to Batch:                 0.33105618398808E+07 W
+#   Conduction to Batch:                0.11505448264460E+07 W
+#   Batch q needed:                     0.44279867891262E+07 W
+#   Batch q net:                        0.44611066663267E+07 W
+
+#   Liquid heatup need:                 0.16166215965354E+07 W
+#   Liquid q net:                       0.15541811016838E+07 W
+#   Adiabatic energy need:              0.10472595174788E+08 W
+#   Wall heat loss:                     0.16455079647135E+07 W
+#   Net melt input energy need:         0.12118103139501E+08 W
+#   Actual melt input energy:           0.12118103139501E+08 W
+
+#   Energy need divided by input:       0.10000000000000E+01
+#   Scaling factor:                     0.11062823713668E+01
+
+#   Mean glass exit temperature:        0.13376060443418E+04 K
+#   Cullet rate in:                     0.31549992125983E+01 kg/s
+#   Batch rate in:                      0.31549992125983E+01 kg/s
+#   Total solids rate in:               0.63099984251967E+01 kg/s
+#   Melt rate:                          0.62949419030585E+01 kg/s
+#   Glass rate out:                     0.62959383797833E+01 kg/s
+
+#   Cycle count:                       7
+#   Estimated wall loss at T_exit:      0.16455079647135E+07 W
+
+
+
+# #################   Run End   #################
+
+
+#  Heat Values at Run End (Scaled):
+
+#   Radiation+Conv In:                  0.12130913750467E+08 W
+#   Electric Boost:                     0.00000000000000E+00 W
+#   Total Energy In:                    0.12130913750467E+08 W
+
+#   Cullet heatup need:                 0.31659871040868E+07 W
+#   Cullet melt need:                   0.12619996850393E+07 W
+#   Radiation to Cullet:                0.33142204141111E+07 W
+#   Conduction to Cullet:               0.11400050928098E+07 W
+#   Cullet q needed:                    0.44279867891262E+07 W
+#   Cullet q net:                       0.44542255069209E+07 W
+
+#   Batch heatup need:                  0.31659871040868E+07 W
+#   Batch melt need:                    0.12619996850393E+07 W
+#   Radiation to Batch:                 0.33142318748799E+07 W
+#   Conduction to Batch:                0.11440347772564E+07 W
+#   Batch q needed:                     0.44279867891262E+07 W
+#   Batch q net:                        0.44582666521362E+07 W
+
+#   Liquid heatup need:                 0.16166215965354E+07 W
+#   Liquid q net:                       0.15600642725914E+07 W
+#   Adiabatic energy need:              0.10472595174788E+08 W
+#   Wall heat loss:                     0.16583185756794E+07 W
+#   Net melt input energy need:         0.12130913750467E+08 W
+#   Actual melt input energy:           0.12130913750467E+08 W
+
+#   Energy need divided by input:       0.10000000000000E+01
+#   Scaling factor:                     0.10654092761117E+01
+
+#   Mean glass exit temperature:        0.13439415144095E+04 K
+#   Cullet rate in:                     0.31549992125983E+01 kg/s
+#   Batch rate in:                      0.31549992125983E+01 kg/s
+#   Total solids rate in:               0.63099984251967E+01 kg/s
+#   Melt rate:                          0.62964210467564E+01 kg/s
+#   Glass rate out:                     0.62986906664536E+01 kg/s
+
+#   Cycle count:                       8
+#   Estimated wall loss at T_exit:      0.16583185756794E+07 W
+
+
+
+# #################   Run End   #################
+
+
+#  Heat Values at Run End (Scaled):
+
+#   Radiation+Conv In:                  0.12140901787695E+08 W
+#   Electric Boost:                     0.00000000000000E+00 W
+#   Total Energy In:                    0.12140901787695E+08 W
+
+#   Cullet heatup need:                 0.31659871040868E+07 W
+#   Cullet melt need:                   0.12619996850393E+07 W
+#   Radiation to Cullet:                0.33158652132244E+07 W
+#   Conduction to Cullet:               0.11419184179188E+07 W
+#   Cullet q needed:                    0.44279867891262E+07 W
+#   Cullet q net:                       0.44577836311431E+07 W
+
+#   Batch heatup need:                  0.31659871040868E+07 W
+#   Batch melt need:                    0.12619996850393E+07 W
+#   Radiation to Batch:                 0.33158587060854E+07 W
+#   Conduction to Batch:                0.11468358931532E+07 W
+#   Batch q needed:                     0.44279867891262E+07 W
+#   Batch q net:                        0.44626945992386E+07 W
+
+#   Liquid heatup need:                 0.16166215965354E+07 W
+#   Liquid q net:                       0.15520858079504E+07 W
+#   Adiabatic energy need:              0.10472595174788E+08 W
+#   Wall heat loss:                     0.16683066129072E+07 W
+#   Net melt input energy need:         0.12140901787695E+08 W
+#   Actual melt input energy:           0.12140901787695E+08 W
+
+#   Energy need divided by input:       0.10000000000000E+01
+#   Scaling factor:                     0.10462759056995E+01
+
+#   Mean glass exit temperature:        0.13492446553608E+04 K
+#   Cullet rate in:                     0.31549992125983E+01 kg/s
+#   Batch rate in:                      0.31549992125983E+01 kg/s
+#   Total solids rate in:               0.63099984251967E+01 kg/s
+#   Melt rate:                          0.62967463755306E+01 kg/s
+#   Glass rate out:                     0.62980809656795E+01 kg/s
+
+#   Cycle count:                       9
+#   Estimated wall loss at T_exit:      0.16683066129072E+07 W
+
+
+
+# #################   Run End   #################
+
+
+#  Heat Values at Run End (Scaled):
+
+#   Radiation+Conv In:                  0.12149344697600E+08 W
+#   Electric Boost:                     0.00000000000000E+00 W
+#   Total Energy In:                    0.12149344697600E+08 W
+
+#   Cullet heatup need:                 0.31659871040868E+07 W
+#   Cullet melt need:                   0.12619996850393E+07 W
+#   Radiation to Cullet:                0.33199851733149E+07 W
+#   Conduction to Cullet:               0.11389763516728E+07 W
+#   Cullet q needed:                    0.44279867891262E+07 W
+#   Cullet q net:                       0.44589615249876E+07 W
+
+#   Batch heatup need:                  0.31659871040868E+07 W
+#   Batch melt need:                    0.12619996850393E+07 W
+#   Radiation to Batch:                 0.33200119564168E+07 W
+#   Conduction to Batch:                0.11439036317314E+07 W
+#   Batch q needed:                     0.44279867891262E+07 W
+#   Batch q net:                        0.44639155881482E+07 W
+
+#   Liquid heatup need:                 0.16166215965354E+07 W
+#   Liquid q net:                       0.15496916266433E+07 W
+#   Adiabatic energy need:              0.10472595174788E+08 W
+#   Wall heat loss:                     0.16767495228124E+07 W
+#   Net melt input energy need:         0.12149344697600E+08 W
+#   Actual melt input energy:           0.12149344697600E+08 W
+
+#   Energy need divided by input:       0.10000000000000E+01
+#   Scaling factor:                     0.10362868332600E+01
+
+#   Mean glass exit temperature:        0.13535367242500E+04 K
+#   Cullet rate in:                     0.31549992125983E+01 kg/s
+#   Batch rate in:                      0.31549992125983E+01 kg/s
+#   Total solids rate in:               0.63099984251967E+01 kg/s
+#   Melt rate:                          0.62971949555003E+01 kg/s
+#   Glass rate out:                     0.62979834680113E+01 kg/s
+
+#   Cycle count:                      10
+#   Estimated wall loss at T_exit:      0.16767495228124E+07 W
+
+
+
+# #################   Run End   #################
+
+
+#  Heat Values at Run End (Scaled):
+
+#   Radiation+Conv In:                  0.12155894002526E+08 W
+#   Electric Boost:                     0.00000000000000E+00 W
+#   Total Energy In:                    0.12155894002526E+08 W
+
+#   Cullet heatup need:                 0.31659871040868E+07 W
+#   Cullet melt need:                   0.12619996850393E+07 W
+#   Radiation to Cullet:                0.33199971365420E+07 W
+#   Conduction to Cullet:               0.11377718342082E+07 W
+#   Cullet q needed:                    0.44279867891262E+07 W
+#   Cullet q net:                       0.44577689707502E+07 W
+
+#   Batch heatup need:                  0.31659871040868E+07 W
+#   Batch melt need:                    0.12619996850393E+07 W
+#   Radiation to Batch:                 0.33197695096029E+07 W
+#   Conduction to Batch:                0.11423229833936E+07 W
+#   Batch q needed:                     0.44279867891262E+07 W
+#   Batch q net:                        0.44620924929964E+07 W
+
+#   Liquid heatup need:                 0.16166215965354E+07 W
+#   Liquid q net:                       0.15527130286332E+07 W
+#   Adiabatic energy need:              0.10472595174788E+08 W
+#   Wall heat loss:                     0.16832988277386E+07 W
+#   Net melt input energy need:         0.12155894002526E+08 W
+#   Actual melt input energy:           0.12155894002526E+08 W
+
+#   Energy need divided by input:       0.10000000000000E+01
+#   Scaling factor:                     0.10315635822071E+01
+
+#   Mean glass exit temperature:        0.13565341924857E+04 K
+#   Cullet rate in:                     0.31549992125983E+01 kg/s
+#   Batch rate in:                      0.31549992125983E+01 kg/s
+#   Total solids rate in:               0.63099984251967E+01 kg/s
+#   Melt rate:                          0.62978500255527E+01 kg/s
+#   Glass rate out:                     0.62982325412835E+01 kg/s
+
+#   Cycle count:                      11
+#   Estimated wall loss at T_exit:      0.16832988277386E+07 W
+
+
+
+# #################   Run End   #################
+
+
+#  Heat Values at Run End (Scaled):
+
+#   Radiation+Conv In:                  0.12160265507731E+08 W
+#   Electric Boost:                     0.00000000000000E+00 W
+#   Total Energy In:                    0.12160265507731E+08 W
+
+#   Cullet heatup need:                 0.31659871040868E+07 W
+#   Cullet melt need:                   0.12619996850393E+07 W
+#   Radiation to Cullet:                0.33187718751447E+07 W
+#   Conduction to Cullet:               0.11373300150160E+07 W
+#   Cullet q needed:                    0.44279867891262E+07 W
+#   Cullet q net:                       0.44561018901607E+07 W
+
+#   Batch heatup need:                  0.31659871040868E+07 W
+#   Batch melt need:                    0.12619996850393E+07 W
+#   Radiation to Batch:                 0.33187053600596E+07 W
+#   Conduction to Batch:                0.11430947835038E+07 W
+#   Batch q needed:                     0.44279867891262E+07 W
+#   Batch q net:                        0.44618001435635E+07 W
+
+#   Liquid heatup need:                 0.16166215965354E+07 W
+#   Liquid q net:                       0.15546727751009E+07 W
+#   Adiabatic energy need:              0.10472595174788E+08 W
+#   Wall heat loss:                     0.16876703329435E+07 W
+#   Net melt input energy need:         0.12160265507731E+08 W
+#   Actual melt input energy:           0.12160265507731E+08 W
+
+#   Energy need divided by input:       0.10000000000000E+01
+#   Scaling factor:                     0.10278902257959E+01
+
+#   Mean glass exit temperature:        0.13589072175636E+04 K
+#   Cullet rate in:                     0.31549992125983E+01 kg/s
+#   Batch rate in:                      0.31549992125983E+01 kg/s
+#   Total solids rate in:               0.63099984251967E+01 kg/s
+#   Melt rate:                          0.62986462331899E+01 kg/s
+#   Glass rate out:                     0.62991037025932E+01 kg/s
+
+#   Cycle count:                      12
+#   Estimated wall loss at T_exit:      0.16876703329435E+07 W
+
+
+
+# #################   Run End   #################
+
+
+#  Heat Values at Run End (Scaled):
+
+#   Radiation+Conv In:                  0.12166185005214E+08 W
+#   Electric Boost:                     0.00000000000000E+00 W
+#   Total Energy In:                    0.12166185005214E+08 W
+
+#   Cullet heatup need:                 0.31659871040868E+07 W
+#   Cullet melt need:                   0.12619996850393E+07 W
+#   Radiation to Cullet:                0.33120050340168E+07 W
+#   Conduction to Cullet:               0.11455820315356E+07 W
+#   Cullet q needed:                    0.44279867891262E+07 W
+#   Cullet q net:                       0.44575870655524E+07 W
+
+#   Batch heatup need:                  0.31659871040868E+07 W
+#   Batch melt need:                    0.12619996850393E+07 W
+#   Radiation to Batch:                 0.33118290299583E+07 W
+#   Conduction to Batch:                0.11510871959348E+07 W
+#   Batch q needed:                     0.44279867891262E+07 W
+#   Batch q net:                        0.44629162258931E+07 W
+
+#   Liquid heatup need:                 0.16166215965354E+07 W
+#   Liquid q net:                       0.15520714359102E+07 W
+#   Adiabatic energy need:              0.10472595174788E+08 W
+#   Wall heat loss:                     0.16935898304266E+07 W
+#   Net melt input energy need:         0.12166185005214E+08 W
+#   Actual melt input energy:           0.12166185005214E+08 W
+
+#   Energy need divided by input:       0.10000000000000E+01
+#   Scaling factor:                     0.10031654386604E+01
+
+#   Mean glass exit temperature:        0.13605871408414E+04 K
+#   Cullet rate in:                     0.31549992125983E+01 kg/s
+#   Batch rate in:                      0.31549992125983E+01 kg/s
+#   Total solids rate in:               0.63099984251967E+01 kg/s
+#   Melt rate:                          0.62991595685976E+01 kg/s
+#   Glass rate out:                     0.62986112278133E+01 kg/s
+
+#   Cycle count:                      13
+#   Estimated wall loss at T_exit:      0.16935898304266E+07 W
+
+
+
+# #################   Run End   #################
+
+
+#  Heat Values at Run End (Scaled):
+
+#   Radiation+Conv In:                  0.12171511777219E+08 W
+#   Electric Boost:                     0.00000000000000E+00 W
+#   Total Energy In:                    0.12171511777219E+08 W
+
+#   Cullet heatup need:                 0.31659871040868E+07 W
+#   Cullet melt need:                   0.12619996850393E+07 W
+#   Radiation to Cullet:                0.33092751129289E+07 W
+#   Conduction to Cullet:               0.11473860404255E+07 W
+#   Cullet q needed:                    0.44279867891262E+07 W
+#   Cullet q net:                       0.44566611533544E+07 W
+
+#   Batch heatup need:                  0.31659871040868E+07 W
+#   Batch melt need:                    0.12619996850393E+07 W
+#   Radiation to Batch:                 0.33088043486034E+07 W
+#   Conduction to Batch:                0.11534012379666E+07 W
+#   Batch q needed:                     0.44279867891262E+07 W
+#   Batch q net:                        0.44622055865700E+07 W
+
+#   Liquid heatup need:                 0.16166215965354E+07 W
+#   Liquid q net:                       0.15537106401309E+07 W
+#   Adiabatic energy need:              0.10472595174788E+08 W
+#   Wall heat loss:                     0.16989166024309E+07 W
+#   Net melt input energy need:         0.12171511777219E+08 W
+#   Actual melt input energy:           0.12171511777219E+08 W
+
+#   Energy need divided by input:       0.10000000000000E+01
+#   Scaling factor:                     0.96360841006877E+00
+
+#   Mean glass exit temperature:        0.13639669246661E+04 K
+#   Cullet rate in:                     0.31549992125983E+01 kg/s
+#   Batch rate in:                      0.31549992125983E+01 kg/s
+#   Total solids rate in:               0.63099984251967E+01 kg/s
+#   Melt rate:                          0.62997509777715E+01 kg/s
+#   Glass rate out:                     0.62991815159984E+01 kg/s
+
+#   Cycle count:                      14
+#   Estimated wall loss at T_exit:      0.16989166024309E+07 W
+
+
+
+# #################   Run End   #################
+
+
+#  Heat Values at Run End (Scaled):
+
+#   Radiation+Conv In:                  0.12175797483523E+08 W
+#   Electric Boost:                     0.00000000000000E+00 W
+#   Total Energy In:                    0.12175797483523E+08 W
+
+#   Cullet heatup need:                 0.31659871040868E+07 W
+#   Cullet melt need:                   0.12619996850393E+07 W
+#   Radiation to Cullet:                0.33057556422846E+07 W
+#   Conduction to Cullet:               0.11517680006437E+07 W
+#   Cullet q needed:                    0.44279867891262E+07 W
+#   Cullet q net:                       0.44575236429284E+07 W
+
+#   Batch heatup need:                  0.31659871040868E+07 W
+#   Batch melt need:                    0.12619996850393E+07 W
+#   Radiation to Batch:                 0.33058777573485E+07 W
+#   Conduction to Batch:                0.11577919579632E+07 W
+#   Batch q needed:                     0.44279867891262E+07 W
+#   Batch q net:                        0.44636697153117E+07 W
+
+#   Liquid heatup need:                 0.16166215965354E+07 W
+#   Liquid q net:                       0.15513873891702E+07 W
+#   Adiabatic energy need:              0.10472595174788E+08 W
+#   Wall heat loss:                     0.17032023087357E+07 W
+#   Net melt input energy need:         0.12175797483523E+08 W
+#   Actual melt input energy:           0.12175797483523E+08 W
+
+#   Energy need divided by input:       0.10000000000000E+01
+#   Scaling factor:                     0.94528306544581E+00
+
+#   Mean glass exit temperature:        0.13660182586288E+04 K
+#   Cullet rate in:                     0.31549992125983E+01 kg/s
+#   Batch rate in:                      0.31549992125983E+01 kg/s
+#   Total solids rate in:               0.63099984251967E+01 kg/s
+#   Melt rate:                          0.63012978105777E+01 kg/s
+#   Glass rate out:                     0.63011385697840E+01 kg/s
+
+#   Cycle count:                      15
+#   Estimated wall loss at T_exit:      0.17032023087357E+07 W
+
+
+
+# #################   Run End   #################
+
+
+#  Heat Values at Run End (Scaled):
+
+#   Radiation+Conv In:                  0.12179047801979E+08 W
+#   Electric Boost:                     0.00000000000000E+00 W
+#   Total Energy In:                    0.12179047801979E+08 W
+
+#   Cullet heatup need:                 0.31659871040868E+07 W
+#   Cullet melt need:                   0.12619996850393E+07 W
+#   Radiation to Cullet:                0.33087240801883E+07 W
+#   Conduction to Cullet:               0.11500063875893E+07 W
+#   Cullet q needed:                    0.44279867891262E+07 W
+#   Cullet q net:                       0.44587304677775E+07 W
+
+#   Batch heatup need:                  0.31659871040868E+07 W
+#   Batch melt need:                    0.12619996850393E+07 W
+#   Radiation to Batch:                 0.33056564720912E+07 W
+#   Conduction to Batch:                0.11586197582967E+07 W
+#   Batch q needed:                     0.44279867891262E+07 W
+#   Batch q net:                        0.44642762303879E+07 W
+
+#   Liquid heatup need:                 0.16166215965354E+07 W
+#   Liquid q net:                       0.15495771811057E+07 W
+#   Adiabatic energy need:              0.10472595174788E+08 W
+#   Wall heat loss:                     0.17064526271917E+07 W
+#   Net melt input energy need:         0.12179047801979E+08 W
+#   Actual melt input energy:           0.12179047801979E+08 W
+
+#   Energy need divided by input:       0.10000000000000E+01
+#   Scaling factor:                     0.94811834016697E+00
+
+#   Mean glass exit temperature:        0.13681523184507E+04 K
+#   Cullet rate in:                     0.31549992125983E+01 kg/s
+#   Batch rate in:                      0.31549992125983E+01 kg/s
+#   Total solids rate in:               0.63099984251967E+01 kg/s
+#   Melt rate:                          0.63033914247309E+01 kg/s
+#   Glass rate out:                     0.63024344996569E+01 kg/s
+
+#   Cycle count:                      16
+#   Estimated wall loss at T_exit:      0.17064526271917E+07 W
+
+
+
+# #################   Run End   #################
+
+
+#  Heat Values at Run End:
+
+#   Radiation+Conv In:                  0.12385506958955E+08 W
+#   Electric Boost:                     0.00000000000000E+00 W
+#   Total Energy In:                    0.12385506958955E+08 W
+
+#   Cullet heatup need:                 0.31659871040868E+07 W
+#   Cullet melt need:                   0.12619996850393E+07 W
+#   Radiation to Cullet:                0.33223829505817E+07 W
+#   Conduction to Cullet:               0.11367652532237E+07 W
+#   Cullet q needed:                    0.44279867891262E+07 W
+#   Cullet q net:                       0.44591482038054E+07 W
+
+#   Batch heatup need:                  0.31659871040868E+07 W
+#   Batch melt need:                    0.12619996850393E+07 W
+#   Radiation to Batch:                 0.33214760494141E+07 W
+#   Conduction to Batch:                0.11433414147503E+07 W
+#   Batch q needed:                     0.44279867891262E+07 W
+#   Batch q net:                        0.44648174641644E+07 W
+
+#   Liquid heatup need:                 0.16166215965354E+07 W
+#   Liquid q net:                       0.17505780785474E+07 W
+#   Adiabatic energy need:              0.10472595174788E+08 W
+#   Wall heat loss:                     0.17109632124378E+07 W
+#   Net melt input energy need:         0.12183558387225E+08 W
+#   Actual melt input energy:           0.12385506958955E+08 W
+
+#   Energy need divided by input:       0.98369476740849E+00
+
+#   Mean glass exit temperature:        0.13705981750337E+04 K
+#   Cullet rate in:                     0.31549992125983E+01 kg/s
+#   Batch rate in:                      0.31549992125983E+01 kg/s
+#   Total solids rate in:               0.63099984251967E+01 kg/s
+#   Melt rate:                          0.63028731833169E+01 kg/s
+#   Glass rate out:                     0.63041436821504E+01 kg/s
+
+#   Cycle count:                      17
+#   Estimated wall loss at T_exit:      0.17109632124378E+07 W
+
+
+
+# #################   Run End   #################
+
+
+#  Heat Values at Run End:
+
+#   Radiation+Conv In:                  0.12368831656840E+08 W
+#   Electric Boost:                     0.00000000000000E+00 W
+#   Total Energy In:                    0.12368831656840E+08 W
+
+#   Cullet heatup need:                 0.31659871040868E+07 W
+#   Cullet melt need:                   0.12619996850393E+07 W
+#   Radiation to Cullet:                0.33111998887348E+07 W
+#   Conduction to Cullet:               0.11482465390043E+07 W
+#   Cullet q needed:                    0.44279867891262E+07 W
+#   Cullet q net:                       0.44594464277391E+07 W
+
+#   Batch heatup need:                  0.31659871040868E+07 W
+#   Batch melt need:                    0.12619996850393E+07 W
+#   Radiation to Batch:                 0.33110214214380E+07 W
+#   Conduction to Batch:                0.11544737192095E+07 W
+#   Batch q needed:                     0.44279867891262E+07 W
+#   Batch q net:                        0.44654951406475E+07 W
+
+#   Liquid heatup need:                 0.16166215965354E+07 W
+#   Liquid q net:                       0.17259050262159E+07 W
+#   Adiabatic energy need:              0.10472595174788E+08 W
+#   Wall heat loss:                     0.17179850623662E+07 W
+#   Net melt input energy need:         0.12190580237154E+08 W
+#   Actual melt input energy:           0.12368831656840E+08 W
+
+#   Energy need divided by input:       0.98558866151373E+00
+
+#   Mean glass exit temperature:        0.13757603464663E+04 K
+#   Cullet rate in:                     0.31549992125983E+01 kg/s
+#   Batch rate in:                      0.31549992125983E+01 kg/s
+#   Total solids rate in:               0.63099984251967E+01 kg/s
+#   Melt rate:                          0.63033096402090E+01 kg/s
+#   Glass rate out:                     0.63019311189983E+01 kg/s
+
+#   Cycle count:                      18
+#   Estimated wall loss at T_exit:      0.17179850623662E+07 W
+
+
+
+# #################   Run End   #################
+
+
+#  Heat Values at Run End:
+
+#   Radiation+Conv In:                  0.12342780353740E+08 W
+#   Electric Boost:                     0.00000000000000E+00 W
+#   Total Energy In:                    0.12342780353740E+08 W
+
+#   Cullet heatup need:                 0.31659871040868E+07 W
+#   Cullet melt need:                   0.12619996850393E+07 W
+#   Radiation to Cullet:                0.33063476733435E+07 W
+#   Conduction to Cullet:               0.11543726147235E+07 W
+#   Cullet q needed:                    0.44279867891262E+07 W
+#   Cullet q net:                       0.44607202880670E+07 W
+
+#   Batch heatup need:                  0.31659871040868E+07 W
+#   Batch melt need:                    0.12619996850393E+07 W
+#   Radiation to Batch:                 0.33062577582195E+07 W
+#   Conduction to Batch:                0.11603742628302E+07 W
+#   Batch q needed:                     0.44279867891262E+07 W
+#   Batch q net:                        0.44666320210498E+07 W
+
+#   Liquid heatup need:                 0.16166215965354E+07 W
+#   Liquid q net:                       0.16920939127578E+07 W
+#   Adiabatic energy need:              0.10472595174788E+08 W
+#   Wall heat loss:                     0.17233341614405E+07 W
+#   Net melt input energy need:         0.12195929336228E+08 W
+#   Actual melt input energy:           0.12342780353740E+08 W
+
+#   Energy need divided by input:       0.98810227409845E+00
+
+#   Mean glass exit temperature:        0.13794821712088E+04 K
+#   Cullet rate in:                     0.31549992125983E+01 kg/s
+#   Batch rate in:                      0.31549992125983E+01 kg/s
+#   Total solids rate in:               0.63099984251967E+01 kg/s
+#   Melt rate:                          0.63034498418511E+01 kg/s
+#   Glass rate out:                     0.63017907572001E+01 kg/s
+
+#   Cycle count:                      19
+#   Estimated wall loss at T_exit:      0.17233341614405E+07 W
+
+
+
+# #################   Run End   #################
+
+
+#  Heat Values at Run End:
+
+#   Radiation+Conv In:                  0.12320799528441E+08 W
+#   Electric Boost:                     0.00000000000000E+00 W
+#   Total Energy In:                    0.12320799528441E+08 W
+
+#   Cullet heatup need:                 0.31659871040868E+07 W
+#   Cullet melt need:                   0.12619996850393E+07 W
+#   Radiation to Cullet:                0.33008768234474E+07 W
+#   Conduction to Cullet:               0.11594436412629E+07 W
+#   Cullet q needed:                    0.44279867891262E+07 W
+#   Cullet q net:                       0.44603204647103E+07 W
+
+#   Batch heatup need:                  0.31659871040868E+07 W
+#   Batch melt need:                    0.12619996850393E+07 W
+#   Radiation to Batch:                 0.33007945625878E+07 W
+#   Conduction to Batch:                0.11661498487121E+07 W
+#   Batch q needed:                     0.44279867891262E+07 W
+#   Batch q net:                        0.44669444112999E+07 W
+
+#   Liquid heatup need:                 0.16166215965354E+07 W
+#   Liquid q net:                       0.16657723007303E+07 W
+#   Adiabatic energy need:              0.10472595174788E+08 W
+#   Wall heat loss:                     0.17277623517004E+07 W
+#   Net melt input energy need:         0.12200357526488E+08 W
+#   Actual melt input energy:           0.12320799528441E+08 W
+
+#   Energy need divided by input:       0.99022449787655E+00
+
+#   Mean glass exit temperature:        0.13822367184261E+04 K
+#   Cullet rate in:                     0.31549992125983E+01 kg/s
+#   Batch rate in:                      0.31549992125983E+01 kg/s
+#   Total solids rate in:               0.63099984251967E+01 kg/s
+#   Melt rate:                          0.63034771035248E+01 kg/s
+#   Glass rate out:                     0.63024173537557E+01 kg/s
+
+#   Cycle count:                      20
+#   Estimated wall loss at T_exit:      0.17277623517004E+07 W
+
+
+
+# #################   Run End   #################
+
+
+#  Heat Values at Run End:
+
+#   Radiation+Conv In:                  0.12312980360319E+08 W
+#   Electric Boost:                     0.00000000000000E+00 W
+#   Total Energy In:                    0.12312980360319E+08 W
+
+#   Cullet heatup need:                 0.31659871040868E+07 W
+#   Cullet melt need:                   0.12619996850393E+07 W
+#   Radiation to Cullet:                0.33004598077819E+07 W
+#   Conduction to Cullet:               0.11620253028020E+07 W
+#   Cullet q needed:                    0.44279867891262E+07 W
+#   Cullet q net:                       0.44624851105838E+07 W
+
+#   Batch heatup need:                  0.31659871040868E+07 W
+#   Batch melt need:                    0.12619996850393E+07 W
+#   Radiation to Batch:                 0.32998254963767E+07 W
+#   Conduction to Batch:                0.11692651027413E+07 W
+#   Batch q needed:                     0.44279867891262E+07 W
+#   Batch q net:                        0.44690905991180E+07 W
+
+#   Liquid heatup need:                 0.16166215965354E+07 W
+#   Liquid q net:                       0.16502157002313E+07 W
+#   Adiabatic energy need:              0.10472595174788E+08 W
+#   Wall heat loss:                     0.17311889503860E+07 W
+#   Net melt input energy need:         0.12203784125174E+08 W
+#   Actual melt input energy:           0.12312980360319E+08 W
+
+#   Energy need divided by input:       0.99113161623344E+00
+
+#   Mean glass exit temperature:        0.13841695173784E+04 K
+#   Cullet rate in:                     0.31549992125983E+01 kg/s
+#   Batch rate in:                      0.31549992125983E+01 kg/s
+#   Total solids rate in:               0.63099984251967E+01 kg/s
+#   Melt rate:                          0.63034929442629E+01 kg/s
+#   Glass rate out:                     0.63023237138111E+01 kg/s
+
+#   Cycle count:                      21
+#   Estimated wall loss at T_exit:      0.17311889503860E+07 W
+
+
+
+# #################   Run End   #################
+
+
+#  Heat Values at Run End:
+
+#   Radiation+Conv In:                  0.12304521067231E+08 W
+#   Electric Boost:                     0.00000000000000E+00 W
+#   Total Energy In:                    0.12304521067231E+08 W
+
+#   Cullet heatup need:                 0.31659871040868E+07 W
+#   Cullet melt need:                   0.12619996850393E+07 W
+#   Radiation to Cullet:                0.32957817497434E+07 W
+#   Conduction to Cullet:               0.11629501935959E+07 W
+#   Cullet q needed:                    0.44279867891262E+07 W
+#   Cullet q net:                       0.44587319433394E+07 W
+
+#   Batch heatup need:                  0.31659871040868E+07 W
+#   Batch melt need:                    0.12619996850393E+07 W
+#   Radiation to Batch:                 0.32955505390750E+07 W
+#   Conduction to Batch:                0.11701275953407E+07 W
+#   Batch q needed:                     0.44279867891262E+07 W
+#   Batch q net:                        0.44656781344157E+07 W
+
+#   Liquid heatup need:                 0.16166215965354E+07 W
+#   Liquid q net:                       0.16465217115072E+07 W
+#   Adiabatic energy need:              0.10472595174788E+08 W
+#   Wall heat loss:                     0.17335892779686E+07 W
+#   Net melt input energy need:         0.12206184452756E+08 W
+#   Actual melt input energy:           0.12304521067231E+08 W
+
+#   Energy need divided by input:       0.99200809085235E+00
+
+#   Mean glass exit temperature:        0.13857176301548E+04 K
+#   Cullet rate in:                     0.31549992125983E+01 kg/s
+#   Batch rate in:                      0.31549992125983E+01 kg/s
+#   Total solids rate in:               0.63099984251967E+01 kg/s
+#   Melt rate:                          0.63035158538452E+01 kg/s
+#   Glass rate out:                     0.63030242201620E+01 kg/s
+
+#   Cycle count:                      22
+#   Estimated wall loss at T_exit:      0.17335892779686E+07 W
+
+
+
+# #################   Run End   #################
+
+
+#  Heat Values at Run End:
+
+#   Radiation+Conv In:                  0.12310115428714E+08 W
+#   Electric Boost:                     0.00000000000000E+00 W
+#   Total Energy In:                    0.12310115428714E+08 W
+
+#   Cullet heatup need:                 0.31659871040868E+07 W
+#   Cullet melt need:                   0.12619996850393E+07 W
+#   Radiation to Cullet:                0.32942173853295E+07 W
+#   Conduction to Cullet:               0.11640574635218E+07 W
+#   Cullet q needed:                    0.44279867891262E+07 W
+#   Cullet q net:                       0.44582748488513E+07 W
+
+#   Batch heatup need:                  0.31659871040868E+07 W
+#   Batch melt need:                    0.12619996850393E+07 W
+#   Radiation to Batch:                 0.32937836831181E+07 W
+#   Conduction to Batch:                0.11710069151439E+07 W
+#   Batch q needed:                     0.44279867891262E+07 W
+#   Batch q net:                        0.44647905982620E+07 W
+
+#   Liquid heatup need:                 0.16166215965354E+07 W
+#   Liquid q net:                       0.16513635979650E+07 W
+#   Adiabatic energy need:              0.10472595174788E+08 W
+#   Wall heat loss:                     0.17356863836360E+07 W
+#   Net melt input energy need:         0.12208281558424E+08 W
+#   Actual melt input energy:           0.12310115428714E+08 W
+
+#   Energy need divided by input:       0.99172762669202E+00
+
+#   Mean glass exit temperature:        0.13872831759743E+04 K
+#   Cullet rate in:                     0.31549992125983E+01 kg/s
+#   Batch rate in:                      0.31549992125983E+01 kg/s
+#   Total solids rate in:               0.63099984251967E+01 kg/s
+#   Melt rate:                          0.63035734975458E+01 kg/s
+#   Glass rate out:                     0.63028004641052E+01 kg/s
+
+#   Cycle count:                      23
+#   Estimated wall loss at T_exit:      0.17356863836360E+07 W
+
+
+
+# #################   Run End   #################
+
+
+#  Heat Values at Run End:
+
+#   Radiation+Conv In:                  0.12298752896414E+08 W
+#   Electric Boost:                     0.00000000000000E+00 W
+#   Total Energy In:                    0.12298752896414E+08 W
+
+#   Cullet heatup need:                 0.31659871040868E+07 W
+#   Cullet melt need:                   0.12619996850393E+07 W
+#   Radiation to Cullet:                0.32917416156270E+07 W
+#   Conduction to Cullet:               0.11662597964684E+07 W
+#   Cullet q needed:                    0.44279867891262E+07 W
+#   Cullet q net:                       0.44580014120954E+07 W
+
+#   Batch heatup need:                  0.31659871040868E+07 W
+#   Batch melt need:                    0.12619996850393E+07 W
+#   Radiation to Batch:                 0.32915660134319E+07 W
+#   Conduction to Batch:                0.11732479272885E+07 W
+#   Batch q needed:                     0.44279867891262E+07 W
+#   Batch q net:                        0.44648139407204E+07 W
+
+#   Liquid heatup need:                 0.16166215965354E+07 W
+#   Liquid q net:                       0.16382501330931E+07 W
+#   Adiabatic energy need:              0.10472595174788E+08 W
+#   Wall heat loss:                     0.17376874105046E+07 W
+#   Net melt input energy need:         0.12210282585292E+08 W
+#   Actual melt input energy:           0.12298752896414E+08 W
+
+#   Energy need divided by input:       0.99280656243227E+00
+
+#   Mean glass exit temperature:        0.13889260592069E+04 K
+#   Cullet rate in:                     0.31549992125983E+01 kg/s
+#   Batch rate in:                      0.31549992125983E+01 kg/s
+#   Total solids rate in:               0.63099984251967E+01 kg/s
+#   Melt rate:                          0.63036787033653E+01 kg/s
+#   Glass rate out:                     0.63030927030760E+01 kg/s
+
+#   Cycle count:                      24
+#   Estimated wall loss at T_exit:      0.17376874105046E+07 W
+
+
+
+# #################   Run End   #################
+
+
+#  Heat Values at Run End:
+
+#   Radiation+Conv In:                  0.12311568741048E+08 W
+#   Electric Boost:                     0.00000000000000E+00 W
+#   Total Energy In:                    0.12311568741048E+08 W
+
+#   Cullet heatup need:                 0.31659871040868E+07 W
+#   Cullet melt need:                   0.12619996850393E+07 W
+#   Radiation to Cullet:                0.32899726524205E+07 W
+#   Conduction to Cullet:               0.11680908227496E+07 W
+#   Cullet q needed:                    0.44279867891262E+07 W
+#   Cullet q net:                       0.44580634751702E+07 W
+
+#   Batch heatup need:                  0.31659871040868E+07 W
+#   Batch melt need:                    0.12619996850393E+07 W
+#   Radiation to Batch:                 0.32896064043971E+07 W
+#   Conduction to Batch:                0.11752240157647E+07 W
+#   Batch q needed:                     0.44279867891262E+07 W
+#   Batch q net:                        0.44648304201619E+07 W
+
+#   Liquid heatup need:                 0.16166215965354E+07 W
+#   Liquid q net:                       0.16488367203700E+07 W
+#   Adiabatic energy need:              0.10472595174788E+08 W
+#   Wall heat loss:                     0.17398381253462E+07 W
+#   Net melt input energy need:         0.12212433300134E+08 W
+#   Actual melt input energy:           0.12311568741048E+08 W
+
+#   Energy need divided by input:       0.99194778155412E+00
+
+#   Mean glass exit temperature:        0.13904096580770E+04 K
+#   Cullet rate in:                     0.31549992125983E+01 kg/s
+#   Batch rate in:                      0.31549992125983E+01 kg/s
+#   Total solids rate in:               0.63099984251967E+01 kg/s
+#   Melt rate:                          0.63037075370315E+01 kg/s
+#   Glass rate out:                     0.63028331511439E+01 kg/s
+
+#   Cycle count:                      25
+#   Estimated wall loss at T_exit:      0.17398381253462E+07 W
+
+
+
+# #################   Run End   #################
+
+
+#  Heat Values at Run End:
+
+#   Radiation+Conv In:                  0.12321465766979E+08 W
+#   Electric Boost:                     0.00000000000000E+00 W
+#   Total Energy In:                    0.12321465766979E+08 W
+
+#   Cullet heatup need:                 0.31659871040868E+07 W
+#   Cullet melt need:                   0.12619996850393E+07 W
+#   Radiation to Cullet:                0.32886139729551E+07 W
+#   Conduction to Cullet:               0.11693445061211E+07 W
+#   Cullet q needed:                    0.44279867891262E+07 W
+#   Cullet q net:                       0.44579584790762E+07 W
+
+#   Batch heatup need:                  0.31659871040868E+07 W
+#   Batch melt need:                    0.12619996850393E+07 W
+#   Radiation to Batch:                 0.32885551852442E+07 W
+#   Conduction to Batch:                0.11768877977876E+07 W
+#   Batch q needed:                     0.44279867891262E+07 W
+#   Batch q net:                        0.44654429830318E+07 W
+
+#   Liquid heatup need:                 0.16166215965354E+07 W
+#   Liquid q net:                       0.16562121189376E+07 W
+#   Adiabatic energy need:              0.10472595174788E+08 W
+#   Wall heat loss:                     0.17418522164077E+07 W
+#   Net melt input energy need:         0.12214447391195E+08 W
+#   Actual melt input energy:           0.12321465766979E+08 W
+
+#   Energy need divided by input:       0.99131447688064E+00
+
+#   Mean glass exit temperature:        0.13919437983100E+04 K
+#   Cullet rate in:                     0.31549992125983E+01 kg/s
+#   Batch rate in:                      0.31549992125983E+01 kg/s
+#   Total solids rate in:               0.63099984251967E+01 kg/s
+#   Melt rate:                          0.63039931703270E+01 kg/s
+#   Glass rate out:                     0.63028980262687E+01 kg/s
+
+#   Cycle count:                      26
+#   Estimated wall loss at T_exit:      0.17418522164077E+07 W
+
+
+
+# #################   Run End   #################
+
+
+#  Heat Values at Run End:
+
+#   Radiation+Conv In:                  0.12315300755881E+08 W
+#   Electric Boost:                     0.00000000000000E+00 W
+#   Total Energy In:                    0.12315300755881E+08 W
+
+#   Cullet heatup need:                 0.31659871040868E+07 W
+#   Cullet melt need:                   0.12619996850393E+07 W
+#   Radiation to Cullet:                0.32845876527047E+07 W
+#   Conduction to Cullet:               0.11739106980124E+07 W
+#   Cullet q needed:                    0.44279867891262E+07 W
+#   Cullet q net:                       0.44584983507171E+07 W
+
+#   Batch heatup need:                  0.31659871040868E+07 W
+#   Batch melt need:                    0.12619996850393E+07 W
+#   Radiation to Batch:                 0.32845516621215E+07 W
+#   Conduction to Batch:                0.11818828907343E+07 W
+#   Batch q needed:                     0.44279867891262E+07 W
+#   Batch q net:                        0.44664345528559E+07 W
+
+#   Liquid heatup need:                 0.16166215965354E+07 W
+#   Liquid q net:                       0.16464737069776E+07 W
+#   Adiabatic energy need:              0.10472595174788E+08 W
+#   Wall heat loss:                     0.17438941453307E+07 W
+#   Net melt input energy need:         0.12216489320118E+08 W
+#   Actual melt input energy:           0.12315300755881E+08 W
+
+#   Energy need divided by input:       0.99197653084390E+00
+
+#   Mean glass exit temperature:        0.13934435865947E+04 K
+#   Cullet rate in:                     0.31549992125983E+01 kg/s
+#   Batch rate in:                      0.31549992125983E+01 kg/s
+#   Total solids rate in:               0.63099984251967E+01 kg/s
+#   Melt rate:                          0.63038822490590E+01 kg/s
+#   Glass rate out:                     0.63020233574421E+01 kg/s
+
+#   Cycle count:                      27
+#   Estimated wall loss at T_exit:      0.17438941453307E+07 W
+
+
+
+# #################   Run End   #################
+
+
+#  Heat Values at Run End:
+
+#   Radiation+Conv In:                  0.12307886294376E+08 W
+#   Electric Boost:                     0.00000000000000E+00 W
+#   Total Energy In:                    0.12307886294376E+08 W
+
+#   Cullet heatup need:                 0.31659871040868E+07 W
+#   Cullet melt need:                   0.12619996850393E+07 W
+#   Radiation to Cullet:                0.32832410437165E+07 W
+#   Conduction to Cullet:               0.11731740203549E+07 W
+#   Cullet q needed:                    0.44279867891262E+07 W
+#   Cullet q net:                       0.44564150640715E+07 W
+
+#   Batch heatup need:                  0.31659871040868E+07 W
+#   Batch melt need:                    0.12619996850393E+07 W
+#   Radiation to Batch:                 0.32833805692193E+07 W
+#   Conduction to Batch:                0.11815901961586E+07 W
+#   Batch q needed:                     0.44279867891262E+07 W
+#   Batch q net:                        0.44649707653779E+07 W
+
+#   Liquid heatup need:                 0.16166215965354E+07 W
+#   Liquid q net:                       0.16419773569378E+07 W
+#   Adiabatic energy need:              0.10472595174788E+08 W
+#   Wall heat loss:                     0.17445232500044E+07 W
+#   Net melt input energy need:         0.12217118424792E+08 W
+#   Actual melt input energy:           0.12307886294376E+08 W
+
+#   Energy need divided by input:       0.99262522683316E+00
+
+#   Mean glass exit temperature:        0.13945644210473E+04 K
+#   Cullet rate in:                     0.31549992125983E+01 kg/s
+#   Batch rate in:                      0.31549992125983E+01 kg/s
+#   Total solids rate in:               0.63099984251967E+01 kg/s
+#   Melt rate:                          0.63034913247926E+01 kg/s
+#   Glass rate out:                     0.63023474473633E+01 kg/s
+
+#   Cycle count:                      28
+#   Estimated wall loss at T_exit:      0.17445232500044E+07 W
+
+
+
+# #################   Run End   #################
+
+
+#  Heat Values at Run End:
+
+#   Radiation+Conv In:                  0.12299371861323E+08 W
+#   Electric Boost:                     0.00000000000000E+00 W
+#   Total Energy In:                    0.12299371861323E+08 W
+
+#   Cullet heatup need:                 0.31659871040868E+07 W
+#   Cullet melt need:                   0.12619996850393E+07 W
+#   Radiation to Cullet:                0.32836176045971E+07 W
+#   Conduction to Cullet:               0.11729363042332E+07 W
+#   Cullet q needed:                    0.44279867891262E+07 W
+#   Cullet q net:                       0.44565539088303E+07 W
+
+#   Batch heatup need:                  0.31659871040868E+07 W
+#   Batch melt need:                    0.12619996850393E+07 W
+#   Radiation to Batch:                 0.32844337779027E+07 W
+#   Conduction to Batch:                0.11809058129141E+07 W
+#   Batch q needed:                     0.44279867891262E+07 W
+#   Batch q net:                        0.44653395908168E+07 W
+
+#   Liquid heatup need:                 0.16166215965354E+07 W
+#   Liquid q net:                       0.16317456078177E+07 W
+#   Adiabatic energy need:              0.10472595174788E+08 W
+#   Wall heat loss:                     0.17457327568867E+07 W
+#   Net melt input energy need:         0.12218327931674E+08 W
+#   Actual melt input energy:           0.12299371861323E+08 W
+
+#   Energy need divided by input:       0.99341072612797E+00
+
+#   Mean glass exit temperature:        0.13959061434276E+04 K
+#   Cullet rate in:                     0.31549992125983E+01 kg/s
+#   Batch rate in:                      0.31549992125983E+01 kg/s
+#   Total solids rate in:               0.63099984251967E+01 kg/s
+#   Melt rate:                          0.63036056911246E+01 kg/s
+#   Glass rate out:                     0.63032286420994E+01 kg/s
+
+#   Cycle count:                      29
+#   Estimated wall loss at T_exit:      0.17457327568867E+07 W
+
+
+
+# #################   Run End   #################
+
+
+#  Heat Values at Run End:
+
+#   Radiation+Conv In:                  0.12299085274925E+08 W
+#   Electric Boost:                     0.00000000000000E+00 W
+#   Total Energy In:                    0.12299085274925E+08 W
+
+#   Cullet heatup need:                 0.31659871040868E+07 W
+#   Cullet melt need:                   0.12619996850393E+07 W
+#   Radiation to Cullet:                0.32863070362332E+07 W
+#   Conduction to Cullet:               0.11718776861692E+07 W
+#   Cullet q needed:                    0.44279867891262E+07 W
+#   Cullet q net:                       0.44581847224024E+07 W
+
+#   Batch heatup need:                  0.31659871040868E+07 W
+#   Batch melt need:                    0.12619996850393E+07 W
+#   Radiation to Batch:                 0.32869817285721E+07 W
+#   Conduction to Batch:                0.11810862853483E+07 W
+#   Batch q needed:                     0.44279867891262E+07 W
+#   Batch q net:                        0.44680680139204E+07 W
+
+#   Liquid heatup need:                 0.16166215965354E+07 W
+#   Liquid q net:                       0.16261604557626E+07 W
+#   Adiabatic energy need:              0.10472595174788E+08 W
+#   Wall heat loss:                     0.17466722075979E+07 W
+#   Net melt input energy need:         0.12219267382386E+08 W
+#   Actual melt input energy:           0.12299085274925E+08 W
+
+#   Energy need divided by input:       0.99351025781550E+00
+
+#   Mean glass exit temperature:        0.13970786814080E+04 K
+#   Cullet rate in:                     0.31549992125983E+01 kg/s
+#   Batch rate in:                      0.31549992125983E+01 kg/s
+#   Total solids rate in:               0.63099984251967E+01 kg/s
+#   Melt rate:                          0.63030959124813E+01 kg/s
+#   Glass rate out:                     0.63030955805138E+01 kg/s
+
+#   Cycle count:                      30
+#   Estimated wall loss at T_exit:      0.17466722075979E+07 W
+
+
+
+# #################   Run End   #################
+
+
+#  Heat Values at Run End:
+
+#   Radiation+Conv In:                  0.12288448561873E+08 W
+#   Electric Boost:                     0.00000000000000E+00 W
+#   Total Energy In:                    0.12288448561873E+08 W
+
+#   Cullet heatup need:                 0.31659871040868E+07 W
+#   Cullet melt need:                   0.12619996850393E+07 W
+#   Radiation to Cullet:                0.32935775740823E+07 W
+#   Conduction to Cullet:               0.11645699531508E+07 W
+#   Cullet q needed:                    0.44279867891262E+07 W
+#   Cullet q net:                       0.44581475272330E+07 W
+
+#   Batch heatup need:                  0.31659871040868E+07 W
+#   Batch melt need:                    0.12619996850393E+07 W
+#   Radiation to Batch:                 0.32942872118961E+07 W
+#   Conduction to Batch:                0.11739197218784E+07 W
+#   Batch q needed:                     0.44279867891262E+07 W
+#   Batch q net:                        0.44682069337745E+07 W
+
+#   Liquid heatup need:                 0.16166215965354E+07 W
+#   Liquid q net:                       0.16147138783516E+07 W
+#   Adiabatic energy need:              0.10472595174788E+08 W
+#   Wall heat loss:                     0.17473818613729E+07 W
+#   Net melt input energy need:         0.12219977036161E+08 W
+#   Actual melt input energy:           0.12288448561873E+08 W
+
+#   Energy need divided by input:       0.99442797637410E+00
+
+#   Mean glass exit temperature:        0.13979994838900E+04 K
+#   Cullet rate in:                     0.31549992125983E+01 kg/s
+#   Batch rate in:                      0.31549992125983E+01 kg/s
+#   Total solids rate in:               0.63099984251967E+01 kg/s
+#   Melt rate:                          0.63046235479935E+01 kg/s
+#   Glass rate out:                     0.63019404484812E+01 kg/s
+
+#   Cycle count:                      31
+#   Estimated wall loss at T_exit:      0.17473818613729E+07 W
+
+
+
+# #################   Run End   #################
+
+
+#  Heat Values at Run End:
+
+#   Radiation+Conv In:                  0.12274123111213E+08 W
+#   Electric Boost:                     0.00000000000000E+00 W
+#   Total Energy In:                    0.12274123111213E+08 W
+
+#   Cullet heatup need:                 0.31659871040868E+07 W
+#   Cullet melt need:                   0.12619996850393E+07 W
+#   Radiation to Cullet:                0.32928797817135E+07 W
+#   Conduction to Cullet:               0.11660235776083E+07 W
+#   Cullet q needed:                    0.44279867891262E+07 W
+#   Cullet q net:                       0.44589033593218E+07 W
+
+#   Batch heatup need:                  0.31659871040868E+07 W
+#   Batch melt need:                    0.12619996850393E+07 W
+#   Radiation to Batch:                 0.32932024621367E+07 W
+#   Conduction to Batch:                0.11743750460733E+07 W
+#   Batch q needed:                     0.44279867891262E+07 W
+#   Batch q net:                        0.44675775082100E+07 W
+
+#   Liquid heatup need:                 0.16166215965354E+07 W
+#   Liquid q net:                       0.16003970918134E+07 W
+#   Adiabatic energy need:              0.10472595174788E+08 W
+#   Wall heat loss:                     0.17472473993359E+07 W
+#   Net melt input energy need:         0.12219842574124E+08 W
+#   Actual melt input energy:           0.12274123111213E+08 W
+
+#   Energy need divided by input:       0.99557764439895E+00
+
+#   Mean glass exit temperature:        0.13986895065191E+04 K
+#   Cullet rate in:                     0.31549992125983E+01 kg/s
+#   Batch rate in:                      0.31549992125983E+01 kg/s
+#   Total solids rate in:               0.63099984251967E+01 kg/s
+#   Melt rate:                          0.63033533838572E+01 kg/s
+#   Glass rate out:                     0.63031727529601E+01 kg/s
+
+#   Cycle count:                      32
+#   Estimated wall loss at T_exit:      0.17472473993359E+07 W
+
+
+
+# #################   Run End   #################
+
+
+#  Heat Values at Run End:
+
+#   Radiation+Conv In:                  0.12258660967194E+08 W
+#   Electric Boost:                     0.00000000000000E+00 W
+#   Total Energy In:                    0.12258660967194E+08 W
+
+#   Cullet heatup need:                 0.31659871040868E+07 W
+#   Cullet melt need:                   0.12619996850393E+07 W
+#   Radiation to Cullet:                0.32947008779247E+07 W
+#   Conduction to Cullet:               0.11645368834437E+07 W
+#   Cullet q needed:                    0.44279867891262E+07 W
+#   Cullet q net:                       0.44592377613684E+07 W
+
+#   Batch heatup need:                  0.31659871040868E+07 W
+#   Batch melt need:                    0.12619996850393E+07 W
+#   Radiation to Batch:                 0.32951165137224E+07 W
+#   Conduction to Batch:                0.11732982894691E+07 W
+#   Batch q needed:                     0.44279867891262E+07 W
+#   Batch q net:                        0.44684148031916E+07 W
+
+#   Liquid heatup need:                 0.16166215965354E+07 W
+#   Liquid q net:                       0.15840523771493E+07 W
+#   Adiabatic energy need:              0.10472595174788E+08 W
+#   Wall heat loss:                     0.17469585729916E+07 W
+#   Net melt input energy need:         0.12219553747779E+08 W
+#   Actual melt input energy:           0.12258660967194E+08 W
+
+#   Energy need divided by input:       0.99680982943252E+00
+
+#   Mean glass exit temperature:        0.13993751257962E+04 K
+#   Cullet rate in:                     0.31549992125983E+01 kg/s
+#   Batch rate in:                      0.31549992125983E+01 kg/s
+#   Total solids rate in:               0.63099984251967E+01 kg/s
+#   Melt rate:                          0.63043414082636E+01 kg/s
+#   Glass rate out:                     0.63033620294730E+01 kg/s
+
+#   Cycle count:                       1
+#   Estimated wall loss at T_exit:      0.17469585729916E+07 W
+
+
+
+# #################   Run End   #################
+
+
+#  Heat Values at Run End:
+
+#   Radiation+Conv In:                  0.12247256904540E+08 W
+#   Electric Boost:                     0.00000000000000E+00 W
+#   Total Energy In:                    0.12247256904540E+08 W
+
+#   Cullet heatup need:                 0.31659871040868E+07 W
+#   Cullet melt need:                   0.12619996850393E+07 W
+#   Radiation to Cullet:                0.32947315324860E+07 W
+#   Conduction to Cullet:               0.11628744273036E+07 W
+#   Cullet q needed:                    0.44279867891262E+07 W
+#   Cullet q net:                       0.44576059597896E+07 W
+
+#   Batch heatup need:                  0.31659871040868E+07 W
+#   Batch melt need:                    0.12619996850393E+07 W
+#   Radiation to Batch:                 0.32941934918464E+07 W
+#   Conduction to Batch:                0.11710581020098E+07 W
+#   Batch q needed:                     0.44279867891262E+07 W
+#   Batch q net:                        0.44652515938563E+07 W
+
+#   Liquid heatup need:                 0.16166215965354E+07 W
+#   Liquid q net:                       0.15779021592882E+07 W
+#   Adiabatic energy need:              0.10472595174788E+08 W
+#   Wall heat loss:                     0.17464993954819E+07 W
+#   Net melt input energy need:         0.12219094570270E+08 W
+#   Actual melt input energy:           0.12247256904540E+08 W
+
+#   Energy need divided by input:       0.99770051902317E+00
+
+#   Mean glass exit temperature:        0.13997858522723E+04 K
+#   Cullet rate in:                     0.31549992125983E+01 kg/s
+#   Batch rate in:                      0.31549992125983E+01 kg/s
+#   Total solids rate in:               0.63099984251967E+01 kg/s
+#   Melt rate:                          0.63027896421359E+01 kg/s
+#   Glass rate out:                     0.63029192412585E+01 kg/s
+
+#   Cycle count:                       2
+#   Estimated wall loss at T_exit:      0.17464993954819E+07 W
+
+
+
+# #################   Run End   #################
+
+
+#  Heat Values at Run End:
+
+#   Radiation+Conv In:                  0.12267664697190E+08 W
+#   Electric Boost:                     0.00000000000000E+00 W
+#   Total Energy In:                    0.12267664697190E+08 W
+
+#   Cullet heatup need:                 0.31659871040868E+07 W
+#   Cullet melt need:                   0.12619996850393E+07 W
+#   Radiation to Cullet:                0.32934321138212E+07 W
+#   Conduction to Cullet:               0.11625611102058E+07 W
+#   Cullet q needed:                    0.44279867891262E+07 W
+#   Cullet q net:                       0.44559932240270E+07 W
+
+#   Batch heatup need:                  0.31659871040868E+07 W
+#   Batch melt need:                    0.12619996850393E+07 W
+#   Radiation to Batch:                 0.32929590630549E+07 W
+#   Conduction to Batch:                0.11713607247665E+07 W
+#   Batch q needed:                     0.44279867891262E+07 W
+#   Batch q net:                        0.44643197878214E+07 W
+
+#   Liquid heatup need:                 0.16166215965354E+07 W
+#   Liquid q net:                       0.16005852340796E+07 W
+#   Adiabatic energy need:              0.10472595174788E+08 W
+#   Wall heat loss:                     0.17467672298207E+07 W
+#   Net melt input energy need:         0.12219362404608E+08 W
+#   Actual melt input energy:           0.12267664697190E+08 W
+
+#   Energy need divided by input:       0.99606263345353E+00
+
+#   Mean glass exit temperature:        0.14001529895055E+04 K
+#   Cullet rate in:                     0.31549992125983E+01 kg/s
+#   Batch rate in:                      0.31549992125983E+01 kg/s
+#   Total solids rate in:               0.63099984251967E+01 kg/s
+#   Melt rate:                          0.63028225915742E+01 kg/s
+#   Glass rate out:                     0.63010119431993E+01 kg/s
+
+#   Cycle count:                       3
+#   Estimated wall loss at T_exit:      0.17467672298207E+07 W
+
+
+
+# #################   Run End   #################
+
+
+#  Heat Values at Run End:
+
+#   Radiation+Conv In:                  0.12281142026081E+08 W
+#   Electric Boost:                     0.00000000000000E+00 W
+#   Total Energy In:                    0.12281142026081E+08 W
+
+#   Cullet heatup need:                 0.31659871040868E+07 W
+#   Cullet melt need:                   0.12619996850393E+07 W
+#   Radiation to Cullet:                0.32929794014726E+07 W
+#   Conduction to Cullet:               0.11634487293953E+07 W
+#   Cullet q needed:                    0.44279867891262E+07 W
+#   Cullet q net:                       0.44564281308679E+07 W
+
+#   Batch heatup need:                  0.31659871040868E+07 W
+#   Batch melt need:                    0.12619996850393E+07 W
+#   Radiation to Batch:                 0.32932940757278E+07 W
+#   Conduction to Batch:                0.11713079307745E+07 W
+#   Batch q needed:                     0.44279867891262E+07 W
+#   Batch q net:                        0.44646020065022E+07 W
+
+#   Liquid heatup need:                 0.16166215965354E+07 W
+#   Liquid q net:                       0.16129755577943E+07 W
+#   Adiabatic energy need:              0.10472595174788E+08 W
+#   Wall heat loss:                     0.17471373795365E+07 W
+#   Net melt input energy need:         0.12219732554324E+08 W
+#   Actual melt input energy:           0.12281142026081E+08 W
+
+#   Energy need divided by input:       0.99499969370716E+00
+
+#   Mean glass exit temperature:        0.14006681967121E+04 K
+#   Cullet rate in:                     0.31549992125983E+01 kg/s
+#   Batch rate in:                      0.31549992125983E+01 kg/s
+#   Total solids rate in:               0.63099984251967E+01 kg/s
+#   Melt rate:                          0.63023684153432E+01 kg/s
+#   Glass rate out:                     0.63017614278406E+01 kg/s
+
+#   Cycle count:                       4
+#   Estimated wall loss at T_exit:      0.17471373795365E+07 W
+
+
+
+# #################   Run End   #################
+
+
+#  Heat Values at Run End:
+
+#   Radiation+Conv In:                  0.12285745009765E+08 W
+#   Electric Boost:                     0.00000000000000E+00 W
+#   Total Energy In:                    0.12285745009765E+08 W
+
+#   Cullet heatup need:                 0.31659871040868E+07 W
+#   Cullet melt need:                   0.12619996850393E+07 W
+#   Radiation to Cullet:                0.32898566157634E+07 W
+#   Conduction to Cullet:               0.11638454991433E+07 W
+#   Cullet q needed:                    0.44279867891262E+07 W
+#   Cullet q net:                       0.44537021149067E+07 W
+
+#   Batch heatup need:                  0.31659871040868E+07 W
+#   Batch melt need:                    0.12619996850393E+07 W
+#   Radiation to Batch:                 0.32905845304839E+07 W
+#   Conduction to Batch:                0.11721186197677E+07 W
+#   Batch q needed:                     0.44279867891262E+07 W
+#   Batch q net:                        0.44627031502516E+07 W
+
+#   Liquid heatup need:                 0.16166215965354E+07 W
+#   Liquid q net:                       0.16219138632078E+07 W
+#   Adiabatic energy need:              0.10472595174788E+08 W
+#   Wall heat loss:                     0.17474267601191E+07 W
+#   Net melt input energy need:         0.12220021934907E+08 W
+#   Actual melt input energy:           0.12285745009765E+08 W
+
+#   Energy need divided by input:       0.99465046077338E+00
+
+#   Mean glass exit temperature:        0.14011401466864E+04 K
+#   Cullet rate in:                     0.31549992125983E+01 kg/s
+#   Batch rate in:                      0.31549992125983E+01 kg/s
+#   Total solids rate in:               0.63099984251967E+01 kg/s
+#   Melt rate:                          0.63023858976579E+01 kg/s
+#   Glass rate out:                     0.63017174448472E+01 kg/s
+
+#   Cycle count:                       5
+#   Estimated wall loss at T_exit:      0.17474267601191E+07 W
+
+
+
+# #################   Run End   #################
+
+
+#  Heat Values at Run End:
+
+#   Radiation+Conv In:                  0.12286315143310E+08 W
+#   Electric Boost:                     0.00000000000000E+00 W
+#   Total Energy In:                    0.12286315143310E+08 W
+
+#   Cullet heatup need:                 0.31659871040868E+07 W
+#   Cullet melt need:                   0.12619996850393E+07 W
+#   Radiation to Cullet:                0.32903734072488E+07 W
+#   Conduction to Cullet:               0.11629258498413E+07 W
+#   Cullet q needed:                    0.44279867891262E+07 W
+#   Cullet q net:                       0.44532992570901E+07 W
+
+#   Batch heatup need:                  0.31659871040868E+07 W
+#   Batch melt need:                    0.12619996850393E+07 W
+#   Radiation to Batch:                 0.32914306709963E+07 W
+#   Conduction to Batch:                0.11712687040218E+07 W
+#   Batch q needed:                     0.44279867891262E+07 W
+#   Batch q net:                        0.44626993750182E+07 W
+
+#   Liquid heatup need:                 0.16166215965354E+07 W
+#   Liquid q net:                       0.16227296517042E+07 W
+#   Adiabatic energy need:              0.10472595174788E+08 W
+#   Wall heat loss:                     0.17475882770427E+07 W
+#   Net melt input energy need:         0.12220183451830E+08 W
+#   Actual melt input energy:           0.12286315143310E+08 W
+
+#   Energy need divided by input:       0.99461745114719E+00
+
+#   Mean glass exit temperature:        0.14016505573771E+04 K
+#   Cullet rate in:                     0.31549992125983E+01 kg/s
+#   Batch rate in:                      0.31549992125983E+01 kg/s
+#   Total solids rate in:               0.63099984251967E+01 kg/s
+#   Melt rate:                          0.63019175594872E+01 kg/s
+#   Glass rate out:                     0.63012502654473E+01 kg/s
+
+#   Cycle count:                       6
+#   Estimated wall loss at T_exit:      0.17475882770427E+07 W
+
+
+
+# #################   Run End   #################
+
+
+#  Heat Values at Run End:
+
+#   Radiation+Conv In:                  0.12285480801713E+08 W
+#   Electric Boost:                     0.00000000000000E+00 W
+#   Total Energy In:                    0.12285480801713E+08 W
+
+#   Cullet heatup need:                 0.31659871040868E+07 W
+#   Cullet melt need:                   0.12619996850393E+07 W
+#   Radiation to Cullet:                0.32863358272051E+07 W
+#   Conduction to Cullet:               0.11676814486285E+07 W
+#   Cullet q needed:                    0.44279867891262E+07 W
+#   Cullet q net:                       0.44540172758335E+07 W
+
+#   Batch heatup need:                  0.31659871040868E+07 W
+#   Batch melt need:                    0.12619996850393E+07 W
+#   Radiation to Batch:                 0.32872737807917E+07 W
+#   Conduction to Batch:                0.11757331028618E+07 W
+#   Batch q needed:                     0.44279867891262E+07 W
+#   Batch q net:                        0.44630068836535E+07 W
+
+#   Liquid heatup need:                 0.16166215965354E+07 W
+#   Liquid q net:                       0.16205334786699E+07 W
+#   Adiabatic energy need:              0.10472595174788E+08 W
+#   Wall heat loss:                     0.17479250925142E+07 W
+#   Net melt input energy need:         0.12220520267302E+08 W
+#   Actual melt input energy:           0.12285480801713E+08 W
+
+#   Energy need divided by input:       0.99471241415295E+00
+
+#   Mean glass exit temperature:        0.14020752433856E+04 K
+#   Cullet rate in:                     0.31549992125983E+01 kg/s
+#   Batch rate in:                      0.31549992125983E+01 kg/s
+#   Total solids rate in:               0.63099984251967E+01 kg/s
+#   Melt rate:                          0.63016612811315E+01 kg/s
+#   Glass rate out:                     0.63028381401005E+01 kg/s
+
+#   Cycle count:                       7
+#   Estimated wall loss at T_exit:      0.17479250925142E+07 W
+
+
+
+# #################   Run End   #################
+
+
+#  Heat Values at Run End:
+
+#   Radiation+Conv In:                  0.12280614337472E+08 W
+#   Electric Boost:                     0.00000000000000E+00 W
+#   Total Energy In:                    0.12280614337472E+08 W
+
+#   Cullet heatup need:                 0.31659871040868E+07 W
+#   Cullet melt need:                   0.12619996850393E+07 W
+#   Radiation to Cullet:                0.32890069423687E+07 W
+#   Conduction to Cullet:               0.11644757420095E+07 W
+#   Cullet q needed:                    0.44279867891262E+07 W
+#   Cullet q net:                       0.44534826843782E+07 W
+
+#   Batch heatup need:                  0.31659871040868E+07 W
+#   Batch melt need:                    0.12619996850393E+07 W
+#   Radiation to Batch:                 0.32898737075103E+07 W
+#   Conduction to Batch:                0.11716668585245E+07 W
+#   Batch q needed:                     0.44279867891262E+07 W
+#   Batch q net:                        0.44615405660347E+07 W
+
+#   Liquid heatup need:                 0.16166215965354E+07 W
+#   Liquid q net:                       0.16185680555053E+07 W
+#   Adiabatic energy need:              0.10472595174788E+08 W
+#   Wall heat loss:                     0.17470248023656E+07 W
+#   Net melt input energy need:         0.12219619977153E+08 W
+#   Actual melt input energy:           0.12280614337472E+08 W
+
+#   Energy need divided by input:       0.99503328101975E+00
+
+#   Mean glass exit temperature:        0.14024101552859E+04 K
+#   Cullet rate in:                     0.31549992125983E+01 kg/s
+#   Batch rate in:                      0.31549992125983E+01 kg/s
+#   Total solids rate in:               0.63099984251967E+01 kg/s
+#   Melt rate:                          0.63017286152498E+01 kg/s
+#   Glass rate out:                     0.63014013943168E+01 kg/s
+
+#   Cycle count:                       8
+#   Estimated wall loss at T_exit:      0.17470248023656E+07 W
+
+
+
+# #################   Run End   #################
+
+
+#  Heat Values at Run End:
+
+#   Radiation+Conv In:                  0.12278009666090E+08 W
+#   Electric Boost:                     0.00000000000000E+00 W
+#   Total Energy In:                    0.12278009666090E+08 W
+
+#   Cullet heatup need:                 0.31659871040868E+07 W
+#   Cullet melt need:                   0.12619996850393E+07 W
+#   Radiation to Cullet:                0.32924449231260E+07 W
+#   Conduction to Cullet:               0.11622118259900E+07 W
+#   Cullet q needed:                    0.44279867891262E+07 W
+#   Cullet q net:                       0.44546567491160E+07 W
+
+#   Batch heatup need:                  0.31659871040868E+07 W
+#   Batch melt need:                    0.12619996850393E+07 W
+#   Radiation to Batch:                 0.32929050708158E+07 W
+#   Conduction to Batch:                0.11698564376469E+07 W
+#   Batch q needed:                     0.44279867891262E+07 W
+#   Batch q net:                        0.44627615084627E+07 W
+
+#   Liquid heatup need:                 0.16166215965354E+07 W
+#   Liquid q net:                       0.16153085409088E+07 W
+#   Adiabatic energy need:              0.10472595174788E+08 W
+#   Wall heat loss:                     0.17452847981765E+07 W
+#   Net melt input energy need:         0.12217879972964E+08 W
+#   Actual melt input energy:           0.12278009666090E+08 W
+
+#   Energy need divided by input:       0.99510265142630E+00
+
+#   Mean glass exit temperature:        0.14023232159926E+04 K
+#   Cullet rate in:                     0.31549992125983E+01 kg/s
+#   Batch rate in:                      0.31549992125983E+01 kg/s
+#   Total solids rate in:               0.63099984251967E+01 kg/s
+#   Melt rate:                          0.63019447672138E+01 kg/s
+#   Glass rate out:                     0.63019788769505E+01 kg/s
+
+#   Cycle count:                       9
+#   Estimated wall loss at T_exit:      0.17452847981765E+07 W
+
+
+
+# #################   Run End   #################
+
+
+#  Heat Values at Run End:
+
+#   Radiation+Conv In:                  0.12266570591735E+08 W
+#   Electric Boost:                     0.00000000000000E+00 W
+#   Total Energy In:                    0.12266570591735E+08 W
+
+#   Cullet heatup need:                 0.31659871040868E+07 W
+#   Cullet melt need:                   0.12619996850393E+07 W
+#   Radiation to Cullet:                0.32951828748683E+07 W
+#   Conduction to Cullet:               0.11587881941204E+07 W
+#   Cullet q needed:                    0.44279867891262E+07 W
+#   Cullet q net:                       0.44539710689887E+07 W
+
+#   Batch heatup need:                  0.31659871040868E+07 W
+#   Batch melt need:                    0.12619996850393E+07 W
+#   Radiation to Batch:                 0.32954919454403E+07 W
+#   Conduction to Batch:                0.11668015709671E+07 W
+#   Batch q needed:                     0.44279867891262E+07 W
+#   Batch q net:                        0.44622935164075E+07 W
+
+#   Liquid heatup need:                 0.16166215965354E+07 W
+#   Liquid q net:                       0.16056291431933E+07 W
+#   Adiabatic energy need:              0.10472595174788E+08 W
+#   Wall heat loss:                     0.17446793210982E+07 W
+#   Net melt input energy need:         0.12217274495886E+08 W
+#   Actual melt input energy:           0.12266570591735E+08 W
+
+#   Energy need divided by input:       0.99598126505849E+00
+
+#   Mean glass exit temperature:        0.14021819290188E+04 K
+#   Cullet rate in:                     0.31549992125983E+01 kg/s
+#   Batch rate in:                      0.31549992125983E+01 kg/s
+#   Total solids rate in:               0.63099984251967E+01 kg/s
+#   Melt rate:                          0.63028109295142E+01 kg/s
+#   Glass rate out:                     0.63024322911546E+01 kg/s
+
+#   Cycle count:                      10
+#   Estimated wall loss at T_exit:      0.17446793210982E+07 W
+
+
+
+# #################   Run End   #################
+
+
+#  Heat Values at Run End:
+
+#   Radiation+Conv In:                  0.12233602776934E+08 W
+#   Electric Boost:                     0.00000000000000E+00 W
+#   Total Energy In:                    0.12233602776934E+08 W
+
+#   Cullet heatup need:                 0.31659871040868E+07 W
+#   Cullet melt need:                   0.12619996850393E+07 W
+#   Radiation to Cullet:                0.32986333901062E+07 W
+#   Conduction to Cullet:               0.11547427250333E+07 W
+#   Cullet q needed:                    0.44279867891262E+07 W
+#   Cullet q net:                       0.44533761151395E+07 W
+
+#   Batch heatup need:                  0.31659871040868E+07 W
+#   Batch melt need:                    0.12619996850393E+07 W
+#   Radiation to Batch:                 0.33001984955083E+07 W
+#   Conduction to Batch:                0.11615747753202E+07 W
+#   Batch q needed:                     0.44279867891262E+07 W
+#   Batch q net:                        0.44617732708284E+07 W
+
+#   Liquid heatup need:                 0.16166215965354E+07 W
+#   Liquid q net:                       0.15748527983835E+07 W
+#   Adiabatic energy need:              0.10472595174788E+08 W
+#   Wall heat loss:                     0.17436041177251E+07 W
+#   Net melt input energy need:         0.12216199292513E+08 W
+#   Actual melt input energy:           0.12233602776934E+08 W
+
+#   Energy need divided by input:       0.99857740317890E+00
+
+#   Mean glass exit temperature:        0.14020686558448E+04 K
+#   Cullet rate in:                     0.31549992125983E+01 kg/s
+#   Batch rate in:                      0.31549992125983E+01 kg/s
+#   Total solids rate in:               0.63099984251967E+01 kg/s
+#   Melt rate:                          0.63029813982495E+01 kg/s
+#   Glass rate out:                     0.63030908676572E+01 kg/s
+
+#   Cycle count:                      11
+#   Estimated wall loss at T_exit:      0.17436041177251E+07 W
+
+
+
+# #################   Run End   #################
+
+
+#  Heat Values at Run End:
+
+#   Radiation+Conv In:                  0.12222280512896E+08 W
+#   Electric Boost:                     0.00000000000000E+00 W
+#   Total Energy In:                    0.12222280512896E+08 W
+
+#   Cullet heatup need:                 0.31659871040868E+07 W
+#   Cullet melt need:                   0.12619996850393E+07 W
+#   Radiation to Cullet:                0.33031050653691E+07 W
+#   Conduction to Cullet:               0.11507212671474E+07 W
+#   Cullet q needed:                    0.44279867891262E+07 W
+#   Cullet q net:                       0.44538263325164E+07 W
+
+#   Batch heatup need:                  0.31659871040868E+07 W
+#   Batch melt need:                    0.12619996850393E+07 W
+#   Radiation to Batch:                 0.33042895338784E+07 W
+#   Conduction to Batch:                0.11574919818762E+07 W
+#   Batch q needed:                     0.44279867891262E+07 W
+#   Batch q net:                        0.44617815157546E+07 W
+
+#   Liquid heatup need:                 0.16166215965354E+07 W
+#   Liquid q net:                       0.15644124462504E+07 W
+#   Adiabatic energy need:              0.10472595174788E+08 W
+#   Wall heat loss:                     0.17422637312982E+07 W
+#   Net melt input energy need:         0.12214858906086E+08 W
+#   Actual melt input energy:           0.12222280512896E+08 W
+
+#   Energy need divided by input:       0.99939278052056E+00
+
+#   Mean glass exit temperature:        0.14016940888387E+04 K
+#   Cullet rate in:                     0.31549992125983E+01 kg/s
+#   Batch rate in:                      0.31549992125983E+01 kg/s
+#   Total solids rate in:               0.63099984251967E+01 kg/s
+#   Melt rate:                          0.63030578899643E+01 kg/s
+#   Glass rate out:                     0.63031066818123E+01 kg/s
+
+#   Cycle count:                      12
+#   Estimated wall loss at T_exit:      0.17422637312982E+07 W
+
+
+
+# #################   Run End   #################
+
+
+#  Heat Values at Run End:
+
+#   Radiation+Conv In:                  0.12253507570630E+08 W
+#   Electric Boost:                     0.00000000000000E+00 W
+#   Total Energy In:                    0.12253507570630E+08 W
+
+#   Cullet heatup need:                 0.31659871040868E+07 W
+#   Cullet melt need:                   0.12619996850393E+07 W
+#   Radiation to Cullet:                0.33056592289764E+07 W
+#   Conduction to Cullet:               0.11481677141542E+07 W
+#   Cullet q needed:                    0.44279867891262E+07 W
+#   Cullet q net:                       0.44538269431306E+07 W
+
+#   Batch heatup need:                  0.31659871040868E+07 W
+#   Batch melt need:                    0.12619996850393E+07 W
+#   Radiation to Batch:                 0.33059395803683E+07 W
+#   Conduction to Batch:                0.11559875121033E+07 W
+#   Batch q needed:                     0.44279867891262E+07 W
+#   Batch q net:                        0.44619270924716E+07 W
+
+#   Liquid heatup need:                 0.16166215965354E+07 W
+#   Liquid q net:                       0.15960443937984E+07 W
+#   Adiabatic energy need:              0.10472595174788E+08 W
+#   Wall heat loss:                     0.17417109942084E+07 W
+#   Net melt input energy need:         0.12214306168996E+08 W
+#   Actual melt input energy:           0.12253507570630E+08 W
+
+#   Energy need divided by input:       0.99680080161472E+00
+
+#   Mean glass exit temperature:        0.14015161675831E+04 K
+#   Cullet rate in:                     0.31549992125983E+01 kg/s
+#   Batch rate in:                      0.31549992125983E+01 kg/s
+#   Total solids rate in:               0.63099984251967E+01 kg/s
+#   Melt rate:                          0.63029369893429E+01 kg/s
+#   Glass rate out:                     0.63030669241879E+01 kg/s
+
+#   Cycle count:                      13
+#   Estimated wall loss at T_exit:      0.17417109942084E+07 W
+
+
+
+# #################   Run End   #################
+
+
+#  Heat Values at Run End:
+
+#   Radiation+Conv In:                  0.12271489472828E+08 W
+#   Electric Boost:                     0.00000000000000E+00 W
+#   Total Energy In:                    0.12271489472828E+08 W
+
+#   Cullet heatup need:                 0.31659871040868E+07 W
+#   Cullet melt need:                   0.12619996850393E+07 W
+#   Radiation to Cullet:                0.33066963446661E+07 W
+#   Conduction to Cullet:               0.11478481926859E+07 W
+#   Cullet q needed:                    0.44279867891262E+07 W
+#   Cullet q net:                       0.44545445373521E+07 W
+
+#   Batch heatup need:                  0.31659871040868E+07 W
+#   Batch melt need:                    0.12619996850393E+07 W
+#   Radiation to Batch:                 0.33067939473952E+07 W
+#   Conduction to Batch:                0.11557107658181E+07 W
+#   Batch q needed:                     0.44279867891262E+07 W
+#   Batch q net:                        0.44625047132133E+07 W
+
+#   Liquid heatup need:                 0.16166215965354E+07 W
+#   Liquid q net:                       0.16128263159248E+07 W
+#   Adiabatic energy need:              0.10472595174788E+08 W
+#   Wall heat loss:                     0.17416148359696E+07 W
+#   Net melt input energy need:         0.12214210010757E+08 W
+#   Actual melt input energy:           0.12271489472828E+08 W
+
+#   Energy need divided by input:       0.99533231379961E+00
+
+#   Mean glass exit temperature:        0.14017149192867E+04 K
+#   Cullet rate in:                     0.31549992125983E+01 kg/s
+#   Batch rate in:                      0.31549992125983E+01 kg/s
+#   Total solids rate in:               0.63099984251967E+01 kg/s
+#   Melt rate:                          0.63028512033180E+01 kg/s
+#   Glass rate out:                     0.63025616412149E+01 kg/s
+
+#   Cycle count:                      14
+#   Estimated wall loss at T_exit:      0.17416148359696E+07 W
+
+
+
+# #################   Run End   #################
+
+
+#  Heat Values at Run End:
+
+#   Radiation+Conv In:                  0.12275145327842E+08 W
+#   Electric Boost:                     0.00000000000000E+00 W
+#   Total Energy In:                    0.12275145327842E+08 W
+
+#   Cullet heatup need:                 0.31659871040868E+07 W
+#   Cullet melt need:                   0.12619996850393E+07 W
+#   Radiation to Cullet:                0.33082100944782E+07 W
+#   Conduction to Cullet:               0.11462722385828E+07 W
+#   Cullet q needed:                    0.44279867891262E+07 W
+#   Cullet q net:                       0.44544823330610E+07 W
+
+#   Batch heatup need:                  0.31659871040868E+07 W
+#   Batch melt need:                    0.12619996850393E+07 W
+#   Radiation to Batch:                 0.33089730193037E+07 W
+#   Conduction to Batch:                0.11543262143813E+07 W
+#   Batch q needed:                     0.44279867891262E+07 W
+#   Batch q net:                        0.44632992336850E+07 W
+
+#   Liquid heatup need:                 0.16166215965354E+07 W
+#   Liquid q net:                       0.16158036473646E+07 W
+#   Adiabatic energy need:              0.10472595174788E+08 W
+#   Wall heat loss:                     0.17415607850456E+07 W
+#   Net melt input energy need:         0.12214155959833E+08 W
+#   Actual melt input energy:           0.12275145327842E+08 W
+
+#   Energy need divided by input:       0.99503147487221E+00
+
+#   Mean glass exit temperature:        0.14019855256619E+04 K
+#   Cullet rate in:                     0.31549992125983E+01 kg/s
+#   Batch rate in:                      0.31549992125983E+01 kg/s
+#   Total solids rate in:               0.63099984251967E+01 kg/s
+#   Melt rate:                          0.63029489603179E+01 kg/s
+#   Glass rate out:                     0.63018377243189E+01 kg/s
+
+#   Cycle count:                      15
+#   Estimated wall loss at T_exit:      0.17415607850456E+07 W
+
+
+
+# #################   Run End   #################
+
+
+#  Heat Values at Run End:
+
+#   Radiation+Conv In:                  0.12276426209648E+08 W
+#   Electric Boost:                     0.00000000000000E+00 W
+#   Total Energy In:                    0.12276426209648E+08 W
+
+#   Cullet heatup need:                 0.31659871040868E+07 W
+#   Cullet melt need:                   0.12619996850393E+07 W
+#   Radiation to Cullet:                0.33100549106751E+07 W
+#   Conduction to Cullet:               0.11431248422419E+07 W
+#   Cullet q needed:                    0.44279867891262E+07 W
+#   Cullet q net:                       0.44531797529169E+07 W
+
+#   Batch heatup need:                  0.31659871040868E+07 W
+#   Batch melt need:                    0.12619996850393E+07 W
+#   Radiation to Batch:                 0.33106708021502E+07 W
+#   Conduction to Batch:                0.11511356317354E+07 W
+#   Batch q needed:                     0.44279867891262E+07 W
+#   Batch q net:                        0.44618064338856E+07 W
+
+#   Liquid heatup need:                 0.16166215965354E+07 W
+#   Liquid q net:                       0.16199863063823E+07 W
+#   Adiabatic energy need:              0.10472595174788E+08 W
+#   Wall heat loss:                     0.17414543802310E+07 W
+#   Net melt input energy need:         0.12214049555019E+08 W
+#   Actual melt input energy:           0.12276426209648E+08 W
+
+#   Energy need divided by input:       0.99491898916148E+00
+
+#   Mean glass exit temperature:        0.14021279408981E+04 K
+#   Cullet rate in:                     0.31549992125983E+01 kg/s
+#   Batch rate in:                      0.31549992125983E+01 kg/s
+#   Total solids rate in:               0.63099984251967E+01 kg/s
+#   Melt rate:                          0.63028877683891E+01 kg/s
+#   Glass rate out:                     0.63018409375775E+01 kg/s
+
+#   Cycle count:                      16
+#   Estimated wall loss at T_exit:      0.17414543802310E+07 W
+
+
+
+# #################   Run End   #################
+
+
+#  Heat Values at Run End:
+
+#   Radiation+Conv In:                  0.12272894414182E+08 W
+#   Electric Boost:                     0.00000000000000E+00 W
+#   Total Energy In:                    0.12272894414182E+08 W
+
+#   Cullet heatup need:                 0.31659871040868E+07 W
+#   Cullet melt need:                   0.12619996850393E+07 W
+#   Radiation to Cullet:                0.33139161843401E+07 W
+#   Conduction to Cullet:               0.11390535393134E+07 W
+#   Cullet q needed:                    0.44279867891262E+07 W
+#   Cullet q net:                       0.44529697236534E+07 W
+
+#   Batch heatup need:                  0.31659871040868E+07 W
+#   Batch melt need:                    0.12619996850393E+07 W
+#   Radiation to Batch:                 0.33141893761889E+07 W
+#   Conduction to Batch:                0.11471766303485E+07 W
+#   Batch q needed:                     0.44279867891262E+07 W
+#   Batch q net:                        0.44613660065373E+07 W
+
+#   Liquid heatup need:                 0.16166215965354E+07 W
+#   Liquid q net:                       0.16172994494138E+07 W
+#   Adiabatic energy need:              0.10472595174788E+08 W
+#   Wall heat loss:                     0.17412602974061E+07 W
+#   Net melt input energy need:         0.12213855472194E+08 W
+#   Actual melt input energy:           0.12272894414182E+08 W
+
+#   Energy need divided by input:       0.99518948505576E+00
+
+#   Mean glass exit temperature:        0.14022005910835E+04 K
+#   Cullet rate in:                     0.31549992125983E+01 kg/s
+#   Batch rate in:                      0.31549992125983E+01 kg/s
+#   Total solids rate in:               0.63099984251967E+01 kg/s
+#   Melt rate:                          0.63025425607211E+01 kg/s
+#   Glass rate out:                     0.63021451814696E+01 kg/s
+
+#   Cycle count:                       1
+#   Estimated wall loss at T_exit:      0.17412602974061E+07 W
+
+
+
+# #################   Run End   #################
+
+
+#  Heat Values at Run End:
+
+#   Radiation+Conv In:                  0.12266762556324E+08 W
+#   Electric Boost:                     0.00000000000000E+00 W
+#   Total Energy In:                    0.12266762556324E+08 W
+
+#   Cullet heatup need:                 0.31659871040868E+07 W
+#   Cullet melt need:                   0.12619996850393E+07 W
+#   Radiation to Cullet:                0.33115556742876E+07 W
+#   Conduction to Cullet:               0.11421083700533E+07 W
+#   Cullet q needed:                    0.44279867891262E+07 W
+#   Cullet q net:                       0.44536640443409E+07 W
+
+#   Batch heatup need:                  0.31659871040868E+07 W
+#   Batch melt need:                    0.12619996850393E+07 W
+#   Radiation to Batch:                 0.33127556104471E+07 W
+#   Conduction to Batch:                0.11499367129964E+07 W
+#   Batch q needed:                     0.44279867891262E+07 W
+#   Batch q net:                        0.44626923234435E+07 W
+
+#   Liquid heatup need:                 0.16166215965354E+07 W
+#   Liquid q net:                       0.16094868331225E+07 W
+#   Adiabatic energy need:              0.10472595174788E+08 W
+#   Wall heat loss:                     0.17409211180420E+07 W
+#   Net melt input energy need:         0.12213516292830E+08 W
+#   Actual melt input energy:           0.12266762556324E+08 W
+
+#   Energy need divided by input:       0.99565930592934E+00
+
+#   Mean glass exit temperature:        0.14021373889344E+04 K
+#   Cullet rate in:                     0.31549992125983E+01 kg/s
+#   Batch rate in:                      0.31549992125983E+01 kg/s
+#   Total solids rate in:               0.63099984251967E+01 kg/s
+#   Melt rate:                          0.63028776900487E+01 kg/s
+#   Glass rate out:                     0.63024224469035E+01 kg/s
+
+#   Cycle count:                       2
+#   Estimated wall loss at T_exit:      0.17409211180420E+07 W
+
+
+
+# #################   Run End   #################
+
+
+#  Heat Values at Run End:
+
+#   Radiation+Conv In:                  0.12251736250917E+08 W
+#   Electric Boost:                     0.00000000000000E+00 W
+#   Total Energy In:                    0.12251736250917E+08 W
+
+#   Cullet heatup need:                 0.31659871040868E+07 W
+#   Cullet melt need:                   0.12619996850393E+07 W
+#   Radiation to Cullet:                0.33176250189113E+07 W
+#   Conduction to Cullet:               0.11384429166091E+07 W
+#   Cullet q needed:                    0.44279867891262E+07 W
+#   Cullet q net:                       0.44560679355204E+07 W
+
+#   Batch heatup need:                  0.31659871040868E+07 W
+#   Batch melt need:                    0.12619996850393E+07 W
+#   Radiation to Batch:                 0.33178207760125E+07 W
+#   Conduction to Batch:                0.11465279830639E+07 W
+#   Batch q needed:                     0.44279867891262E+07 W
+#   Batch q net:                        0.44643487590764E+07 W
+
+#   Liquid heatup need:                 0.16166215965354E+07 W
+#   Liquid q net:                       0.15910428799614E+07 W
+#   Adiabatic energy need:              0.10472595174788E+08 W
+#   Wall heat loss:                     0.17402787455991E+07 W
+#   Net melt input energy need:         0.12212873920387E+08 W
+#   Actual melt input energy:           0.12251736250917E+08 W
+
+#   Energy need divided by input:       0.99682801443534E+00
+
+#   Mean glass exit temperature:        0.14019524450956E+04 K
+#   Cullet rate in:                     0.31549992125983E+01 kg/s
+#   Batch rate in:                      0.31549992125983E+01 kg/s
+#   Total solids rate in:               0.63099984251967E+01 kg/s
+#   Melt rate:                          0.63031327125415E+01 kg/s
+#   Glass rate out:                     0.63019271170947E+01 kg/s
+
+#   Cycle count:                       3
+#   Estimated wall loss at T_exit:      0.17402787455991E+07 W
+
+
+
+# #################   Run End   #################
+
+
+#  Heat Values at Run End:
+
+#   Radiation+Conv In:                  0.12229064716840E+08 W
+#   Electric Boost:                     0.00000000000000E+00 W
+#   Total Energy In:                    0.12229064716840E+08 W
+
+#   Cullet heatup need:                 0.31659871040868E+07 W
+#   Cullet melt need:                   0.12619996850393E+07 W
+#   Radiation to Cullet:                0.33189621692120E+07 W
+#   Conduction to Cullet:               0.11336836173580E+07 W
+#   Cullet q needed:                    0.44279867891262E+07 W
+#   Cullet q net:                       0.44526457865700E+07 W
+
+#   Batch heatup need:                  0.31659871040868E+07 W
+#   Batch melt need:                    0.12619996850393E+07 W
+#   Radiation to Batch:                 0.33197488856450E+07 W
+#   Conduction to Batch:                0.11421809081595E+07 W
+#   Batch q needed:                     0.44279867891262E+07 W
+#   Batch q net:                        0.44619297938045E+07 W
+
+#   Liquid heatup need:                 0.16166215965354E+07 W
+#   Liquid q net:                       0.15750673897716E+07 W
+#   Adiabatic energy need:              0.10472595174788E+08 W
+#   Wall heat loss:                     0.17394242123311E+07 W
+#   Net melt input energy need:         0.12212019387119E+08 W
+#   Actual melt input energy:           0.12229064716840E+08 W
+
+#   Energy need divided by input:       0.99860616244037E+00
+
+#   Mean glass exit temperature:        0.14014628376103E+04 K
+#   Cullet rate in:                     0.31549992125983E+01 kg/s
+#   Batch rate in:                      0.31549992125983E+01 kg/s
+#   Total solids rate in:               0.63099984251967E+01 kg/s
+#   Melt rate:                          0.63032604778051E+01 kg/s
+#   Glass rate out:                     0.63022164320113E+01 kg/s
+
+#   Cycle count:                       4
+#   Estimated wall loss at T_exit:      0.17394242123311E+07 W
+
+
+
+# #################   Run End   #################
+
+
+#  Heat Values at Run End:
+
+#   Radiation+Conv In:                  0.12179492052450E+08 W
+#   Electric Boost:                     0.00000000000000E+00 W
+#   Total Energy In:                    0.12179492052450E+08 W
+
+#   Cullet heatup need:                 0.31659871040868E+07 W
+#   Cullet melt need:                   0.12619996850393E+07 W
+#   Radiation to Cullet:                0.33217623113021E+07 W
+#   Conduction to Cullet:               0.11340778105247E+07 W
+#   Cullet q needed:                    0.44279867891262E+07 W
+#   Cullet q net:                       0.44558401218268E+07 W
+
+#   Batch heatup need:                  0.31659871040868E+07 W
+#   Batch melt need:                    0.12619996850393E+07 W
+#   Radiation to Batch:                 0.33228233838672E+07 W
+#   Conduction to Batch:                0.11422599426056E+07 W
+#   Batch q needed:                     0.44279867891262E+07 W
+#   Batch q net:                        0.44650833264728E+07 W
+
+#   Liquid heatup need:                 0.16166215965354E+07 W
+#   Liquid q net:                       0.15192579353722E+07 W
+#   Adiabatic energy need:              0.10472595174788E+08 W
+#   Wall heat loss:                     0.17393293638823E+07 W
+#   Net melt input energy need:         0.12211924538670E+08 W
+#   Actual melt input energy:           0.12179492052450E+08 W
+
+#   Energy need divided by input:       0.10026628767506E+01
+
+#   Mean glass exit temperature:        0.14013215550513E+04 K
+#   Cullet rate in:                     0.31549992125983E+01 kg/s
+#   Batch rate in:                      0.31549992125983E+01 kg/s
+#   Total solids rate in:               0.63099984251967E+01 kg/s
+#   Melt rate:                          0.63102611427254E+01 kg/s
+#   Glass rate out:                     0.63129808429010E+01 kg/s
+
+#   Cycle count:                       1
+#   Estimated wall loss at T_exit:      0.17393293638823E+07 W
+
+
+
+# #################   Run End   #################
+
+
+#  Heat Values at Run End:
+
+#   Radiation+Conv In:                  0.12179414608767E+08 W
+#   Electric Boost:                     0.00000000000000E+00 W
+#   Total Energy In:                    0.12179414608767E+08 W
+
+#   Cullet heatup need:                 0.31659871040868E+07 W
+#   Cullet melt need:                   0.12619996850393E+07 W
+#   Radiation to Cullet:                0.33276490113327E+07 W
+#   Conduction to Cullet:               0.11279111653790E+07 W
+#   Cullet q needed:                    0.44279867891262E+07 W
+#   Cullet q net:                       0.44555601767117E+07 W
+
+#   Batch heatup need:                  0.31659871040868E+07 W
+#   Batch melt need:                    0.12619996850393E+07 W
+#   Radiation to Batch:                 0.33284259564521E+07 W
+#   Conduction to Batch:                0.11357212664021E+07 W
+#   Batch q needed:                     0.44279867891262E+07 W
+#   Batch q net:                        0.44641472228543E+07 W
+
+#   Liquid heatup need:                 0.16166215965354E+07 W
+#   Liquid q net:                       0.15223116396115E+07 W
+#   Adiabatic energy need:              0.10472595174788E+08 W
+#   Wall heat loss:                     0.17374000559200E+07 W
+#   Net melt input energy need:         0.12209995230708E+08 W
+#   Actual melt input energy:           0.12179414608767E+08 W
+
+#   Energy need divided by input:       0.10025108449727E+01
+
+#   Mean glass exit temperature:        0.14002026064592E+04 K
+#   Cullet rate in:                     0.31549992125983E+01 kg/s
+#   Batch rate in:                      0.31549992125983E+01 kg/s
+#   Total solids rate in:               0.63099984251967E+01 kg/s
+#   Melt rate:                          0.63028883495415E+01 kg/s
+#   Glass rate out:                     0.63028646578907E+01 kg/s
+
+#   Cycle count:                       1
+#   Estimated wall loss at T_exit:      0.17374000559200E+07 W
+
+
+
+# #################   Run End   #################
+
+
+#  Heat Values at Run End:
+
+#   Radiation+Conv In:                  0.12167733021376E+08 W
+#   Electric Boost:                     0.00000000000000E+00 W
+#   Total Energy In:                    0.12167733021376E+08 W
+
+#   Cullet heatup need:                 0.31659871040868E+07 W
+#   Cullet melt need:                   0.12619996850393E+07 W
+#   Radiation to Cullet:                0.33319131592777E+07 W
+#   Conduction to Cullet:               0.11224704677024E+07 W
+#   Cullet q needed:                    0.44279867891262E+07 W
+#   Cullet q net:                       0.44543836269802E+07 W
+
+#   Batch heatup need:                  0.31659871040868E+07 W
+#   Batch melt need:                    0.12619996850393E+07 W
+#   Radiation to Batch:                 0.33312914905806E+07 W
+#   Conduction to Batch:                0.11321531551091E+07 W
+#   Batch q needed:                     0.44279867891262E+07 W
+#   Batch q net:                        0.44634446456897E+07 W
+
+#   Liquid heatup need:                 0.16166215965354E+07 W
+#   Liquid q net:                       0.15142783506215E+07 W
+#   Adiabatic energy need:              0.10472595174788E+08 W
+#   Wall heat loss:                     0.17356307488579E+07 W
+#   Net melt input energy need:         0.12208225923646E+08 W
+#   Actual melt input energy:           0.12167733021376E+08 W
+
+#   Energy need divided by input:       0.10033278920731E+01
+
+#   Mean glass exit temperature:        0.13991397008792E+04 K
+#   Cullet rate in:                     0.31549992125983E+01 kg/s
+#   Batch rate in:                      0.31549992125983E+01 kg/s
+#   Total solids rate in:               0.63099984251967E+01 kg/s
+#   Melt rate:                          0.63043283522508E+01 kg/s
+#   Glass rate out:                     0.63034420738061E+01 kg/s
+
+#   Cycle count:                       2
+#   Estimated wall loss at T_exit:      0.17356307488579E+07 W
+
+
+
+# #################   Run End   #################
+
+
+#  Heat Values at Run End:
+
+#   Radiation+Conv In:                  0.12194808991867E+08 W
+#   Electric Boost:                     0.00000000000000E+00 W
+#   Total Energy In:                    0.12194808991867E+08 W
+
+#   Cullet heatup need:                 0.31659871040868E+07 W
+#   Cullet melt need:                   0.12619996850393E+07 W
+#   Radiation to Cullet:                0.33342839338645E+07 W
+#   Conduction to Cullet:               0.11193840134279E+07 W
+#   Cullet q needed:                    0.44279867891262E+07 W
+#   Cullet q net:                       0.44536679472924E+07 W
+
+#   Batch heatup need:                  0.31659871040868E+07 W
+#   Batch melt need:                    0.12619996850393E+07 W
+#   Radiation to Batch:                 0.33355877387070E+07 W
+#   Conduction to Batch:                0.11291336913867E+07 W
+#   Batch q needed:                     0.44279867891262E+07 W
+#   Batch q net:                        0.44647214300937E+07 W
+
+#   Liquid heatup need:                 0.16166215965354E+07 W
+#   Liquid q net:                       0.15418057926906E+07 W
+#   Adiabatic energy need:              0.10472595174788E+08 W
+#   Wall heat loss:                     0.17346167349244E+07 W
+#   Net melt input energy need:         0.12207211909712E+08 W
+#   Actual melt input energy:           0.12194808991867E+08 W
+
+#   Energy need divided by input:       0.10010170653639E+01
+
+#   Mean glass exit temperature:        0.13983820790263E+04 K
+#   Cullet rate in:                     0.31549992125983E+01 kg/s
+#   Batch rate in:                      0.31549992125983E+01 kg/s
+#   Total solids rate in:               0.63099984251967E+01 kg/s
+#   Melt rate:                          0.63029094946723E+01 kg/s
+#   Glass rate out:                     0.63027200820983E+01 kg/s
+
+#   Cycle count:                       3
+#   Estimated wall loss at T_exit:      0.17346167349244E+07 W
+
+
+
+# #################   Run End   #################
+
+
+#  Heat Values at Run End:
+
+#   Radiation+Conv In:                  0.12218153784863E+08 W
+#   Electric Boost:                     0.00000000000000E+00 W
+#   Total Energy In:                    0.12218153784863E+08 W
+
+#   Cullet heatup need:                 0.31659871040868E+07 W
+#   Cullet melt need:                   0.12619996850393E+07 W
+#   Radiation to Cullet:                0.33314525276776E+07 W
+#   Conduction to Cullet:               0.11220192678990E+07 W
+#   Cullet q needed:                    0.44279867891262E+07 W
+#   Cullet q net:                       0.44534717955766E+07 W
+
+#   Batch heatup need:                  0.31659871040868E+07 W
+#   Batch melt need:                    0.12619996850393E+07 W
+#   Radiation to Batch:                 0.33323293461237E+07 W
+#   Conduction to Batch:                0.11314770253417E+07 W
+#   Batch q needed:                     0.44279867891262E+07 W
+#   Batch q net:                        0.44638063714654E+07 W
+
+#   Liquid heatup need:                 0.16166215965354E+07 W
+#   Liquid q net:                       0.15666283020338E+07 W
+#   Adiabatic energy need:              0.10472595174788E+08 W
+#   Wall heat loss:                     0.17342491639085E+07 W
+#   Net melt input energy need:         0.12206844338696E+08 W
+#   Actual melt input energy:           0.12218153784863E+08 W
+
+#   Energy need divided by input:       0.99907437356202E+00
+
+#   Mean glass exit temperature:        0.13980637863889E+04 K
+#   Cullet rate in:                     0.31549992125983E+01 kg/s
+#   Batch rate in:                      0.31549992125983E+01 kg/s
+#   Total solids rate in:               0.63099984251967E+01 kg/s
+#   Melt rate:                          0.63020119555881E+01 kg/s
+#   Glass rate out:                     0.63023021775393E+01 kg/s
+
+#   Cycle count:                       4

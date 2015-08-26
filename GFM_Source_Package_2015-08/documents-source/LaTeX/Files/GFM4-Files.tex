@@ -1,0 +1,485 @@
+
+\documentclass[twoside,12pt]{article}
+
+%\usepackage[letterpaper,hmargin=1.0in,vmargin=1.0in]{geometry}
+\usepackage[letterpaper,hmargin=1.25in,vmargin=1.0in]{geometry}
+\usepackage{bm} %bold math package: use command \bm{}
+\usepackage{subfigure}
+\usepackage{amsmath,amsfonts,amsthm,amssymb}
+\usepackage{graphicx,psfrag}
+\usepackage{nomencl}
+\usepackage{verbatim}
+%\usepackage{times,mathptm}
+%\makenomenclature
+\makeglossary
+%\topmargin      =-5.mm
+%\oddsidemargin  =0.mm
+%\evensidemargin =0.mm
+%\oddsidemargin  =0.25in
+%\evensidemargin =-0.25in
+%\headheight     =0.mm
+%\headsep        =0.mm
+%\textheight     =8.5in
+%\textheight     =9.0in
+\textwidth      =6.0in
+
+\begin{comment}
+%\renewcommand{\a}{\alpha}
+%\renewcommand{\b}{\beta}
+%\renewcommand{\d}{\delta}
+\newcommand{\e}{\epsilon}
+\newcommand{\f}{\phi}
+\newcommand{\h}{\eta}
+\newcommand{\g}{\gamma}
+%\renewcommand{\l}{\lambda}
+\newcommand{\m}{\mu}
+\newcommand{\n}{\nu}
+\newcommand{\q}{\theta}
+%\renewcommand{\r}{\rho}
+\newcommand{\s}{\sigma}
+%\renewcommand{\t}{\tau}
+\newcommand{\w}{\omega}
+\newcommand{\y}{\psi}
+\newcommand{\z}{\zeta}
+
+\newcommand{\Y}{\Psi}
+\newcommand{\F}{\Phi}
+\newcommand{\W}{\Omega}
+\end{comment}
+
+\newcommand{\oo}{\infty}
+
+\newcommand{\Dv}[1]{\frac{D #1}{D t}}
+\newcommand{\dv}[2]{\frac{d #1}{d #2}}
+\newcommand{\dvsq}[2]{\frac{d^2 #1}{d {#2}^2}}
+\newcommand{\pd}[2]{\frac{\partial #1}{\partial #2}}
+\newcommand{\pdc}[3]{\left(\frac{\partial #1}{\partial #2}\right)_{#3}}
+\newcommand{\pdsq}[2]{\frac{\partial^2 #1}{\partial {#2}^2}}
+\newcommand{\ave}[1]{\left\langle #1 \right\rangle}
+\newcommand{\abs}[1]{\left\lvert #1 \right\rvert}
+\newcommand{\del}{\nabla}
+\newcommand{\cross}{\times}
+\newcommand{\inner}[1]{\left\langle #1 \right\rangle}
+
+\newcommand{\ba}{\mathbf{a}}
+\newcommand{\bb}{\mathbf{b}}
+\newcommand{\bc}{\mathbf{c}}
+\newcommand{\be}{\mathbf{e}}
+\newcommand{\br}{\mathbf{r}}
+\newcommand{\bu}{\mathbf{u}}
+\newcommand{\bx}{\mathbf{x}}
+\newcommand{\by}{\mathbf{y}}
+\newcommand{\bz}{\mathbf{z}}
+\newcommand{\bA}{\mathbf{A}}
+\newcommand{\bB}{\mathbf{B}}
+\newcommand{\bF}{\mathbf{F}}
+\newcommand{\bI}{\mathbf{I}}
+\newcommand{\bR}{\mathbf{R}}
+\newcommand{\bU}{\mathbf{U}}
+\newcommand{\bV}{\mathbf{V}}
+
+\newcommand{\ui}{\underline{i}}
+\newcommand{\uk}{\underline{k}}
+
+\newcommand{\tb}{\bar{t}}
+
+\newcommand{\ft}{\tilde{f}}
+\newcommand{\pt}{\tilde{p}}
+\newcommand{\ut}{\tilde{u}}
+\newcommand{\St}{\tilde{S}}
+
+\newcommand{\bbR}{\mathbb{R}}
+
+\newcommand{\sfe}{\mathsf{e}}
+\newcommand{\sff}{\mathsf{f}}
+\newcommand{\sfT}{\mathsf{T}}
+\newcommand{\sfV}{\mathsf{V}}
+
+\newcommand{\bgw}{\boldsymbol{\w}}
+\newcommand{\gtb}{\bar{\t}}
+
+\newcommand{\mvar}[1]{\mathit{#1}}
+\newcommand{\subtx}[1]{\text{\it #1}}
+\newcommand{\var}[1]{\text{\it #1}}
+
+\newcommand{\sub}[1]{\textsf{#1}}
+\newcommand{\file}[1]{\texttt{#1}}
+\newcommand{\cfile}[2]{\texttt{#1}\textit{nnnn}\texttt{#2}}
+\newcommand{\menu}[1]{\textsf{#1}}
+\newcommand{\smenu}[2]{\textsf{#1$\to$#2}}
+\newcommand{\parm}[1]{\textit{#1}}
+\newcommand{\dialog}[1]{\textsf{#1}}
+
+
+\DeclareMathOperator{\tr}{tr}
+\DeclareMathOperator{\Ren}{Re}
+
+\newtheorem*{dfn}{Definition}
+\newtheorem{problem}{Problem}
+
+\numberwithin{equation}{section}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% PAGE HEADERS AND FOOTERS
+
+% The geometry package lets set the margins.
+% \usepackage[left=2cm,top=1cm,bottom=2cm,right=3cm]{geometry}
+
+%\fancyhead[selectors]{output you want}
+
+%The selectors are the following:E	even page
+%O	odd page
+%L	left side
+%C	centered
+%R	right side
+
+\usepackage{fancyhdr} % Header and footer layout.
+\pagestyle{fancy}
+\setlength{\headheight}{15pt}
+\fancyhf{} % Make header and footer empty, to be refilled below.
+
+%\fancyhead[LO,RE]{Appendix 6}
+%\fancyhead[LE,RO]{\thepage}
+%\fancyhead[L]{Appendix 4}
+\fancyhead[R]{\thepage}
+
+% The layout of the header is to be completed yet.
+%\lhead{Appendix 3}
+%\rhead{\thepage}
+%\fancyfoot[LE,RO]{\thepage} % Page numbers on the left on odd pages and on the right on even pages.
+\renewcommand{\headrulewidth}{0pt} % Remove header line.
+%\renewcommand{\footrulewidth}{0pt} % Remove footer line.
+% \addtolength{\headheight}{0.5pt} % If not removed, make room for header line (e.g. if \headrulewidth is set to 0.5pt).
+
+\fancypagestyle{plain}{% Redefine the plain page style (applied to the front page and the first pages of chapters).
+\fancyhf{} % Make header and footer empty on plain pages.
+%\fancyhead[LO,RE]{Appendix 6}
+%\fancyhead[LE,RO]{\thepage}
+%\fancyhead[L]{Appendix 4}
+\fancyhead[R]{\thepage}
+
+%\fancyfoot[LE,RO]{\thepage} % Page numbers on the left on odd pages and on the right on even pages.
+%\renewcommand{\headrulewidth}{0pt} % Remove header line.
+%\renewcommand{\footrulewidth}{0pt} % Remove footer line.
+}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\setcounter{page}{1}
+
+
+\title{ \bf GFM 4.0 Files}
+%\date{\today}
+%\author{S.A.Lottes}
+\date{}
+
+\begin{document}
+\maketitle
+%========================================================================
+%\section{Introduction}
+%========================================================================
+
+%This document is the start of the Glass Furnace Model User Guide now being written. The only section currently in the text is a set of tables listing file types and files created in setting up, running, and viewing results for a glass furnace model. 
+
+%========================================================================
+%\section{Glass Furnace Model Files}
+%========================================================================
+
+This document provides a brief description of files that are created in the process of setting up and simulating a case in GFM. The number of files that are created in the course of setting up and running a simulation has been greatly increased in GFM Version 4. However, file management was also automated in GFM 4, changing the focus of user work in the user interface and control program to ``cases.'' The user interface and control program builds and manages all the files needed to run a simulation without the user having to open, change, or save individual files when working in the GFM application. Instead, cases are opened, changed, saved, copied, or chosen for simulation or post processing, and all of the file operations needed to accomplish user initiated actions or maintain furnace geometry and operating data are handled automatically by the control program. Except for files that contain progress data that can be plotted and summary data, the user does not need to know the details of file content or how files are used.  The files can be divided into several types that are indicated by the file extension. In general there are files that define the model of a glass furnace including geometry, material properties, and other parameters of a case, files that contain intermediate results and boundary conditions that are used by one of the GFM components, and output files that contain simulation progress data and results that are of primary interest to the user.
+
+Probably the most useful tables are Tables \ref{plt-files-comb} and \ref{plt-files-melt} that list the files that contain simulation progress and monitoring data that can be plotted with the \sub{RunPlot} program. The $``nnnn$'' in file names in tables stands for a four digit case number. In plots generated by \sub{RunPlot}, the $x$ axis is an iteration count from one of the solver loops. In many cases it is the iteration count from the CFD flow solver for either the gas in the combustion space or the molten glass in the melt space. However, in some cases it may be the iteration count associated with the particular data plotted, such as radiation solver iterations in a plot of residuals from the equation governing radiosities in the wall and boundary radiation exchange computation. The $y$ axis quantities are in $SI$ units: temperatures are in degrees Kelvin (K), energy transfer rates are in watts (W), etc. The title bar and legend indicate what quantities are plotted, such as mean temperature in the melt. In cases where the dependent variable spans many orders of magnitude, the $y$ axis is usually a $log$ scale, and this fact is also noted in the title bar.  
+
+Because the user interface and control program creates, copies, and deletes files on a case basis and automatically updates and moves control and boundary condition files between the melt and combustion space directory case folders for more involved simulations such as coupled cycling between combustion and melt, the user normally does not need knowledge of the files used or their contents. However, a list of these files is provided here for those interested. The files related to building a model, saving its definition, and controlling a simulation for a case are listed in Tables \ref{sim-files-comb} and \ref{sim-files-melt} with a brief explanation of content.
+
+Result files summarizing results, giving run termination status and used in post processing are listed in Tables \ref{result-files-comb} and \ref{result-files-melt}. The \file{summary} files contain information that appears at the beginning and end of the \file{info} files in the relevant case folders in the melt and combustion space directories. 
+
+
+Table \ref{file-ext-types} defines the categories of files based on file extension. Table \ref{misc-files} lists miscellaneous files not saved in the case folders.
+
+%--------------------------------------------------------------------------------------------
+\begin{table}[!hbp]
+\caption{GFM File Types} 
+\label{file-ext-types}
+\centering
+\begin{tabular}{|c|c|l|}
+\hline
+\var{File Extension} & \var{Type} & \multicolumn{1}{|c|}{ \var{Explanation}} \\
+%\hline
+\hline
+d & binary & simulation state data for restart or other data \\
+dat  & text & data defining grid geometry, simulation setup \\
+           && ~~~parameters, and boundary conditions \\
+out & text & main output of 3D field variable values for post \\
+           && ~~~processing \\
+plt & text & simulation progress data that can be plotted \\
+           && ~~~with RunPlot \\
+pre & text & geometry, parameter, and material property data \\
+           && ~~~used by the pre-processor \\
+txt & text & various result summary, case definition, \\
+           && ~~~and message files for a case \\
+\hline
+\end{tabular}
+%\caption{Radiation computation type}
+\end{table}
+
+ 
+%--------------------------------------------------------------------------------------------
+\begin{table}[!hbp]
+\caption{Combustion Space Simulation Monitoring Data Files}
+\label{plt-files-comb}
+\centering
+\begin{tabular}{|c|l|}
+\hline
+\var{File Name } & \multicolumn{1}{|c|}{ \var{Explanation}} \\
+%\hline
+\hline
+conv\_wall\textit{nnnn}c.plt & equation residuals for radiation wall exchange \\
+convg\textit{nnnn}c.plt  & mean and maximum mass residuals \\
+fchg\textit{nnnn}c.plt  & relative change in mean melt surface heat flux \\
+                        & ~~~from one cycle to the next \\
+gresid\textit{nnnn}c.plt  & residuals from gas energy, pressure, and \\
+                          & ~~~momentum equations \\
+gresidp\textit{nnnn}c.plt  & pre-solve residuals from gas energy, pressure, \\
+                           & ~~~and momentum equations \\
+gresid\_xtra\textit{nnnn}c.plt  & residuals from major species and \\
+                                & ~~~turbulence equations \\
+gresid\_xtrap\textit{nnnn}c.plt  & pre-solve residuals from major species and \\
+                                 & ~~~turbulence equations \\
+Info\textit{nnnn}c.plt  & evolution of energy sources, sinks, and transfers \\
+mresid\textit{nnnn}c.plt  & residuals from minor and radiating \\
+                          & ~~~species equations \\
+rad\_detail\textit{nnnn}c.plt  & radiation details from volume \\ 
+soot\_cal\textit{nnnn}c.plt  & evolution of values during soot calibration \\
+Tave\textit{nnnn}c.plt  & evolution of mean temperatures \\
+                        & ~~~over the volume, exits, and walls \\
+\hline
+\end{tabular}
+%\caption{Radiation computation type}
+\end{table}
+
+
+%--------------------------------------------------------------------------------------------
+\begin{table}[!hbp]
+\caption{Combustion Space Simulation Setup and State Files}
+\label{sim-files-comb}
+\centering
+\begin{tabular}{|c|l|}
+\hline
+\var{File Name} & \multicolumn{1}{|c|}{ \var{Explanation}} \\
+%\hline
+\hline
+case\textit{nnnn}c.txt & case title, description, and user case notes \\
+gd\textit{nnnn}c.dat  & combustion space grid definition and cell types \\
+gd\textit{nnnn}c.pre  & preprocessor data including case geometry, \\
+                      & ~~~inlet flow rates, material properties, case \\
+                      & ~~~conditions and simulation control parameters \\
+it\textit{nnnn}m.dat  & heat flux distribution at melt surface transfered \\
+                      & ~~~to melt simulation in coupled simulations \\
+it\textit{nnnn}t.dat  & temperature distribution at melt surface transfered \\
+                      & ~~~from melt simulation in coupled simulations \\
+it\textit{nnnn}T\_relax.dat  & relaxed temperature distribution at melt surface \\
+                      & ~~~used to damp large oscillations in coupling conditions \\
+rg\textit{nnnn}c.d  & restart data for gas CFD computation \\
+rr\textit{nnnn}c.d  & restart data for gas and wall radiation \\
+                    & ~~~heat transfer computation \\
+rs\textit{nnnn}c.d  & restart data for minor and radiating species computation \\
+sbc\textit{nnnn}c.dat  & setup and boundary condition data \\
+\hline
+\end{tabular}
+%\caption{Radiation computation type}
+\end{table}
+
+%--------------------------------------------------------------------------------------------
+\begin{table}[!hbp]
+\caption{Combustion Space Result Files}
+\label{result-files-comb}
+\centering
+\begin{tabular}{|c|l|}
+\hline
+\var{File Name} & \multicolumn{1}{|c|}{ \var{Explanation}} \\
+%\hline
+\hline
+rt\textit{nnnn}c.out  & field variable values over the domain used by \\
+                      & ~~~post processor to display and visualize results \\
+runend.txt  & message indicating normal or error \\
+                      & ~~~termination of run \\
+summary\textit{nnnn}c.txt  & summary of results of run including energy \\
+                      & ~~~and mass balances, in and out flows, energy \\
+                      & ~~~transfer rates and losses, and other information \\
+twall\textit{nnnn}c.txt  & grid cell array showing wall temperatures \\
+\hline
+\end{tabular}
+%\caption{Radiation computation type}
+\end{table}
+
+%--------------------------------------------------------------------------------------------
+\begin{table}[!hbp]
+\caption{Melt Space Simulation Monitoring Data Files}
+\label{plt-files-melt}
+\centering
+\begin{tabular}{|c|l|}
+\hline
+\var{File Name} & \multicolumn{1}{|c|}{ \var{Explanation}} \\
+%\hline
+\hline
+convg\textit{nnnn}m.plt  & mean and maximum mass residuals \\
+gresid\textit{nnnn}m.plt  & residuals from glass melt energy, \\
+                          & ~~~pressure, and momentum equations \\
+gresidp\textit{nnnn}m.plt  & pre-solve residuals from glass melt energy, \\
+                          & ~~~pressure, and momentum equations \\
+Info\textit{nnnn}m.plt  & evolution of energy sources, sinks, and transfers \\
+Tave\textit{nnnn}m.plt  & evolution of mean temperatures \\
+                        & ~~~over the volume and exits \\
+Tchg\textit{nnnn}m.plt  & relative change in mean melt surface temperature \\
+                        & ~~~from one cycle to the next \\
+\hline
+\end{tabular}
+%\caption{Radiation computation type}
+\end{table}
+
+%--------------------------------------------------------------------------------------------
+\begin{table}[!hbp]
+\caption{Melt Space Simulation Setup and State Files}
+\label{sim-files-melt}
+\centering
+\begin{tabular}{|c|l|}
+\hline
+\var{File Name} & \multicolumn{1}{|c|}{ \var{Explanation}} \\
+%\hline
+\hline
+case\textit{nnnn}m.txt & case title, description, and user case notes \\
+gd\textit{nnnn}c.dat  & combustion space grid definition and cell types \\
+                      & ~~~used to interpolate coupling conditions at melt \\
+                      & ~~~surface between combustion and melt grids \\
+gd\textit{nnnn}m.dat  & melt grid definition and cell types \\
+gd\textit{nnnn}m.pre  & preprocessor data including case geometry, \\
+                      & ~~~inlet flow rates, material properties, case \\
+                      & ~~~conditions and simulation control parameters \\
+it\textit{nnnn}m.dat  & heat flux distribution at melt surface transfered \\
+                      & ~~~to melt simulation in coupled simulations \\
+it\textit{nnnn}m\_adjflux.dat  & surface heat flux scaled to meet \\
+                      & ~~~batch and melt heat rate needed \\
+it\textit{nnnn}m\_relax.dat  & relaxed surface heat flux distribution used to \\
+                      & ~~~damp large oscillations in coupling conditions \\
+it\textit{nnnn}t.dat  & temperature distribution at melt surface \\
+rg\textit{nnnn}m.d  & restart data for melt CFD computation \\
+sbc\textit{nnnn}m.dat  & melt setup and boundary condition data \\
+\hline
+\end{tabular}
+%\caption{Radiation computation type}
+\end{table}
+
+
+%--------------------------------------------------------------------------------------------
+\begin{table}[!hbp]
+\caption{Melt Space Result Files}
+\label{result-files-melt}
+\centering
+\begin{tabular}{|c|l|}
+\hline
+\var{File Name} & \multicolumn{1}{|c|}{ \var{Explanation}} \\
+%\hline
+\hline
+rt\textit{nnnn}m.out  & field variable values over the domain used by \\
+              & ~~~post processor to display and visualize results \\
+runend.txt  & message indicating normal or error \\
+            & ~~~termination of run \\
+summary\textit{nnnn}m.txt  & summary of results of run including energy \\
+                      & ~~~and mass balances, in and out flows, energy \\
+                      & ~~~transfer rates and losses, and other information \\
+\hline
+\end{tabular}
+%\caption{Radiation computation type}
+\end{table}
+
+
+%--------------------------------------------------------------------------------------------
+\begin{table}[!hbp]
+\caption{Miscellaneous Files}
+\label{misc-files}
+\centering
+\begin{tabular}{|c|l|}
+\hline
+\var{File Name} & \multicolumn{1}{|c|}{ \var{Explanation}} \\
+%\hline
+\hline
+cycleInfo.txt  & temporary file, cycle number from GUI to CFD program \\
+gfm.dat  & temporary file, status from CFD program to GUI \\
+gui-update.txt  & temporary file, request from GUI to \\
+                & ~~~change update status in CFD program \\
+kinetic.d  & constant kinetic data supplied by GFM program \\
+relaxfactorc.txt & combustion relaxation factors used to control \\
+                 & ~~~changes to computed variables \\
+relaxfactorm.txt & melt relaxation factors used to control \\
+                 & ~~~changes to computed variables \\
+runs.dat  & specification of case to run \\
+runstop.dat  & request from GUI to end CFD program \\
+\hline
+\end{tabular}
+%\caption{Radiation computation type}
+\end{table}
+
+
+
+
+
+
+
+\begin{comment}
+
+The energy equation source terms are:
+\begin{equation}
+  S_h = \Psi + \dot m_f q_f
+\end{equation}
+
+
+\begin{equation}\label{test2}
+\begin{split}
+  \hat q_f &= q_f/h_0 \\
+  h_0 &= c_{p0}(T_\oo - T_{l0}) \\
+  T_\oo &= T_0 = 500 K \\
+  T_{l0} &= 298.15 K \\
+  q_f &= 5 \times 10^7 \; \text{J/kg (for natural gas)} \\
+  c_{p0} &= 1005.7 \; \text{J/kg K}	\\
+\end{split}
+\end{equation}
+
+\newpage
+%------------------------------------------------------------------------
+\subsubsection {Misc stuff}
+%------------------------------------------------------------------------
+\begin{verbatim}
+ # Average and max log mass residual
+ # iteration  average mass residual  max mass residual PlotData
+      1   0.1975553756430006E-08   0.5907847205035925E-06
+      1   0.1975553756430006E-08   0.5907847205035925E-06
+      1   0.1975553756430006E-08   0.5907847205035925E-06
+      2   0.3222384817852919E-08   0.1369924929824013E-06
+      1   0.1975553756430006E-08   0.5907847205035925E-06
+\end{verbatim}
+
+\begin{equation}
+\end{equation}
+
+\vspace{.5in}
+
+\noindent
+
+\textbf{The quick brown fox jumped over the lazy dog. bold bf}\\
+\textit{The quick brown fox jumped over the lazy dog. italic it}\\
+\textrm{The quick brown fox jumped over the lazy dog. roman rm}\\
+\textsf{The quick brown fox jumped over the lazy dog. sans serif sf}\\
+\textsc{The quick brown fox jumped over the lazy dog. small caps sc}\\
+\textsl{The quick brown fox jumped over the lazy dog. slant sl}\\
+\texttt{The quick brown fox jumped over the lazy dog. typewriter tt}\\
+
+\begin{equation}\label{6.0.0}
+\end{equation}
+
+\end{comment}
+%\printnomenclature
+%\printglossary
+%\nocite{Lottes1989,Incropera1981}
+%\bibliographystyle{abbrv}
+%\bibliography{refs}
+
+\end{document}
+

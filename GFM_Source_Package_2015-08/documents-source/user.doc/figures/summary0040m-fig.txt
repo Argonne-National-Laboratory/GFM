@@ -1,0 +1,55 @@
+# Case 0040 Summary Data for Simulation and Evolving Global Energy Distribution
+
+#   Number of cells in melt grid:       2780
+#   Melt surface area:                  0.21000000000000E+02 m^2
+
+#   Estimated wall loss at T_exit:      0.60593285000000E+05 W
+#   Mean Surface Heat Flux:             0.47619047619048E+05 W/m^2
+
+#   In-Flows:
+
+#   Batch:                              0.46296290446212E+00 kg/s
+
+#   Heat Inputs and Requirements:
+
+#   Radiation:                          0.10000000000000E+07 W
+#   Electric Boost:                     0.00000000000000E+00 W
+#   Total Energy In:                    0.10000000000000E+07 W
+
+#   Batch heatup:                       0.50483368635668E+06 W
+#   Batch melt:                         0.34722217834659E+06 W
+#   Batch q needed:                     0.85205586470327E+06 W
+
+#   Liquid heatup need:                 0.17453701498222E+06 W
+#   Adiabatic energy need:              0.10265928796855E+07 W
+
+
+# #################   Run End   #################
+
+
+#  Heat Values at Run End:
+
+#   Radiation+Conv In:                  0.10817745341870E+07 W
+#   Electric Boost:                     0.00000000000000E+00 W
+#   Total Energy In:                    0.10817745341870E+07 W
+
+#   Batch heatup need:                  0.50483368635668E+06 W
+#   Batch melt need:                    0.34722217834659E+06 W
+#   Radiation to Batch:                 0.67570397443984E+06 W
+#   Conduction to Batch:                0.18541779783035E+06 W
+#   Batch q needed:                     0.85205586470327E+06 W
+#   Batch q net:                        0.86112177227019E+06 W
+
+#   Liquid heatup need:                 0.17453701498222E+06 W
+#   Liquid q net:                       0.16482431906685E+06 W
+#   Adiabatic energy need:              0.10265928796855E+07 W
+#   Wall heat loss:                     0.55828442849955E+05 W
+#   Net melt input energy need:         0.10824213225354E+07 W
+#   Actual melt input energy:           0.10817745341870E+07 W
+
+#   Energy need divided by input:       0.10005978957056E+01
+
+#   Mean glass exit temperature:        0.15478311052476E+04 K
+#   Batch rate in:                      0.46296290446212E+00 kg/s
+#   Melt rate:                          0.46296290451718E+00 kg/s
+#   Glass rate out:                     0.46297002985824E+00 kg/s

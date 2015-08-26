@@ -1,0 +1,350 @@
+\documentclass[12pt,twoside]{article}
+
+\usepackage[letterpaper,hmargin=1.25in,vmargin=1.0in]{geometry}
+\usepackage{bm} %bold math package: use command \bm{}
+\usepackage{subfigure}
+\usepackage{amsmath,amsfonts,amsthm,amssymb}
+\usepackage{graphicx,psfrag}
+\usepackage{nomencl}
+\usepackage{verbatim}
+\usepackage{fancybox}
+%\usepackage{times,mathptm}
+%\makenomenclature
+\makeglossary
+%\topmargin      =-5.mm
+%\oddsidemargin  =0.mm
+%\evensidemargin =0.mm
+%\headheight     =0.mm
+%\headsep        =0.mm
+%\textheight     =8.5in
+%\textheight     =9.0in
+%\textwidth      =6.5in
+
+\begin{comment}
+%\renewcommand{\a}{\alpha}
+%\renewcommand{\b}{\beta}
+%\renewcommand{\d}{\delta}
+\newcommand{\e}{\epsilon}
+\newcommand{\f}{\phi}
+\newcommand{\h}{\eta}
+\newcommand{\g}{\gamma}
+%\renewcommand{\l}{\lambda}
+\newcommand{\m}{\mu}
+\newcommand{\n}{\nu}
+\newcommand{\q}{\theta}
+%\renewcommand{\r}{\rho}
+\newcommand{\s}{\sigma}
+%\renewcommand{\t}{\tau}
+\newcommand{\w}{\omega}
+\newcommand{\y}{\psi}
+\newcommand{\z}{\zeta}
+
+\newcommand{\Y}{\Psi}
+\newcommand{\F}{\Phi}
+\newcommand{\W}{\Omega}
+\end{comment}
+
+\newcommand{\oo}{\infty}
+
+\newcommand{\Dv}[1]{\frac{D #1}{D t}}
+\newcommand{\dv}[2]{\frac{d #1}{d #2}}
+\newcommand{\dvsq}[2]{\frac{d^2 #1}{d {#2}^2}}
+\newcommand{\pd}[2]{\frac{\partial #1}{\partial #2}}
+\newcommand{\pdc}[3]{\left(\frac{\partial #1}{\partial #2}\right)_{#3}}
+\newcommand{\pdsq}[2]{\frac{\partial^2 #1}{\partial {#2}^2}}
+\newcommand{\ave}[1]{\left\langle #1 \right\rangle}
+\newcommand{\abs}[1]{\left\lvert #1 \right\rvert}
+\newcommand{\del}{\nabla}
+\newcommand{\cross}{\times}
+\newcommand{\inner}[1]{\left\langle #1 \right\rangle}
+
+\newcommand{\ba}{\mathbf{a}}
+\newcommand{\bb}{\mathbf{b}}
+\newcommand{\bc}{\mathbf{c}}
+\newcommand{\be}{\mathbf{e}}
+\newcommand{\br}{\mathbf{r}}
+\newcommand{\bu}{\mathbf{u}}
+\newcommand{\bx}{\mathbf{x}}
+\newcommand{\by}{\mathbf{y}}
+\newcommand{\bz}{\mathbf{z}}
+\newcommand{\bA}{\mathbf{A}}
+\newcommand{\bB}{\mathbf{B}}
+\newcommand{\bF}{\mathbf{F}}
+\newcommand{\bI}{\mathbf{I}}
+\newcommand{\bR}{\mathbf{R}}
+\newcommand{\bU}{\mathbf{U}}
+\newcommand{\bV}{\mathbf{V}}
+
+\newcommand{\ui}{\underline{i}}
+\newcommand{\uk}{\underline{k}}
+
+\newcommand{\tb}{\bar{t}}
+
+\newcommand{\ft}{\tilde{f}}
+\newcommand{\pt}{\tilde{p}}
+\newcommand{\ut}{\tilde{u}}
+\newcommand{\St}{\tilde{S}}
+
+\newcommand{\bbR}{\mathbb{R}}
+
+\newcommand{\sfe}{\mathsf{e}}
+\newcommand{\sff}{\mathsf{f}}
+\newcommand{\sfT}{\mathsf{T}}
+\newcommand{\sfV}{\mathsf{V}}
+
+\newcommand{\bgw}{\boldsymbol{\w}}
+\newcommand{\gtb}{\bar{\t}}
+
+\newcommand{\vsp}{\textvisiblespace}
+
+\newcommand{\mvar}[1]{\mathit{#1}}
+\newcommand{\subtx}[1]{\text{\it #1}}
+\newcommand{\var}[1]{\text{\it #1}}
+
+\newcommand{\sub}[1]{\textsf{#1}}
+\newcommand{\file}[1]{\texttt{#1}}
+\newcommand{\cfile}[2]{\texttt{#1}\textit{nnnn}\texttt{#2}}
+\newcommand{\menu}[1]{\textsf{#1}}
+\newcommand{\smenu}[2]{\textsf{#1$\to$#2}}
+\newcommand{\parm}[1]{\textit{#1}}
+\newcommand{\prog}[1]{\textsl{#1}}
+\newcommand{\dialog}[1]{\textsf{#1}}
+
+
+\DeclareMathOperator{\tr}{tr}
+\DeclareMathOperator{\Ren}{Re}
+
+\newtheorem*{dfn}{Definition}
+\newtheorem{problem}{Problem}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% PAGE HEADERS AND FOOTERS
+
+% The geometry package lets set the margins.
+% \usepackage[left=2cm,top=1cm,bottom=2cm,right=3cm]{geometry}
+
+%\fancyhead[selectors]{output you want}
+
+%The selectors are the following:E	even page
+%O	odd page
+%L	left side
+%C	centered
+%R	right side
+
+\usepackage{fancyhdr} % Header and footer layout.
+\pagestyle{fancy}
+\setlength{\headheight}{15pt}
+\fancyhf{} % Make header and footer empty, to be refilled below.
+
+%\fancyhead[LE,RO]{Appendix 4}
+%\fancyhead[LO,RE]{\thepage}
+%\fancyhead[L]{Appendix 6}
+\fancyhead[R]{\thepage}
+
+% The layout of the header is to be completed yet.
+%\lhead{Appendix 3}
+%\rhead{\thepage}
+%\fancyfoot[LE,RO]{\thepage} % Page numbers on the left on odd pages and on the right on even pages.
+\renewcommand{\headrulewidth}{0pt} % Remove header line.
+%\renewcommand{\footrulewidth}{0pt} % Remove footer line.
+% \addtolength{\headheight}{0.5pt} % If not removed, make room for header line (e.g. if \headrulewidth is set to 0.5pt).
+
+\fancypagestyle{plain}{% Redefine the plain page style (applied to the front page and the first pages of chapters).
+\fancyhf{} % Make header and footer empty on plain pages.
+%\fancyhead[LE,RO]{Appendix 4}
+%\fancyhead[LO,RE]{\thepage}
+%\fancyhead[L]{Appendix 6}
+\fancyhead[R]{\thepage}
+%\fancyfoot[LE,RO]{\thepage} % Page numbers on the left on odd pages and on the right on even pages.
+%\renewcommand{\headrulewidth}{0pt} % Remove header line.
+%\renewcommand{\footrulewidth}{0pt} % Remove footer line.
+}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\setcounter{page}{1}
+
+
+\numberwithin{equation}{section}
+
+\title{\bf GFM 4.0 RunPlot User's Guide}
+\date{}
+%\date{\today}
+%\author{S.A.~Lottes}
+
+\begin{document}
+\maketitle
+%========================================================================
+\section*{Introduction}
+%========================================================================
+\prog{RunPlot} is a simple line plotting utility that draws to the screen. 
+\prog{RunPlot} can be used to monitor the progress or evolution of various scaler variables during iteration while running a CFD code. \prog{RunPlot} can also be used to review the evolution of these variables after the computation has completed. In the Glass Furnace Model software, plot data files are generated for a variety of quantities of interest such as mass residuals, other partial differential equation (PDE) residuals, mean temperature, and the various global energy quantities, such as the energy loss rate through walls, $\dot q_\var{wall}.$
+
+%========================================================================
+\section*{Quantities that Can Be Monitored}
+%========================================================================
+
+Both the combustion space and melt space computations output some files that are updated  after each iteration in the computation with new values of variables that can be monitored with \prog{RunPlot}. These files are listed with the quantities that they contain in Table \ref{runplot-files}.
+\begin{table}[!ht]
+  \caption{GFM Files in \prog{RunPlot} Format} 
+  \vspace{2.mm}
+  \label{runplot-files}
+	\centering
+		\begin{tabular}{|c|l|}
+			\hline
+      File & \multicolumn{1}{c|}{Description of Quantities} \\
+      \hline
+			\cfile{conv\_wall}{c.plt}  & Equation residuals for radiation wall exchange \\
+			\cfile{convg}{c.plt}  & Max and mean log mass residual, combustion space \\
+			\cfile{convg}{m.plt}  & Max and mean log mass residual in melt \\
+      \cfile{fchg} {c.plt}  & Relative change in mean melt surface heat flux \\
+                            & ~~~from one cycle to the next \\                           
+			\cfile{gresid}{c.plt}  & Pressure, momentum, and enthalpy log PDE\\
+			                       & ~~~residuals in combustion space \\
+			\cfile{gresid}{m.plt}  & Pressure and momentum log PDE\\
+			                       & ~~~residuals from glass melt energy \\
+			\cfile{gresidp}{c.plt}  & Pre-solve pressure, momentum, and enthalpy log PDE\\
+			                        & ~~~residuals in combustion space \\
+			\cfile{gresidp}{m.plt}  & Pre-solve pressure and momentum log PDE\\
+			                       & ~~~residuals from glass melt energy \\
+			\cfile{gresid\_xtra}{c.plt}  & Major species and k--epsilon log PDE\\
+			                             & ~~~residuals in combustion space \\
+			\cfile{gresid\_xtrap}{c.plt}  & Pre-solve major species and k--epsilon log PDE\\
+			                             & ~~~residuals in combustion space \\
+			\cfile{Info} {c.plt}  & Energy sources, transfers, losses, combustion space \\
+			\cfile{Info} {m.plt}  & Energy sources, transfers, losses, melt space \\
+			\cfile{mresid}{c.plt}  & Minor species log PDE residual, combustion space \\
+			\cfile{rad\_detail} {c.plt}  & Radiation details from volume, combustion space \\
+			\cfile{soot\_cal} {c.plt}  & Evolution of values during soot calibration, \\
+			                           & ~~~combustion space \\
+			\cfile{Tave} {c.plt}  & Volume mean temperature, combustion space \\
+			\cfile{Tave} {m.plt}  & Mass mean temperature in melt space \\
+      \cfile{Tchg} {m.plt}  & Relative change in mean melt surface temperature \\
+                            & ~~~from one cycle to the next \\			                      
+%			\cfile{Twallavg} {c.plt}  & Area mean wall temperature, \\
+%			                          & ~~~combustion space \\
+			\hline
+		\end{tabular}
+\end{table}
+Files with a \emph{c} preceding the file extension are located in the combustion \file{case} folders usually in the \file{combustion} subdirectory where \prog{GFM} is installed. Files with an \emph{m} preceding the file extension are located in the melt \file{case} folders usually in the \file{melt} subdirectory.
+
+%========================================================================
+\section*{File Structure for \prog{RunPlot}}
+%========================================================================
+\prog{RunPlot} creates screen plots from data arranged in columns, referred to as the data table, in a selected file. Information on the file structure is provided here so that the user can add notes to a file without causing \prog{RunPlot} to fail when attempting to plot data from the file and so that other files can be generated if desired that can be plotted on screen with the \prog{RunPlot} utility. \prog{RunPlot} is a simple utility program and is not intended for sophisticated uses or the generation of presentation plots; it is intended to provide a quick visualization via on screen line plotting of the trends for variables of interest, or a quick way to later review the progress of a computation after it is completed. A toggle to change the screen plot background from black to white is provided so that screen captures can be made that will print on a standard printer without using excessive ink or toner. However, loading the data table into a spread sheet to generate plots with legends, labels, notes, etc. is the expected way to prepare data plots from the files for presentation. \prog{RunPlot} does generate a window with a legend with plot data label text color corresponding to the on screen plot line color to provide a means to easily identify lines in a plot of many quantities.
+
+To provide flexibility, commentary may appear before, within, and after the data table (see Figure~\ref{samplefile}). A line beginning with a ``\#\vsp'' where the ``\vsp'' denotes at least one white space character (tab or blank) and containing the tag \var{plotdata} anywhere on the line identifies the beginning of the data table. The line with the \var{plotdata} tag must appear immediately before, except for blank lines, the line containing the column headings of the data. The coupling of theses two lines allows the program to identify the data column heading line and generate legend window text from the headings. Within the data table, lines containing only white space (blank lines) are ignored. In addition, any lines beginning with ``\#\vsp'' as the first non-blank text are ignored. An end of file or a line beginning with non-numeric text other than ``\#\vsp'' as the first non-blank text is considered to identify the end of the data table.
+
+The first line in the file is taken to be a title line. Text on this line up to a ``\vsp//'' not including an initial ``\#\vsp'' is the \emph{title}. The \emph{title} is included in the window caption. If word ``log'' occurs anywhere on the title line, before or after a ``\vsp//'' \emph{title} termination, the y-data will be plotted on a log scale.
+The title line may be followed by other commentary or data up to the line with the \var{plotdata} tag identifying the start of the data table. A good practice in generating plot files from other software is simply to begin all lines that are not part of the data table with a ``\#'' character, indicating a comment line.
+
+The \emph{title} normally indicates the type of data plotted. It also normally includes the file name of the data plotted, to allow identification of the source of the data when multiple plots are displayed on screen. Plotted lines are associated with the data column via the plotted line color. This correspondence is given in Table \ref{plotcolors}. Correspondence between line colors and data column headings printed as text in the legend window is also established via text and line color. 
+
+The format of the data table columns is as follows. The first column of numbers is assumed to contain the abscissa (x-axis) values. Normally these values are the integer iteration count corresponding to the ordinate (y-axis) values in the remaining columns. The data columns are separated by white space, and as many different variables as there are data columns will be plotted. The numeric data in columns can be in any number format (integer, floating point, exponential notation). If there are more data columns than plot colors listed in Table \ref{plotcolors}, the program will cycle back through the colors to plot additional columns of data.
+
+\begin{table}[!ht]
+  \caption{Plot Line Colors for Data Columns} 
+  \vspace{1.5mm}
+  \label{plotcolors}
+	\centering
+		\begin{tabular}{|c|c|c|}
+			\hline
+      Data  & \multicolumn{2}{c|}{Color} \\
+      \cline{2-3}
+      Column  & Black Background & White Background \\
+      \hline
+			1      & None---x-values & None---x-values \\
+			2      & Red & Red \\
+			3      & Light Blue & Blue \\
+			4      & Green & Dark Green \\
+			5      & Yellow & Brown \\
+			6      & Plum & Purple \\
+			7      & Orange & Orange \\
+			8      & White & Black \\
+			\hline
+		\end{tabular}
+\end{table}
+
+
+
+%========================================================================
+\section*{Operation and Control of \prog{RunPlot}}
+%========================================================================
+
+On startup \prog{RunPlot} displays an \textit{Open Plot Data} dialog box for selecting the file with data to be plotted. If the file contains a valid data table, plots will be drawn in the plot window. The plot window caption is composed of the application name, the title, if present, and the file name. Resizing the plot window in the horizontal direction will change the number of tic marks and tic labels on the x-axis. In general the program tries to put as many tic marks with labels on the x-axis as space will allow while preserving reasonable inter-label spacing. With this scheme, the tic spacing may not be uniform. The number of tics and labels on the y-axis is five by default, but may be increased or decreased via user input. 
+
+In addition to resizing the window, user control over a few items of the plot display is provided by actions initiated by user key press input. Keys and the associated actions are listed in Table~\ref{keys-tab}.
+\begin{table}[!ht]
+  \caption{Keyboard Input and Right Click Mouse \prog{RunPlot} Actions} 
+  \vspace{1.5mm}
+  \label{keys-tab}
+	\centering
+		\begin{tabular}{|c|l|}
+			\hline
+      Key & \multicolumn{1}{c|}{Description of Action} \\
+      \hline
+			\textbf{--}     & Decrease font size \\
+			+ or = & Increase font size \\
+      b      & Toggle between light and dark backgrounds \\
+			f      & Open file dialog box (to get new file to plot) \\
+			l      & Toggle show legend window \\
+			y      & Decrease the number of y-axis tics and labels \\
+			Y      & Increase the number of y-axis tics and labels \\
+			\hline
+		\end{tabular}
+\end{table}
+Right clicking the mouse within the plot window will display a menu listing the actions in this table providing a means to execute them via the mouse. When the log of the data is plotted, all integers in the set of the log of the range of the data are used to label the y-axis. Therefore, when log of the y-data is plotted, the number of y-tics cannot be changed.
+
+Multiple instances of \prog{RunPlot} can be run to display and monitor variables from different files in different windows at the same time.
+\begin{figure}[htbp]
+   \centering
+   \includegraphics[width=5in]{figs/Runplot-species-resid}
+   \caption{Plot with log scale of mean residuals for major species and k-epsilon equations.}
+   \label{sample-plot}
+\end{figure}
+
+\begin{figure}[hbp]
+%\label{sample-file}
+\centering
+
+\begin{Sbox}
+\begin{minipage}{5in}
+%\centering
+
+\begin{verbatim}
+# Average and max log mass residual // title comment
+
+ Summary or other data that won't be read as plot data:
+      298 K     - Ambient Temperature
+           101325 Pa - Pressure
+           
+# PlotData - tag that identifies start of data table
+#   iter  average mass residual     max mass residual
+
+      1   0.6577189205781596E-03   0.3483270774362953E+00
+      2   0.8023438418717733E-02   0.1205137081186856E+01
+      3   0.1412642398188446E-01   0.1702145623881210E+01
+      4   0.1864279324049479E-01   0.1198321797782262E+01
+      5   0.2295087775480696E-01   0.1590848875742073E+01
+
+      6   0.2388359323445141E-01   0.1965758786872932E+01
+      7   0.2005357974720045E-01   0.1699897379301678E+01
+
+ # Note in the middle of a data table
+
+      8   0.1978368055630363E-01   0.1344666918635310E+01
+      9   0.1773269006233475E-01   0.1374926758949880E+01
+
+Notes after end of data table.
+More data that won't be plotted:
+
+     10   0.1518379910490138E-01   0.1198976665759578E+01
+     11   0.1393631901720333E-01   0.1554607806217381E+01
+\end{verbatim}
+\end{minipage}
+\end{Sbox}
+\fbox{\TheSbox}
+\caption{Example \prog{RunPlot} data file.}
+\label{samplefile}
+\end{figure}
+
+\end{document}

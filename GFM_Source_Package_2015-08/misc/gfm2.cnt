@@ -1,0 +1,45 @@
+:Base GFM2
+:Title GFM2 User's Guide
+1 Glass Furnace Model
+2 Copyright Statement=ID_disclaimer
+2 Introduction=ID_intro
+2 Start Up=ID_startup
+1 Pre-Processor
+2 Comb=ID_prep
+2 Melter=ID_Prep
+1 File
+2 New=ID_filenew
+2 Open=ID_fileopen
+2 Save=ID_filesave
+2 Edit=ID_filedit
+1 Construct
+2 Geometry=ID_consgeo
+2 Grid=ID_consgrid
+2 Simulation=ID_consim
+2 Burners/Chargers
+3 Burner=ID_consburn
+3 Charger=ID_conschar
+2 Exhaust/Outlet
+3 Exhaust=ID_consexh
+3 Outlet=ID_consout
+2 Components
+3 Wall Property=ID_conswp
+3 Side Well=ID_conswell
+3 Melter Flow Property=ID_consfp
+3 Electric Booster=ID_conseb
+3 Gas Bubbler=ID_consgb
+1 Grid Plot
+2 2-D Grid=ID_2dgrid
+2 3-D Grid=ID_3dgrid
+1 Options
+2 Units=ID_option
+2 Zoom Factors=ID_option
+2 Point of Reference=ID_option
+2 Plot=ID_option
+1 Simulation
+2 Comb/Rad=ID_sim
+2 Melter=ID_sim
+1 Post-Processor
+2 View=ID_post
+1 Technical Support
+2 License=ID_license

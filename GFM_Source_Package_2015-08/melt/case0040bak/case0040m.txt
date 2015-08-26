@@ -1,0 +1,2 @@
+Case 0040
+melt TC-21 40 tpd, 1273K melt, conduction length =.06

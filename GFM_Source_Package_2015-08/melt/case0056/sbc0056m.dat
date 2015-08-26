@@ -1,0 +1,75 @@
+2    nphas
+0 1 0   (nps_c,nps_s,nbs0)
+1273 (tm_s)
+0.00007  (rp_s)
+&INPUT
+   PG0=101325
+   IRSTYP=1,BGCON=1.E-12,ID_RAD=-1
+   MAXGI=1,MAXPI=1,MAXBI=1,MAXSI=300
+   MS=0,IRSTYPM=1,NMSP=1
+   DS_C=2200,H0_C=400000
+   DS_S=2200,H0_S=750000
+   W_D=0.3,W_K=0.6,W_HA=2.5,W_TA=303.15,W_E=0.95
+   cd_d_c=0.016,cd_d_s=0.06
+   iheat_flux_type=2
+   T_exit=1550
+   T_init=1450
+   cycling=1
+   gui_update=0
+   chamber_type=1
+   melter_length=7
+   isum=1
+   iinfo=1
+   iTave=1
+   iconv=1
+   igresid=1
+   igresidp=0
+   iTchg=1
+   iadjf=1
+   iadjr=1
+   ifieldview=0
+/
+Wall Properties:
+T(K) : Glass Density (kg/m**3):
+ 1000 2382.8
+ 2000 2244.8
+T(K) : Glass Viscosity (Pa-s):
+ 1100 801316.5
+ 1200 63296.58
+ 1300 9595.04
+ 1400 2234.44
+ 1500 700.81
+ 1600 272.51
+ 1700 124.38
+T(K) : Glass Conductivity (W/m/K):
+ 1100 70
+ 1200 70
+ 1300 70
+ 1400 70
+ 1500 70
+ 1600 70
+ 1700 70
+T(K) : Liquid Specific Heat (J/(kg K)):
+ 303 1000
+ 1473 1300
+WL(um) : Vol Absorp (1/cm):
+ 0.312 0.312
+ 4.994 4.994
+ 24.789 24.789
+T(K) : Cullet Specific Heat (J/(kg K)):
+ 303.15 1000
+ 1473.15 1300
+T(K) : Batch Specific Heat (J/(kg K)):
+ 303.15 1000
+ 1473.15 1300
+Charger Flow:
+ 4 18 24 0.0
+ 4 6 24  4 30 24 1
+ 1273 0 0 0 1 0
+ 303.15 4.43840413423895E+11 0.0011 0 0
+Exit pull rates
+ 56 14 6  56 24 16 1
+ 1
+Bubbler Flow:
+Electric Booster:
+END

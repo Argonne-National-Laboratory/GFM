@@ -1,0 +1,44 @@
+!Relaxation factors for equation loops
+0.6d0 ! general value 
+0.6d0 ! equation for fuel mass fraction                (check RunPlot for "Fuel" in gresid_xtra####c.plt file)
+0.6d0 ! equation for oxygen                            (check RunPlot for "O2" in gresid_xtra####c.plt file)
+0.2d0 ! equation for enthalpy                          (check RunPlot for "Enthalpy" gresid####c.plt file)
+0.6d0 ! equation for turbulent kinetic energy          (check RunPlot for "k" in gresid_xtra####c.plt file)
+0.6d0 ! equation for turbulent dissipation rate        (check RunPlot for "Epsilon" in gresid_xtra####c.plt file)
+0.6d0 ! equation for carbon dioxide                    (check RunPlot for "CO2" in gresid_xtra####c.plt file)
+0.6d0 ! equation for nitrogen                          (check RunPlot for "N2" in gresid_xtra####c.plt file)
+!Relaxation factors for certain variables
+0.7d0 ! general value 
+0.3d0 ! u momentum in x direction (pressure correction) 
+0.3d0 ! v momentum in y direction (pressure correction) 
+0.3d0 ! w momentum in z direction (pressure correction) 
+0.6d0 ! density
+0.6d0 ! reaction rate
+0.2d0 ! initial relaxation factor for surface heat flux 
+0.5d0 ! relaxation factor for minor species               (check RunPlot for all but last heading in mresid####c.plt file)
+0.2d0 ! relaxation factor for soot                        (check RunPlot for "Soot" in mresid####c.plt file)
+!Soot related relaxation factors and bounds
+0.3d0   ! relaxation factor for enthalpy source term
+0.3d0   ! relaxation factor for soot formation source term
+0.3d0   ! relaxation factor for soot oxidation source term
+0.3d0   ! soot calibration relaxation factor for soot formation adjustment
+0.8d0   ! soot calibration relaxation factor for soot formation adjustment when too much heat to melt
+4.0d-3  ! maximum allowed value of soot mass fraction
+0.0d0 ! minumum temperature [K] at which soot formation may occur 500.0d0
+0.0d0 ! minumum temperature [K] at which soot oxidation may occur 700.0d0
+!Number of sweeps in equation solver for specified items
+2 !  general value
+2 !  u momentum in x direction  (check RunPlot for "x-momentum" in gresid####c.plt file)
+2 !  v momentum in y direction  (check RunPlot for "y-momentum" in gresid####c.plt file)
+2 !  w momentum in z direction  (check RunPlot for "z-momentum" in gresid####c.plt file)
+6 !  pressure                   (check RunPlot for "Pressure" in gresid####c.plt file)
+5 !  pressure correction        
+3 !  fuel                       (check RunPlot for "Fuel" in gresid_xtra####c.plt file)
+3 !  co2                        (check RunPlot for "CO2" in gresid_xtra####c.plt file)
+8 ! enthalpy                   (check RunPlot for "Enthalpy" in gresid####c.plt file)
+2 !  turbulent kinectic energy  (check RunPlot for "k" in gresid_xtra####c.plt file)
+2 !  epsilon                    (check RunPlot for "Epsilon" in gresid_xtra####c.plt file)
+3 !  n2                         (check RunPlot for "N2" in gresid_xtra####c.plt file)
+3 !  o2                         (check RunPlot for "O2" in gresid_xtra####c.plt file)
+4 !  minor species              (check RunPlot for all but last heading in mresid####c.plt file)
+
